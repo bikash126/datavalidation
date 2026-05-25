@@ -1,0 +1,5847 @@
+[
+    {
+        "id": 531,
+        "name": "CT Freight Webapp - eAdaptor Next",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 738,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 20,
+        "totalLoggedHours": 31.25
+    },
+    {
+        "id": 529,
+        "name": "EBP-RFC 3446 Kapstream RFC1",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Budget Approval and Project Plan",
+        "planning": [
+            {
+                "id": 743,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 6,
+        "totalLoggedHours": 18.0
+    },
+    {
+        "id": 519,
+        "name": "EBP-PROTO 1467 OptiCoach Prototype",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Kick Off Workshop",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 518,
+        "name": "Opti coach",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 517,
+        "name": "EBP-ENT 4081 King River Outdoors Prototype",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe - Approved and Design Started",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 503,
+        "name": " Jackson Ranch RFC17",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 635,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 3,
+        "totalLoggedHours": 3.0
+    },
+    {
+        "id": 498,
+        "name": " St.Jude's RFC1 v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 621,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 1,
+        "totalLoggedHours": 3
+    },
+    {
+        "id": 497,
+        "name": " WUNA RFC10",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 793,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 84,
+        "totalLoggedHours": 205.94
+    },
+    {
+        "id": 489,
+        "name": "Castle and Things",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 608,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 5,
+        "totalLoggedHours": 3.0
+    },
+    {
+        "id": 484,
+        "name": "EBP-ENT 3694 DIY Tradie (Prototype)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 466,
+        "name": "EBP-ENT 4090 Isaac DevOps Audit",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 548,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 17,
+        "totalLoggedHours": 26.590000000000003
+    },
+    {
+        "id": 464,
+        "name": "CMS-RFC 3482 Bannister RFC10",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 546,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 456,
+        "name": "Double Guard App old",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Completed",
+        "planning": [
+            {
+                "id": 308,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 446,
+        "name": "EBP-CMS 2474 365mesh",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [],
+        "worklogsTotal": 7,
+        "totalLoggedHours": 16.17
+    },
+    {
+        "id": 444,
+        "name": "EBP-ENT 2756 Production Software",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 543,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 102,
+        "totalLoggedHours": 167.59999999999997
+    },
+    {
+        "id": 443,
+        "name": "EBP-CMS 2351 Africa Marketplace (Shopify Them",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 542,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 334,
+        "totalLoggedHours": 631.8
+    },
+    {
+        "id": 442,
+        "name": "EBP-CMS 2316 Bracton Group",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 541,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 46,
+        "totalLoggedHours": 51.599999999999994
+    },
+    {
+        "id": 441,
+        "name": "EBP-CMS 2590 Express Glass",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 540,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 187,
+        "totalLoggedHours": 337.5
+    },
+    {
+        "id": 440,
+        "name": "EBP-CMS 2205 Online Pharmacy Agency v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 539,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 484,
+        "totalLoggedHours": 1144.5000000000005
+    },
+    {
+        "id": 439,
+        "name": "EBP-CMS 1795 The Deep Blue",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 538,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 340,
+        "totalLoggedHours": 748.14
+    },
+    {
+        "id": 438,
+        "name": "EBP-ENT 2544 OORT RFC1 (App Landing Page)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 537,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 16,
+        "totalLoggedHours": 24.5
+    },
+    {
+        "id": 437,
+        "name": "EBP-CMS 1795 The Deep Blue",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 436,
+        "name": "EBP-CMS 2336 Black Jet Website v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 292,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 38,
+        "totalLoggedHours": 58.08
+    },
+    {
+        "id": 435,
+        "name": "EBP-ENT 3645 Homemaker Investment App",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 288,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 11,
+        "totalLoggedHours": 6.75
+    },
+    {
+        "id": 434,
+        "name": "EBP-CMS 2333 Robert Clerc",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 286,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 432,
+        "name": "EBP-ENT 2864 Quatt",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 536,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 764,
+        "totalLoggedHours": 1032.5499999999993
+    },
+    {
+        "id": 431,
+        "name": "EBP-CMS 2481 TDS Website without Woocommerce",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 535,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 150,
+        "totalLoggedHours": 287.2099999999999
+    },
+    {
+        "id": 430,
+        "name": "EBP-CMS 2475 Environmental Group Australia v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 534,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 256,
+        "totalLoggedHours": 375.63999999999993
+    },
+    {
+        "id": 429,
+        "name": "Prep10",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 285,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 277,
+        "totalLoggedHours": 677.18
+    },
+    {
+        "id": 428,
+        "name": "Rotech",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Completed",
+        "planning": [
+            {
+                "id": 533,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 21,
+        "totalLoggedHours": 37.5
+    },
+    {
+        "id": 427,
+        "name": "EBP-CMS 2533 Friends United v2 (Theme Based)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 282,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 113,
+        "totalLoggedHours": 127.75
+    },
+    {
+        "id": 426,
+        "name": "EBP-CMS 2571 Glide Online Travel Clinic",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 532,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 181,
+        "totalLoggedHours": 296.13
+    },
+    {
+        "id": 425,
+        "name": "EBP-CMS 2456 Australian Alkaloids Trading",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 531,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 132,
+        "totalLoggedHours": 167.76000000000002
+    },
+    {
+        "id": 424,
+        "name": "EBP-CMS 2395 Ferocious Feed v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 530,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 534,
+        "totalLoggedHours": 704.2899999999993
+    },
+    {
+        "id": 423,
+        "name": "EBP - CMS Howdy Website",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 275,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 91,
+        "totalLoggedHours": 98.08
+    },
+    {
+        "id": 422,
+        "name": "EBP-CMS 2211 ASENO",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 529,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 96,
+        "totalLoggedHours": 275.0
+    },
+    {
+        "id": 421,
+        "name": "EBP-CMS 2601 Exportia v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 528,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 212,
+        "totalLoggedHours": 344.56999999999994
+    },
+    {
+        "id": 420,
+        "name": "EBP-CMS 2479 Prismo Website",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 527,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 40,
+        "totalLoggedHours": 94.42
+    },
+    {
+        "id": 419,
+        "name": "EBP-CMS 2361 Double Guard (Templated Pages)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 271,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 111,
+        "totalLoggedHours": 199.54999999999998
+    },
+    {
+        "id": 418,
+        "name": "EBP-ENT 3178 Figrun v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 526,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 116,
+        "totalLoggedHours": 139.10000000000002
+    },
+    {
+        "id": 417,
+        "name": "EBP-CMS 2397 My Guardian",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 525,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 260,
+        "totalLoggedHours": 377.37000000000006
+    },
+    {
+        "id": 415,
+        "name": "EBP-CMS 2172 Power Sync",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 524,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 117,
+        "totalLoggedHours": 342.90999999999997
+    },
+    {
+        "id": 414,
+        "name": "EBP-CMS 2293 Aesthetic practitioner Platform",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 523,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 389,
+        "totalLoggedHours": 733.7600000000001
+    },
+    {
+        "id": 412,
+        "name": "EBP-CMS 2436 Wyer & Co",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 626,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 236,
+        "totalLoggedHours": 301.1300000000001
+    },
+    {
+        "id": 409,
+        "name": "EBP-CMS 2359 Aydin Co Picture Framing (Shopify Template) v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 521,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 47,
+        "totalLoggedHours": 77.26
+    },
+    {
+        "id": 408,
+        "name": "EBP-CMS 2329 Honey Pot Landing Page",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 520,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 18,
+        "totalLoggedHours": 39.41
+    },
+    {
+        "id": 407,
+        "name": "EBP-CMS 2120 Coerver",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 266,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 837,
+        "totalLoggedHours": 2025.5599999999993
+    },
+    {
+        "id": 406,
+        "name": "CMS-Talk Now Telehealth",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 264,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 126,
+        "totalLoggedHours": 152.31
+    },
+    {
+        "id": 404,
+        "name": "AG-CMS 1823 Safe Work",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 519,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 231,
+        "totalLoggedHours": 581.45
+    },
+    {
+        "id": 403,
+        "name": "EBP-ENT 3069 Exquisite Giveaways",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 518,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 76,
+        "totalLoggedHours": 139.42000000000002
+    },
+    {
+        "id": 402,
+        "name": "AG-CMS 1846 Metz Website",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Completed",
+        "planning": [
+            {
+                "id": 707,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 642,
+        "totalLoggedHours": 945.8499999999996
+    },
+    {
+        "id": 401,
+        "name": "EBP-CMS 2295 TrueCover",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 515,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 246,
+        "totalLoggedHours": 447.17
+    },
+    {
+        "id": 400,
+        "name": "AG-CMS 1773 Transference Healing",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 253,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 258,
+        "totalLoggedHours": 550.1800000000001
+    },
+    {
+        "id": 399,
+        "name": "EBP - CMS  Pogozo Website",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 254,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 186,
+        "totalLoggedHours": 344.6299999999998
+    },
+    {
+        "id": 398,
+        "name": "EBP-CMS 2260  You Choose Pets (Landing Page)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 514,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 152,
+        "totalLoggedHours": 291.34000000000003
+    },
+    {
+        "id": 397,
+        "name": "Kathford Project",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 513,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 468,
+        "totalLoggedHours": 898.76
+    },
+    {
+        "id": 396,
+        "name": "Bloomfield Care",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 512,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 154,
+        "totalLoggedHours": 243.91000000000005
+    },
+    {
+        "id": 395,
+        "name": "EBP-CMS 2388 Leora.ai v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 667,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 196,
+        "totalLoggedHours": 326.92
+    },
+    {
+        "id": 394,
+        "name": "EBP-CMS 2335 CommandAuto",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 510,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 366,
+        "totalLoggedHours": 459.9200000000001
+    },
+    {
+        "id": 393,
+        "name": "EBP-CMS 1878 Estraints",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 666,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 44,
+        "totalLoggedHours": 97.99000000000001
+    },
+    {
+        "id": 390,
+        "name": "EBP-CMS 2280 Lewis Hotels Group",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 508,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 328,
+        "totalLoggedHours": 512.6700000000001
+    },
+    {
+        "id": 388,
+        "name": "EBP-CMS 2253 Parras Hospitality Websites",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 252,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 386,
+        "name": "EBP-ENT 2922 Shrynk(Yooli)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 639,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 2070,
+        "totalLoggedHours": 4100.059999999999
+    },
+    {
+        "id": 385,
+        "name": "EBP-CMS 2334 Mothers Polish",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 506,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 313,
+        "totalLoggedHours": 488.3200000000001
+    },
+    {
+        "id": 384,
+        "name": "EBP-CMS 2331 The Art of Voice Australia",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 640,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 131,
+        "totalLoggedHours": 159.98000000000005
+    },
+    {
+        "id": 383,
+        "name": "CMS-RFC 2837 Sydney Collective (Website Trans",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 504,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 382,
+        "name": "EBP-ENT 2797 Reliable Driving School Code Audit",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 503,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 10,
+        "totalLoggedHours": 7.09
+    },
+    {
+        "id": 381,
+        "name": "EBP-CMS 2366 Skeiny v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 638,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 146,
+        "totalLoggedHours": 225.84999999999997
+    },
+    {
+        "id": 380,
+        "name": "EBP-CMS 2383 MotorOne (Phase 1)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 501,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 1274,
+        "totalLoggedHours": 1875.4799999999996
+    },
+    {
+        "id": 379,
+        "name": "EBP-CMS 2552 AFRIGAR",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 500,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 331,
+        "totalLoggedHours": 639.32
+    },
+    {
+        "id": 378,
+        "name": "EBP-CMS 2085 Will & Estate Planner - Branding",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 669,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 375,
+        "name": "EBP-CMS 2041 Muzikboxx WordPress",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 620,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 814,
+        "totalLoggedHours": 1653.440000000003
+    },
+    {
+        "id": 374,
+        "name": "Club Culture Australia",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 497,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 4,
+        "totalLoggedHours": 28
+    },
+    {
+        "id": 373,
+        "name": "EBP-CMS 2468 BAHAH Landing Page",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 496,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 50,
+        "totalLoggedHours": 51.95
+    },
+    {
+        "id": 371,
+        "name": "EBP-CMS 1851 Achieved Music",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 495,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 71,
+        "totalLoggedHours": 223.43
+    },
+    {
+        "id": 370,
+        "name": "EBP-STAFF 1436 Indigenous Futures Foundation - Staff Lease",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 302,
+                "status": "inactive",
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 21,
+        "totalLoggedHours": 32.0
+    },
+    {
+        "id": 369,
+        "name": "EBP-ENT 3558 PawPal",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 494,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 83,
+        "totalLoggedHours": 77.39
+    },
+    {
+        "id": 368,
+        "name": "EBP-ENT 3521 School Stream - Code Audit",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 493,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 23,
+        "totalLoggedHours": 85.75
+    },
+    {
+        "id": 367,
+        "name": "EBP-CMS 2474 365mesh",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 492,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 248,
+        "totalLoggedHours": 358.8100000000003
+    },
+    {
+        "id": 366,
+        "name": "EBP-CMS 2535 Pure Oz Shopify Template",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 491,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 43,
+        "totalLoggedHours": 56.13000000000001
+    },
+    {
+        "id": 365,
+        "name": "Communication Spectrum/ My Comms Website",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 585,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 102,
+        "totalLoggedHours": 132.70999999999998
+    },
+    {
+        "id": 363,
+        "name": "EBP-CMS 2513 EL Toro v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 489,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 488,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 83,
+        "totalLoggedHours": 94.78
+    },
+    {
+        "id": 362,
+        "name": "EBP-CMS 2540 Di Nuovo",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 487,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 49,
+        "totalLoggedHours": 63.04
+    },
+    {
+        "id": 361,
+        "name": "EBP-CMS 2473 Flip Pay (Website)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 486,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 143,
+        "totalLoggedHours": 229.49
+    },
+    {
+        "id": 360,
+        "name": "EBP-ENT 3224 TopTeacher Code Audit",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 218,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 344,
+        "totalLoggedHours": 719.2599999999999
+    },
+    {
+        "id": 359,
+        "name": "EBP-ENT 2685 Peacock Pages",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 216,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 1426,
+        "totalLoggedHours": 2301.749999999999
+    },
+    {
+        "id": 357,
+        "name": "EBP-ENT 3084 Launch Pro (Legal Project)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 485,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 83,
+        "totalLoggedHours": 132.25
+    },
+    {
+        "id": 356,
+        "name": "Meta Health",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 484,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 212,
+        "totalLoggedHours": 511.0
+    },
+    {
+        "id": 355,
+        "name": "EBP-CMS 2529 Leora Health",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 483,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 186,
+        "totalLoggedHours": 407.92
+    },
+    {
+        "id": 354,
+        "name": "EBP-CMS 2568 TrendTrade - Wordpress",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 482,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 353,
+        "name": "AG-CMS 1817 Early Trade",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 481,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 120,
+        "totalLoggedHours": 277.26
+    },
+    {
+        "id": 352,
+        "name": "EBP-ENT 1999 Intro v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 480,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 5034,
+        "totalLoggedHours": 15632.339999999998
+    },
+    {
+        "id": 351,
+        "name": "AG-CMS 695 - Medecins Sans Frontieres_Doctors",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 479,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 6,
+        "totalLoggedHours": 12.5
+    },
+    {
+        "id": 350,
+        "name": "EBP-ENT 2630 Megacash v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 478,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 3208,
+        "totalLoggedHours": 6360.89
+    },
+    {
+        "id": 349,
+        "name": "EBP-CMS 622 - Gallery Funaki",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 477,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 370,
+        "totalLoggedHours": 663.3799999999999
+    },
+    {
+        "id": 348,
+        "name": "EBP-CMS 129 - Peds Industrial",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 476,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 449,
+        "totalLoggedHours": 1085.7600000000002
+    },
+    {
+        "id": 347,
+        "name": "EBP-CMS 2542 Kris and Li Cleaning Services",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 475,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 100,
+        "totalLoggedHours": 139.59
+    },
+    {
+        "id": 346,
+        "name": "EBP-CMS 2262 Wine Warehouse v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 200,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 174,
+        "totalLoggedHours": 314.58
+    },
+    {
+        "id": 345,
+        "name": "EBP-ENT 2989 Travel App",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 474,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 201,
+        "totalLoggedHours": 262.7699999999999
+    },
+    {
+        "id": 344,
+        "name": "EBP-ENT 2035 Will & Estate Planner",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 473,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 92,
+        "totalLoggedHours": 237.0
+    },
+    {
+        "id": 343,
+        "name": "EBP-ENT 2276 Real Estate App Branding",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 472,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 34,
+        "totalLoggedHours": 95.08
+    },
+    {
+        "id": 342,
+        "name": "EBP-CMS 2223 Owner Inspections v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 471,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 214,
+        "totalLoggedHours": 417.51
+    },
+    {
+        "id": 341,
+        "name": "EBP-CMS 272 - Mondiale VGL",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Completed",
+        "planning": [
+            {
+                "id": 670,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 656,
+                "status": "inactive",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 561,
+        "totalLoggedHours": 947.6799999999993
+    },
+    {
+        "id": 340,
+        "name": "EBP-CMS 2286 Dosatron v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 469,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 332,
+        "totalLoggedHours": 579.3100000000001
+    },
+    {
+        "id": 339,
+        "name": "EBP-CMS 2189 Flow Leaders",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 468,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 338,
+        "name": "EBP-CMS 278 - Sydney Plumbing",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 467,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 84,
+        "totalLoggedHours": 192.42000000000002
+    },
+    {
+        "id": 337,
+        "name": "EBP-CMS 2251 Dickies Transportation",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 466,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 10,
+        "totalLoggedHours": 20.5
+    },
+    {
+        "id": 336,
+        "name": "EBP-ENT 3131 AnyFind Code Audit",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 191,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 9,
+        "totalLoggedHours": 30.25
+    },
+    {
+        "id": 335,
+        "name": "EBP-CMS 2220  Pest Control Specialists v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 465,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 144,
+        "totalLoggedHours": 227.34
+    },
+    {
+        "id": 334,
+        "name": "AG-CMS 1799 ACRF",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 464,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 333,
+        "name": "AG-CMS 1818 Trickstar",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 463,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 164,
+        "totalLoggedHours": 373.51
+    },
+    {
+        "id": 332,
+        "name": "EBP-CMS 2564 Yakkly (Wordpress)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 462,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 460,
+        "totalLoggedHours": 894.6999999999996
+    },
+    {
+        "id": 331,
+        "name": "EBP-CMS 2114 - Head On",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 461,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 949,
+        "totalLoggedHours": 2953.800000000002
+    },
+    {
+        "id": 330,
+        "name": "EBP-ENT 2318 GRC Institute Membership Portal",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 460,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 1968,
+        "totalLoggedHours": 4314.999999999998
+    },
+    {
+        "id": 329,
+        "name": "EBP-ENT 2539 EML v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 459,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 1299,
+        "totalLoggedHours": 2431.9400000000005
+    },
+    {
+        "id": 328,
+        "name": "EBP-ENT 3237 Activfy Code Audit",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 458,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 23,
+        "totalLoggedHours": 96.17
+    },
+    {
+        "id": 327,
+        "name": "EBP-CMS 2276 EzyCharge",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 457,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 36,
+        "totalLoggedHours": 41.33
+    },
+    {
+        "id": 326,
+        "name": "EBP-ENT 2318 GRC Institute Membership Portal",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 323,
+        "name": "EBP-CMS 2538 CT Freight - Landing Page",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 456,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 24,
+        "totalLoggedHours": 49.6
+    },
+    {
+        "id": 322,
+        "name": "EBP-ENT 1868 Exportia",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 455,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 272,
+        "totalLoggedHours": 1061.49
+    },
+    {
+        "id": 321,
+        "name": "EBP-CMS 2288 Asteri Mason v3",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 454,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 207,
+        "totalLoggedHours": 318.4499999999998
+    },
+    {
+        "id": 320,
+        "name": "EBP-CMS 2146 Babylonchain",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 453,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 193,
+        "totalLoggedHours": 365.99000000000007
+    },
+    {
+        "id": 319,
+        "name": "EBP-ENT 2195 NSW Child Protection App",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Completed",
+        "planning": [
+            {
+                "id": 452,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 396,
+        "totalLoggedHours": 862.25
+    },
+    {
+        "id": 318,
+        "name": "EBP-CMS 2019 Bendooley Estate",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 451,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 6,
+        "totalLoggedHours": 7.5
+    },
+    {
+        "id": 317,
+        "name": "EBP-CMS 2661 JLI Computers Shopify Theme",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 168,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 19,
+        "totalLoggedHours": 21.25
+    },
+    {
+        "id": 316,
+        "name": "EBP-ENT 2992 Howdy",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 780,
+                "status": "active",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 2232,
+        "totalLoggedHours": 4628.179999999999
+    },
+    {
+        "id": 315,
+        "name": "EBP-ENT 1905 V-Insurance",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 449,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 493,
+        "totalLoggedHours": 1420.12
+    },
+    {
+        "id": 314,
+        "name": "EBP-ENT 2583 Honeypot",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 448,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 2752,
+        "totalLoggedHours": 5344.070000000001
+    },
+    {
+        "id": 313,
+        "name": "EBP-ENT 2042 Australian Community Media v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Completed",
+        "planning": [
+            {
+                "id": 447,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 5679,
+        "totalLoggedHours": 18743.079999999998
+    },
+    {
+        "id": 312,
+        "name": "EBP-ENT 2175 Gigsta",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 446,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 206,
+        "totalLoggedHours": 516.92
+    },
+    {
+        "id": 311,
+        "name": "AG-CMS 1813 Fasta Pasta",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 445,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 59,
+        "totalLoggedHours": 162.17000000000002
+    },
+    {
+        "id": 310,
+        "name": "EBP-ENT 2378 StoryBook App",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 444,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 70,
+        "totalLoggedHours": 137.49
+    },
+    {
+        "id": 308,
+        "name": "EBP-ENT 2294 Specialist Protection Group (Android)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 443,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 2567,
+        "totalLoggedHours": 7662.949999999999
+    },
+    {
+        "id": 307,
+        "name": "EBP-ENT 2140 One Wear Only Hire",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 442,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 1219,
+        "totalLoggedHours": 4557.780000000001
+    },
+    {
+        "id": 305,
+        "name": "DevOps",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 153,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 290,
+        "name": "EBP-CMS 3484 Massage Booker",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe - Approved and Design Started",
+        "planning": [
+            {
+                "id": 791,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 2165,
+        "totalLoggedHours": 3543.7200000000003
+    },
+    {
+        "id": 288,
+        "name": "CMS-RFC 3384 EL Toro v2 RFC1",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 1,
+        "totalLoggedHours": 3
+    },
+    {
+        "id": 287,
+        "name": "CMS-RFC 3381 AWN.net RFC28",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 286,
+        "name": "EBP-ENT 3735 Worker's AI Prototype",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 284,
+        "name": "EBP-CMS 2637 Zalane Balance Bike",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 439,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 55,
+        "totalLoggedHours": 37.43000000000001
+    },
+    {
+        "id": 283,
+        "name": "EBP-ENT 3799 Australian Campdraft Association (Wordpress) v3 - POC",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 183,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 115,
+        "totalLoggedHours": 130.67
+    },
+    {
+        "id": 281,
+        "name": "EBP-STAFF 1422 Claros (Staff Leasing)- Andrew Gildea",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 686,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            },
+            {
+                "id": 685,
+                "status": "inactive",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            },
+            {
+                "id": 617,
+                "status": "inactive",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 277,
+        "name": "AG-CMS 1877  I Code School",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 258,
+        "name": "EBP-CMS 2621 Chairforce v4",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 437,
+                "status": "active",
+                "planningStatus": "Consider",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 758,
+        "totalLoggedHours": 873.0899999999998
+    },
+    {
+        "id": 256,
+        "name": "EBP-CMS 2362 Firex v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 435,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 1346,
+        "totalLoggedHours": 2233.9100000000003
+    },
+    {
+        "id": 254,
+        "name": "EBP-STAFF 643 - Farm Service Management",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 119,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 5137,
+        "totalLoggedHours": 13288.11
+    },
+    {
+        "id": 243,
+        "name": "EBP-ENT 3396 YCP (maintenance)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 209,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 108,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 706,
+        "totalLoggedHours": 1847.0
+    },
+    {
+        "id": 241,
+        "name": "EBP-ENT 1924 All Pumps App",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 433,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 922,
+        "totalLoggedHours": 2967.3099999999995
+    },
+    {
+        "id": 236,
+        "name": "EBP-ENT 2432 ARTIS Code Audit",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 172,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 451,
+        "totalLoggedHours": 1875.25
+    },
+    {
+        "id": 230,
+        "name": "EBP-ENT 3707 Shedule AI MVP",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 92,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 348,
+        "totalLoggedHours": 545.74
+    },
+    {
+        "id": 227,
+        "name": "Rotech - Maintenance Project",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Completed",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 225,
+        "name": "CMS-RFC 3479 White Bow Gift Registry RFC13",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 432,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 224,
+        "name": "Personhood",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 80,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 223,
+        "name": "Bahah - Support",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Completed",
+        "planning": [
+            {
+                "id": 431,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 77,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 3499,
+        "totalLoggedHours": 7309.789999999999
+    },
+    {
+        "id": 220,
+        "name": "EBP-ENT 2304 Freight Search",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Completed",
+        "planning": [
+            {
+                "id": 429,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            },
+            {
+                "id": 430,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 2042,
+        "totalLoggedHours": 3645.99
+    },
+    {
+        "id": 215,
+        "name": "EBP-STAFF 1451 Coposit Staff Leasing",
+        "isArchive": false,
+        "projecType": "LEASE",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 67,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 226,
+        "totalLoggedHours": 1632.42
+    },
+    {
+        "id": 211,
+        "name": "EBP-ENT 471 - Real Estate App (APBR)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 367,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            },
+            {
+                "id": 117,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 4775,
+        "totalLoggedHours": 9035.369999999999
+    },
+    {
+        "id": 210,
+        "name": "EBP-CMS 2675 Pro Invest Website v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 769,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 200,
+        "totalLoggedHours": 350.27000000000004
+    },
+    {
+        "id": 209,
+        "name": "Crews",
+        "isArchive": false,
+        "projecType": "LEASE",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 200,
+        "name": "EBP-ENT 4001 Brigade (Prototype)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe",
+        "planning": [
+            {
+                "id": 321,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 77,
+        "totalLoggedHours": 137.88
+    },
+    {
+        "id": 199,
+        "name": "CMS-RFC 3475 Rotech - RFC25 v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 575,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 33,
+        "totalLoggedHours": 39.0
+    },
+    {
+        "id": 192,
+        "name": "CMS-RFC 3471 Convey Online  RFC14",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 559,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": true,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 22,
+        "totalLoggedHours": 37.0
+    },
+    {
+        "id": 191,
+        "name": "CMS-RFC 3470 White Bow Gift Registry RFC12",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 562,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 189,
+        "name": "EBP-ENT 3695 Quantify Wellness MVP v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Terminated",
+        "status": "Budget Approval and Project Plan",
+        "planning": [
+            {
+                "id": 27,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 67,
+        "totalLoggedHours": 161.01999999999998
+    },
+    {
+        "id": 182,
+        "name": "EBP-ENT 3709 MGI Code Audit",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 386,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": true,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 171,
+        "totalLoggedHours": 341.67
+    },
+    {
+        "id": 181,
+        "name": "EBP-ENT 3961 SPS Facilities Code Audit",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 313,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 47,
+        "totalLoggedHours": 128.56
+    },
+    {
+        "id": 179,
+        "name": "CMS-RFC 3467 Mondiale VGL RFC6",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 595,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 17,
+        "totalLoggedHours": 27.75
+    },
+    {
+        "id": 176,
+        "name": "EBP-ENT 2724 GapMash Code Audit",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 13,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 1056,
+        "totalLoggedHours": 1732.85
+    },
+    {
+        "id": 173,
+        "name": "EBP-ENT 4020 Baztel Code Audit",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 568,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 418,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 178,
+        "totalLoggedHours": 429.12
+    },
+    {
+        "id": 172,
+        "name": "EBP-ENT 3544 Stratus Smart Software",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 170,
+        "name": "EBP-ENT 3339 Caroo RFC57 (Webapp MVP)",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 416,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            },
+            {
+                "id": 149,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 1157,
+        "totalLoggedHours": 2005.17
+    },
+    {
+        "id": 169,
+        "name": "Caroo Maintenace",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 110,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 167,
+        "name": "CMS-RFC 3462 Friends United v2 (Theme Based) RFC2 v3",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 9,
+                "status": "inactive",
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 162,
+        "name": "CMS-RFC 3460 Wyer & Co RFC4",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 159,
+        "name": "EBP-STAFF 1452 WUNA - Staff Leasing",
+        "isArchive": false,
+        "projecType": "LEASE",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 331,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 36,
+        "totalLoggedHours": 64.75
+    },
+    {
+        "id": 136,
+        "name": "CMS-RFC 3446 365mesh RFC4",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 132,
+        "name": "EBP-ENT 3683 Stockman's Wallet",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Budget Approval and Project Plan",
+        "planning": [
+            {
+                "id": 8,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 602,
+        "totalLoggedHours": 988.1800000000002
+    },
+    {
+        "id": 128,
+        "name": "ENT-RFC 1823 Metahealth RFC1",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 126,
+        "name": "CMS-RFC 3445 Quantify Wellness Landing Page RFC2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 125,
+        "name": "EBP-ENT 3491MeetDelete Prototype",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 115,
+        "name": "EBP-ENT 3544 Stratus Smart Software Solutions",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 412,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 138,
+        "totalLoggedHours": 234.59000000000006
+    },
+    {
+        "id": 112,
+        "name": "EBP-ENT 3617 Top Teacher - Webapp v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Live/30-day Support",
+        "planning": [
+            {
+                "id": 408,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 409,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 407,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 3472,
+        "totalLoggedHours": 7638.65
+    },
+    {
+        "id": 110,
+        "name": "EBP-ENT 3468 Communication Spectrum MVP",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 406,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 2326,
+        "totalLoggedHours": 3575.4599999999996
+    },
+    {
+        "id": 102,
+        "name": "Smart Mobile App Development with Agile Resource Augmentation",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 63,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 92,
+        "name": "EBP-CMS 2636 Metalia Studios",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Suspended",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 401,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 40,
+        "totalLoggedHours": 29.83
+    },
+    {
+        "id": 91,
+        "name": "EBP-CMS 2639 Quantify Wellness Landing Page",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 400,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 71,
+        "totalLoggedHours": 103.01
+    },
+    {
+        "id": 90,
+        "name": "EBP-CMS 2607 Bendooley Estate v4",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 701,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 700,
+                "status": "inactive",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 517,
+        "totalLoggedHours": 757.3499999999997
+    },
+    {
+        "id": 85,
+        "name": "EBP-ENT 3453 WUNA - Code Audit",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Beta Release",
+        "planning": [
+            {
+                "id": 160,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 627,
+        "totalLoggedHours": 1525.08
+    },
+    {
+        "id": 82,
+        "name": "EBP-CMS 2634 Queensland Compassionate Services",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 578,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 832,
+        "totalLoggedHours": 1162.33
+    },
+    {
+        "id": 75,
+        "name": "EBP-STAFF 1359 Doubleguard Staff Leasing",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 69,
+        "name": "EBP-ENT 3098 Allied Health Directory",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 397,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 84,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 1498,
+        "totalLoggedHours": 2499.4800000000005
+    },
+    {
+        "id": 58,
+        "name": "EBP-ENT 3281 VinoBid (Supabase)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Beta Release",
+        "planning": [
+            {
+                "id": 395,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 5485,
+        "totalLoggedHours": 8432.050000000005
+    },
+    {
+        "id": 57,
+        "name": "EBP-ENT 3500 Beauty Grail WebApp",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Live/30-day Support",
+        "planning": [
+            {
+                "id": 394,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 365,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 3989,
+        "totalLoggedHours": 7381.259999999999
+    },
+    {
+        "id": 51,
+        "name": "EBP-CMS 2635 Seymours Group",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 392,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 215,
+        "totalLoggedHours": 186.16000000000003
+    },
+    {
+        "id": 46,
+        "name": "CMS-RFC 3439 Voiceless RFC10",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 42,
+        "name": "ENT-RFC 1901 Adventure Shuffle - RFC 1",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 30,
+        "name": "CMS-RFC 3427 EBP-CMS 2639 Quantify Wellness Landing Page RFC1",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 25,
+        "name": "ENT-RFC 1910 Property Dollar Gamification Prototype RFC1",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 14,
+        "name": "EBP-ENT 3841 Coposit Penetration Testing Report",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 13,
+        "name": "CMS-RFC 3416 OutcomeX RFC24",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 12,
+        "name": "CMS-RFC 3415 Blue Spinach RFC25",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 11,
+        "name": "EBP-ENT 3672 Nimbus Receipt Prototype",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 46,
+        "totalLoggedHours": 48.91
+    },
+    {
+        "id": 10,
+        "name": "EBP-ENT 3834 Dating App Code Audit v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 391,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 129,
+        "totalLoggedHours": 469.75
+    },
+    {
+        "id": 4,
+        "name": "EBP-ENT 3825 Air Run Prototype",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 2,
+        "name": "ENT-RFC 1896 Copost Pen testing",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 555,
+        "name": "Gapmash Maintenance",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 814,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 554,
+        "name": "MGI Maintenance",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 813,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 553,
+        "name": "Freight Search Maintenance",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 812,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 552,
+        "name": "Communication Spectrum Maintenance",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 811,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 550,
+        "name": "EBP-ENT 3345 Countdown V2 V2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 804,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 1428,
+        "totalLoggedHours": 2381.5199999999995
+    },
+    {
+        "id": 549,
+        "name": "EBP-RFC 3460 Coach Merv RFC1 SRS",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 547,
+        "name": "Personhood - Maintenance",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 801,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 546,
+        "name": "Top Teacher - Webapp v2 - Maintenance",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 800,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 544,
+        "name": "CT Freight - Client Portal (Webapp Only) - Maintenance",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 798,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 543,
+        "name": "Howdy Maintenance",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 777,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 541,
+        "name": "EBP-ENT 4211  Jon Lim Revised MVP",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Kick Off Workshop",
+        "planning": [
+            {
+                "id": 775,
+                "status": "active",
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 540,
+        "name": "EBP-ENT 4193 Zenu - Pro-invest Stays Pty Ltd",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 806,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 539,
+        "name": "EBP-RFC 3458 To Be Me - RFC3 (Translation & Localisation)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 536,
+        "name": "ENT-RFC 2056 Top Teacher RFC12",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Budget Approval and Project Plan",
+        "planning": [
+            {
+                "id": 794,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 55,
+        "totalLoggedHours": 76.0
+    },
+    {
+        "id": 535,
+        "name": "EBP-RFC 3473 Bendooleyestate RFC4",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Budget Approval and Project Plan",
+        "planning": [
+            {
+                "id": 770,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 8,
+        "totalLoggedHours": 9.0
+    },
+    {
+        "id": 534,
+        "name": "EBP-CMS 2699 Salima",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 796,
+                "status": "active",
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 533,
+        "name": "Tom Swan",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Kick Off Workshop",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 532,
+        "name": "My Leather Doctor - RFC 4 (Resolving Email Storage Limitations)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 763,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 3,
+        "totalLoggedHours": 3
+    },
+    {
+        "id": 530,
+        "name": "Wedmuse (vibe Coded + Custom Coded) MVP",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe",
+        "planning": [
+            {
+                "id": 816,
+                "status": "active",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 528,
+        "name": "EBP-ENT 4181 Bikemebro",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Kick Off Workshop",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 527,
+        "name": "EBP-ENT 4180 Nimbus Receipt MVPv2.1",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Kick Off Workshop",
+        "planning": [
+            {
+                "id": 751,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 744,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 526,
+        "name": "EBP-ENT 4174 Strategy 1 HR Staff Leasing",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Kick Off Workshop",
+        "planning": [
+            {
+                "id": 750,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 525,
+        "name": "EBP-ENT 3793 A&S Australian Investment - Web App",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 524,
+        "name": "ACM RFC - Braze Integration",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 761,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 760,
+                "status": "inactive",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 759,
+                "status": "inactive",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 27,
+        "totalLoggedHours": 59.0
+    },
+    {
+        "id": 522,
+        "name": "EBP-ENT 4020 Baztel Code Audit (Phase 2)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 802,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 711,
+                "status": "inactive",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 1,
+        "totalLoggedHours": 4.75
+    },
+    {
+        "id": 521,
+        "name": "AI Workflow",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Kick Off Workshop",
+        "planning": [
+            {
+                "id": 675,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 248,
+        "totalLoggedHours": 797.25
+    },
+    {
+        "id": 520,
+        "name": "EBP-ENT Howdy RFC",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Budget Approval and Project Plan",
+        "planning": [
+            {
+                "id": 714,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 104,
+        "totalLoggedHours": 205.0
+    },
+    {
+        "id": 516,
+        "name": "EBP-CMS 2692 MyComms Website Refresh",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe - Approved and Design Started",
+        "planning": [
+            {
+                "id": 708,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 514,
+        "name": "EBP-ENT 4150 Mate Money",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe - Approved and Design Started",
+        "planning": [
+            {
+                "id": 718,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 513,
+        "name": "Inferent Analyst",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe - Approved and Design Started",
+        "planning": [
+            {
+                "id": 671,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 501,
+        "name": "EBP-PROTO 1464 Ampd Prototype",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe - Approved and Design Started",
+        "planning": [
+            {
+                "id": 687,
+                "status": "inactive",
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 488,
+        "name": "Workforce Tool",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": null,
+        "status": "initiating",
+        "planning": [
+            {
+                "id": 577,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 360,
+        "totalLoggedHours": 620.1399999999999
+    },
+    {
+        "id": 485,
+        "name": "RelloPay CRM",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 731,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 454,
+        "totalLoggedHours": 898.2799999999999
+    },
+    {
+        "id": 483,
+        "name": "Squad Lead Task",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": null,
+        "status": "initiating",
+        "planning": [
+            {
+                "id": 388,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 482,
+        "name": "SEST",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 385,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 481,
+        "name": "EBP-STAFF 1481 Stockman's Wallet Staff Leasing Proposal V4",
+        "isArchive": false,
+        "projecType": "LEASE",
+        "developmentStatus": "Terminated",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 552,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 480,
+        "name": "Glucose Management Software (REGAS) New",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Live/30-day Support",
+        "planning": [
+            {
+                "id": 651,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 64,
+        "totalLoggedHours": 127.25
+    },
+    {
+        "id": 479,
+        "name": "ENT-RFC 2055 Isaac Server Restructuring RFC",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 580,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 56,
+        "totalLoggedHours": 125.17
+    },
+    {
+        "id": 476,
+        "name": "EBP-ENT 3753 FlyBright v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Design - Approved and SRS Initiated",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 469,
+        "name": "Ebtheme",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 357,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 462,
+        "name": "EBP-STAFF 1469 DDEG ERP Staff Leasing",
+        "isArchive": false,
+        "projecType": "LEASE",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 352,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 2949,
+        "totalLoggedHours": 4710.429999999999
+    },
+    {
+        "id": 461,
+        "name": "IT Internals",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 349,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 2935,
+        "totalLoggedHours": 3013.800000000001
+    },
+    {
+        "id": 459,
+        "name": "EB Pearls - Hubspot Website",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 817,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 387,
+        "totalLoggedHours": 1188.33
+    },
+    {
+        "id": 457,
+        "name": "EBP-ENT 3930 Peoples Voice",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "On Client Hold",
+        "status": "Wireframe",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 453,
+        "name": "EBP-STAFF 1471 Shedule AI (Nisha) - Staff Leasing Proposal",
+        "isArchive": false,
+        "projecType": "LEASE",
+        "developmentStatus": "Active",
+        "status": "Budget Approval and Project Plan",
+        "planning": [
+            {
+                "id": 544,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 871,
+        "totalLoggedHours": 1876.7799999999997
+    },
+    {
+        "id": 364,
+        "name": "PeopleOps Goal",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 222,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 3369,
+        "totalLoggedHours": 5117.049999999999
+    },
+    {
+        "id": 303,
+        "name": "EBP-ENT 4078 AgentSwipe MVP",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Design - Approved and SRS Initiated",
+        "planning": [
+            {
+                "id": 309,
+                "status": "active",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 139,
+        "totalLoggedHours": 211.56000000000006
+    },
+    {
+        "id": 300,
+        "name": "EBP-ENT 4063 Beare Flooring Prototype",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "On Client Hold",
+        "status": "Wireframe",
+        "planning": [
+            {
+                "id": 320,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 9,
+        "totalLoggedHours": 12.42
+    },
+    {
+        "id": 295,
+        "name": "Research and Learning not needed",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 294,
+        "name": "Research and Learning New",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 143,
+                "status": "active",
+                "planningStatus": "Review",
+                "resourceApproved": false,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 293,
+        "name": "QA OKR Goal Task",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 142,
+                "status": "active",
+                "planningStatus": "Review",
+                "resourceApproved": false,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 274,
+        "name": "OKR Goal",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": null,
+        "status": "initiating",
+        "planning": [
+            {
+                "id": 384,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 270,
+        "name": "Senior QA Role",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 139,
+                "status": "active",
+                "planningStatus": "Review",
+                "resourceApproved": false,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 269,
+        "name": "Lead and Support",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 134,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 263,
+        "name": "EBP-ENT 4051 Workmate App Prototype",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "On Client Hold",
+        "status": "Wireframe - Approved and Design Started",
+        "planning": [
+            {
+                "id": 324,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 262,
+        "name": "Starter Kit v5",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe",
+        "planning": [
+            {
+                "id": 618,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 108,
+        "totalLoggedHours": 233.75
+    },
+    {
+        "id": 259,
+        "name": "EBP-ENT 3693 CBMFG Prototype",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe",
+        "planning": [
+            {
+                "id": 122,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 79,
+        "totalLoggedHours": 197.15
+    },
+    {
+        "id": 257,
+        "name": "EBP-CMS 2403 Blkdot Client Portal",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "On Client Hold",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 436,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 546,
+        "totalLoggedHours": 857.7399999999999
+    },
+    {
+        "id": 255,
+        "name": "Miscellaneous Hours",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": null,
+        "status": "initiating",
+        "planning": [
+            {
+                "id": 118,
+                "status": "active",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 73505,
+        "totalLoggedHours": 25891.490000000045
+    },
+    {
+        "id": 253,
+        "name": "CMS Maintenance",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 114,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 248,
+        "name": "Honey Pot Mobile App",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 112,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 245,
+        "name": "CT Freight (QC App) maintenance",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 111,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 242,
+        "name": "ENT-RFC 1804 Cordouan Health RFC2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 434,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 401,
+        "totalLoggedHours": 927.74
+    },
+    {
+        "id": 238,
+        "name": "Cordouan Health ( Maintenance )",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 102,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 237,
+        "name": "All Pumps ( Maintenance)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 101,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 234,
+        "name": "Portal",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 762,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 232,
+        "name": "Ebplanner",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 95,
+                "status": "active",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 2531,
+        "totalLoggedHours": 4373.970000000001
+    },
+    {
+        "id": 221,
+        "name": "One Wardrobe",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 75,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": false,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 17,
+        "totalLoggedHours": 49.5
+    },
+    {
+        "id": 217,
+        "name": "EBP-ENT 3922 Mustr Racing MVP v3",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Suspended",
+        "status": "Wireframe - Approved and Design Started",
+        "planning": [
+            {
+                "id": 348,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 216,
+        "name": "EBP-ENT 3785 Stay Upright Mobile App",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe - Approved and Design Started",
+        "planning": [
+            {
+                "id": 746,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": true,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 2002,
+        "totalLoggedHours": 3707.2599999999984
+    },
+    {
+        "id": 213,
+        "name": "EBP-ENT 4025 Coach Merv Prototype",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe - Approved and Design Started",
+        "planning": [
+            {
+                "id": 120,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 203,
+        "name": "EBP-ENT 2394 MYBOS v2",
+        "isArchive": false,
+        "projecType": "LEASE",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 58,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 202,
+        "name": "EBP-ENT 4007 ToBeMe (Mobile and Webapp) - Tom",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Budget Approval and Project Plan",
+        "planning": [
+            {
+                "id": 781,
+                "status": "inactive",
+                "planningStatus": "Consider",
+                "resourceApproved": true,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 198,
+        "name": "CMS-RFC 3472 Estraints RFC11",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 593,
+                "status": "active",
+                "planningStatus": "Review",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 366,
+        "totalLoggedHours": 944.06
+    },
+    {
+        "id": 193,
+        "name": "EBP-ENT 3014 Glucose Management Software",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 316,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 2222,
+        "totalLoggedHours": 3368.750000000003
+    },
+    {
+        "id": 185,
+        "name": "EBP-ENT 3679 Telehealth App v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe",
+        "planning": [
+            {
+                "id": 17,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": false,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 242,
+        "totalLoggedHours": 483.18000000000006
+    },
+    {
+        "id": 180,
+        "name": "EBP-ENT 4000 Australian Campdraft Association (Wordpress) Full Development v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 748,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 1901,
+        "totalLoggedHours": 3253.11
+    },
+    {
+        "id": 174,
+        "name": "EBP-ENT 4012 Parent Hub",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Budget Approval and Project Plan",
+        "planning": [
+            {
+                "id": 322,
+                "status": "inactive",
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 60,
+                "status": "active",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 96,
+        "totalLoggedHours": 195.9
+    },
+    {
+        "id": 166,
+        "name": "EBP-ENT 4006 Syncra v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe",
+        "planning": [
+            {
+                "id": 65,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 6,
+        "totalLoggedHours": 9.75
+    },
+    {
+        "id": 160,
+        "name": "EBP-ENT 3999 EFS Prototype",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "On Client Hold",
+        "status": "Wireframe",
+        "planning": [
+            {
+                "id": 103,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 157,
+        "name": "EBP-STAFF 1462 EFS Staff Leasing",
+        "isArchive": false,
+        "projecType": "LEASE",
+        "developmentStatus": "Active",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 570,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": false,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 153,
+        "name": "EBP-STAFF 1461 DDEG Staff Leasing",
+        "isArchive": false,
+        "projecType": "LEASE",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 415,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 1021,
+        "totalLoggedHours": 2319.09
+    },
+    {
+        "id": 148,
+        "name": "EBP-ENT 3993 My Leather Doctor Code Audit (Phase 1)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 625,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": true,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 70,
+        "totalLoggedHours": 294.74
+    },
+    {
+        "id": 147,
+        "name": "CMS-RFC 3435 Ellar Boutique API",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Terminated",
+        "status": "Budget Approval and Project Plan",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 143,
+        "name": "EBP-ENT 3963 Associated Cleaning App",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 734,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 871,
+        "totalLoggedHours": 1107.000000000001
+    },
+    {
+        "id": 141,
+        "name": "EBP-CMS 2655 Wingspan - Theme Based",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Wireframe",
+        "planning": [
+            {
+                "id": 310,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 20,
+        "totalLoggedHours": 28.5
+    },
+    {
+        "id": 138,
+        "name": "EBP-ENT 3918 KKW Trucks",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "On Client Hold",
+        "status": "Wireframe",
+        "planning": [
+            {
+                "id": 330,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 129,
+        "name": "EBP-ENT 3661 Reasy Prototype",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "On Client Hold",
+        "status": "Wireframe - Approved and Design Started",
+        "planning": [
+            {
+                "id": 305,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 127,
+        "name": "EBP-ENT 2042 Australian Community Media v2 - Maintenance",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 79,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 123,
+        "name": "EBP-CMS 2530 Reliable Driving School (Re-development) v2",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "On Client Hold",
+        "status": "Budget Approval and Project Plan",
+        "planning": [
+            {
+                "id": 413,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 745,
+        "totalLoggedHours": 1280.1300000000003
+    },
+    {
+        "id": 114,
+        "name": "ENT-RFC 1803 AWN.net RFC26 (Client Portal 3.0 including GenAI)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 411,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": true,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 410,
+        "totalLoggedHours": 987.12
+    },
+    {
+        "id": 113,
+        "name": "EBP-ENT 3401 CT Freight - Client Portal (Webapp Only)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Beta Release",
+        "planning": [
+            {
+                "id": 410,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 423,
+        "totalLoggedHours": 720.83
+    },
+    {
+        "id": 108,
+        "name": "EBP-STAFF 1353 Pogozo Staff Leasing v2",
+        "isArchive": false,
+        "projecType": "LEASE",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 405,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 572,
+        "totalLoggedHours": 3671.92
+    },
+    {
+        "id": 107,
+        "name": "EBP-ENT 3345 Countdown v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 404,
+                "status": "active",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 1739,
+        "totalLoggedHours": 2578.1600000000017
+    },
+    {
+        "id": 105,
+        "name": "EBP-STAFF 1431 Rello - Staff Leasing Agreement",
+        "isArchive": false,
+        "projecType": "LEASE",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 66,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 288,
+        "totalLoggedHours": 2120.19
+    },
+    {
+        "id": 103,
+        "name": "Tills Payment v2",
+        "isArchive": false,
+        "projecType": "LEASE",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 403,
+                "status": "active",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 6766,
+        "totalLoggedHours": 38459.07999999999
+    },
+    {
+        "id": 101,
+        "name": "EBP-STAFF 1348 Specialist Protection Group Staff Leasing v2",
+        "isArchive": false,
+        "projecType": "LEASE",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 402,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 408,
+        "totalLoggedHours": 1121.98
+    },
+    {
+        "id": 98,
+        "name": "EBP-ENT 3573 Honeypot (Webapp)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 157,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 1286,
+        "totalLoggedHours": 2114.21
+    },
+    {
+        "id": 97,
+        "name": "EBP-ENT 3625 Aesthetic Practitioner Platform Prototype",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Terminated",
+        "status": "Wireframe",
+        "planning": [],
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
+    },
+    {
+        "id": 72,
+        "name": "EBP-ENT 3358 Doubleguard App v1",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Beta Release",
+        "planning": [
+            {
+                "id": 237,
+                "status": "active",
+                "planningStatus": "Consider",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 3977,
+        "totalLoggedHours": 8529.640000000001
+    },
+    {
+        "id": 68,
+        "name": "EBP-ENT 3812 PEAR v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Design - Approved and SRS Initiated",
+        "planning": [
+            {
+                "id": 556,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 1407,
+        "totalLoggedHours": 2449.6400000000012
+    },
+    {
+        "id": 60,
+        "name": "EBP-ENT 2981 TalkNow Telehealth (Mobile + Web App) v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Suspended",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 396,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            },
+            {
+                "id": 125,
+                "status": "inactive",
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 116,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 6022,
+        "totalLoggedHours": 11143.85
+    },
+    {
+        "id": 59,
+        "name": "EBP-ENT 3364 Borroway v3 (Supabase)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "On Client Hold",
+        "status": "Design - Approved and SRS Initiated",
+        "planning": [
+            {
+                "id": 217,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 51,
+        "totalLoggedHours": 54.91
+    },
+    {
+        "id": 55,
+        "name": "EBP-CMS 2659 Rogue Dahlia",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 739,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "worklogsTotal": 297,
+        "totalLoggedHours": 424.75000000000006
+    },
+    {
+        "id": 52,
+        "name": "EBP-STAFF 1459 Vinobid Staff Lease v2",
+        "isArchive": false,
+        "projecType": "LEASE",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 341,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 1137,
+        "totalLoggedHours": 2959.57
+    },
+    {
+        "id": 49,
+        "name": "EBP-ENT 3747 HAPPS",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "On Internal Hold",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 31,
+                "status": "inactive",
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 3124,
+        "totalLoggedHours": 5170.300000000002
+    },
+    {
+        "id": 43,
+        "name": "EBP-ENT 3867 Fashion AI Prototype",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "On Internal Hold",
+        "status": "Kick Off Workshop",
+        "planning": [
+            {
+                "id": 133,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "worklogsTotal": 6,
+        "totalLoggedHours": 2.33
+    },
+    {
+        "id": 31,
+        "name": "EBP-CMS 2592 BatesHolmes",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 810,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "worklogsTotal": 112,
+        "totalLoggedHours": 142.10999999999999
+    },
+    {
+        "id": 26,
+        "name": "EBP-ENT 3837 Community Alert",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "On Client Hold",
+        "status": "Design - Approved and SRS Initiated",
+        "planning": [
+            {
+                "id": 147,
+                "status": "inactive",
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 29,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 12,
+        "totalLoggedHours": 13.950000000000001
+    },
+    {
+        "id": 6,
+        "name": "EBP-ENT 3556 Whiskrs",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 390,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 969,
+        "totalLoggedHours": 1163.2399999999998
+    },
+    {
+        "id": 3,
+        "name": "EBP-ENT 3827 DDEG Phase 1",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Design - Approved and SRS Initiated",
+        "planning": [
+            {
+                "id": 86,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": false,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "worklogsTotal": 27,
+        "totalLoggedHours": 24.990000000000002
+    }
+]
