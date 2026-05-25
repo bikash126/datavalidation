@@ -3,16 +3,17 @@ import json
 import os
 import time
 import requests
+import constants
 
 # 1. Configuration
-URL = "https://ebplanner-api.ebpearls.com/api"
+URL = constants.API_URL
 FROM_DATE = "2021-01-01"
-INPUT_FILE = "combined_projects.json"       # Your input file containing the array of projects
+INPUT_FILE = "projects_with_zero_hours.json"       # Your input file containing the array of projects
 OUTPUT_FILE = "sync_results.json"  # File where sync results will be saved
 
 HEADERS = {
     "Content-Type": "application/json",
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImVtYWlsIjoiYmlrYXNoQGVicGVhcmxzLmNvbS5hdSIsInV1aWQiOiJmYmQ1ZDAwZi1kNDEzLTQyMjAtYjllMS1hMWJkODQxMDg4N2EiLCJpYXQiOjE3Nzk1NzkzNjAsImV4cCI6MTc3OTY2NTc2MH0.6dqgRY6Kp1rPA7ebRGhN2iNgYQdMBehiAxJNzzwHlBQ"
+    "Authorization": constants.API_TOKEN
 }
 
 # 2. GraphQL Payload Framework (Only Sync Mutation)

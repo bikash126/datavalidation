@@ -1,16 +1,18 @@
 import json
 import time
 import requests
+import constants
+
 
 # 1. Configuration
-URL = "https://ebplanner-api.ebpearls.com/api"
+URL = constants.API_URL
 
 PROJECTS_FILE = "combined_projects.json"
 
 # 2. Setup Headers (Make sure to update your token if it expires)
 HEADERS = {
     "Content-Type": "application/json",
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImVtYWlsIjoiYmlrYXNoQGVicGVhcmxzLmNvbS5hdSIsInV1aWQiOiJmYmQ1ZDAwZi1kNDEzLTQyMjAtYjllMS1hMWJkODQxMDg4N2EiLCJpYXQiOjE3Nzk1NzkzNjAsImV4cCI6MTc3OTY2NTc2MH0.6dqgRY6Kp1rPA7ebRGhN2iNgYQdMBehiAxJNzzwHlBQ"
+    "Authorization": constants.API_TOKEN
 }
 
 # 3. Define both GraphQL Mutations

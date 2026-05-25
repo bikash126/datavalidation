@@ -1,15 +1,16 @@
 import json
 import time
 import requests
+import constants
 
 # 1. Base Configuration
-URL = "https://ebplanner-api.ebpearls.com/api"
+URL = constants.API_URL
 REQUEST_DELAY_SECONDS = 0.25
 MAX_PLANNING_RETRIES = 3
 
 HEADERS = {
     "Content-Type": "application/json",
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImVtYWlsIjoiYmlrYXNoQGVicGVhcmxzLmNvbS5hdSIsInV1aWQiOiJmYmQ1ZDAwZi1kNDEzLTQyMjAtYjllMS1hMWJkODQxMDg4N2EiLCJpYXQiOjE3Nzk1NzkzNjAsImV4cCI6MTc3OTY2NTc2MH0.6dqgRY6Kp1rPA7ebRGhN2iNgYQdMBehiAxJNzzwHlBQ"
+    "Authorization": constants.API_TOKEN
 }
 
 # Explicitly selecting fields including the 'status' field

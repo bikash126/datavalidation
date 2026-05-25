@@ -1,0 +1,2522 @@
+[
+    {
+        "projectId": 531,
+        "projectName": "CT Freight Webapp - eAdaptor Next",
+        "projectStatus": "Final Budget Approval",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:24",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 529,
+        "projectName": "EBP-RFC 3446 Kapstream RFC1",
+        "projectStatus": "Budget Approval and Project Plan",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:25",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 519,
+        "projectName": "EBP-PROTO 1467 OptiCoach Prototype",
+        "projectStatus": "Kick Off Workshop",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:43:27",
+        "engineeringManagerEmail": "rupesh@ebpearls.com.au"
+    },
+    {
+        "projectId": 518,
+        "projectName": "Opti coach",
+        "projectStatus": "Wireframe",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:43:29",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 517,
+        "projectName": "EBP-ENT 4081 King River Outdoors Prototype",
+        "projectStatus": "Wireframe - Approved and Design Started",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:43:30",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 503,
+        "projectName": " Jackson Ranch RFC17",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:32",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 498,
+        "projectName": " St.Jude's RFC1 v2",
+        "projectStatus": "Final Budget Approval",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:34",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 497,
+        "projectName": " WUNA RFC10",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:35",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 489,
+        "projectName": "Castle and Things",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:37",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 484,
+        "projectName": "EBP-ENT 3694 DIY Tradie (Prototype)",
+        "projectStatus": "Wireframe",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:43:38",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 466,
+        "projectName": "EBP-ENT 4090 Isaac DevOps Audit",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:40",
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au"
+    },
+    {
+        "projectId": 464,
+        "projectName": "CMS-RFC 3482 Bannister RFC10",
+        "projectStatus": "Development",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:43:42",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 456,
+        "projectName": "Double Guard App old",
+        "projectStatus": "Completed",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:43:43",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 446,
+        "projectName": "EBP-CMS 2474 365mesh",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:45",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 444,
+        "projectName": "EBP-ENT 2756 Production Software",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:47",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 443,
+        "projectName": "EBP-CMS 2351 Africa Marketplace (Shopify Them",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:48",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 442,
+        "projectName": "EBP-CMS 2316 Bracton Group",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:50",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 441,
+        "projectName": "EBP-CMS 2590 Express Glass",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:51",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 440,
+        "projectName": "EBP-CMS 2205 Online Pharmacy Agency v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:53",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 439,
+        "projectName": "EBP-CMS 1795 The Deep Blue",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:55",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 438,
+        "projectName": "EBP-ENT 2544 OORT RFC1 (App Landing Page)",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:56",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 437,
+        "projectName": "EBP-CMS 1795 The Deep Blue",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:43:58",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 436,
+        "projectName": "EBP-CMS 2336 Black Jet Website v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:00",
+        "engineeringManagerEmail": "anima@ebpearls.com.au"
+    },
+    {
+        "projectId": 435,
+        "projectName": "EBP-ENT 3645 Homemaker Investment App",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:02",
+        "engineeringManagerEmail": null
+    },
+    {
+        "projectId": 434,
+        "projectName": "EBP-CMS 2333 Robert Clerc",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:03",
+        "engineeringManagerEmail": "anima@ebpearls.com.au"
+    },
+    {
+        "projectId": 432,
+        "projectName": "EBP-ENT 2864 Quatt",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:05",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 431,
+        "projectName": "EBP-CMS 2481 TDS Website without Woocommerce",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:07",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 430,
+        "projectName": "EBP-CMS 2475 Environmental Group Australia v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:08",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 429,
+        "projectName": "Prep10",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:10",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 428,
+        "projectName": "Rotech",
+        "projectStatus": "Completed",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:12",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 427,
+        "projectName": "EBP-CMS 2533 Friends United v2 (Theme Based)",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:13",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 426,
+        "projectName": "EBP-CMS 2571 Glide Online Travel Clinic",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:15",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 425,
+        "projectName": "EBP-CMS 2456 Australian Alkaloids Trading",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:17",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 424,
+        "projectName": "EBP-CMS 2395 Ferocious Feed v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:18",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 423,
+        "projectName": "EBP - CMS Howdy Website",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:20",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 422,
+        "projectName": "EBP-CMS 2211 ASENO",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:21",
+        "engineeringManagerEmail": "anima@ebpearls.com.au"
+    },
+    {
+        "projectId": 421,
+        "projectName": "EBP-CMS 2601 Exportia v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:23",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 420,
+        "projectName": "EBP-CMS 2479 Prismo Website",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:25",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 419,
+        "projectName": "EBP-CMS 2361 Double Guard (Templated Pages)",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:26",
+        "engineeringManagerEmail": "samir@ebpearls.com.au"
+    },
+    {
+        "projectId": 418,
+        "projectName": "EBP-ENT 3178 Figrun v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:28",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 417,
+        "projectName": "EBP-CMS 2397 My Guardian",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:30",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 415,
+        "projectName": "EBP-CMS 2172 Power Sync",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:31",
+        "engineeringManagerEmail": "anima@ebpearls.com.au"
+    },
+    {
+        "projectId": 414,
+        "projectName": "EBP-CMS 2293 Aesthetic practitioner Platform",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:33",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 412,
+        "projectName": "EBP-CMS 2436 Wyer & Co",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:35",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 409,
+        "projectName": "EBP-CMS 2359 Aydin Co Picture Framing (Shopify Template) v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:36",
+        "engineeringManagerEmail": "samir@ebpearls.com.au"
+    },
+    {
+        "projectId": 408,
+        "projectName": "EBP-CMS 2329 Honey Pot Landing Page",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:38",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 407,
+        "projectName": "EBP-CMS 2120 Coerver",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:39",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 406,
+        "projectName": "CMS-Talk Now Telehealth",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:41",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 404,
+        "projectName": "AG-CMS 1823 Safe Work",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:43",
+        "engineeringManagerEmail": "anima@ebpearls.com.au"
+    },
+    {
+        "projectId": 403,
+        "projectName": "EBP-ENT 3069 Exquisite Giveaways",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:44",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 402,
+        "projectName": "AG-CMS 1846 Metz Website",
+        "projectStatus": "Completed",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:46",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 401,
+        "projectName": "EBP-CMS 2295 TrueCover",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:48",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 400,
+        "projectName": "AG-CMS 1773 Transference Healing",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:49",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 399,
+        "projectName": "EBP - CMS  Pogozo Website",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:51",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 398,
+        "projectName": "EBP-CMS 2260  You Choose Pets (Landing Page)",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:53",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 397,
+        "projectName": "Kathford Project",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:54",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 396,
+        "projectName": "Bloomfield Care",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:56",
+        "engineeringManagerEmail": "anima@ebpearls.com.au"
+    },
+    {
+        "projectId": 395,
+        "projectName": "EBP-CMS 2388 Leora.ai v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:58",
+        "engineeringManagerEmail": "samir@ebpearls.com.au"
+    },
+    {
+        "projectId": 394,
+        "projectName": "EBP-CMS 2335 CommandAuto",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:44:59",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 393,
+        "projectName": "EBP-CMS 1878 Estraints",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:02",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 390,
+        "projectName": "EBP-CMS 2280 Lewis Hotels Group",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:04",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 388,
+        "projectName": "EBP-CMS 2253 Parras Hospitality Websites",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:05",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 386,
+        "projectName": "EBP-ENT 2922 Shrynk(Yooli)",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:07",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 385,
+        "projectName": "EBP-CMS 2334 Mothers Polish",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:09",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 384,
+        "projectName": "EBP-CMS 2331 The Art of Voice Australia",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:10",
+        "engineeringManagerEmail": "samir@ebpearls.com.au"
+    },
+    {
+        "projectId": 383,
+        "projectName": "CMS-RFC 2837 Sydney Collective (Website Trans",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:12",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 382,
+        "projectName": "EBP-ENT 2797 Reliable Driving School Code Audit",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:14",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 381,
+        "projectName": "EBP-CMS 2366 Skeiny v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:15",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 380,
+        "projectName": "EBP-CMS 2383 MotorOne (Phase 1)",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:17",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 379,
+        "projectName": "EBP-CMS 2552 AFRIGAR",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:18",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 378,
+        "projectName": "EBP-CMS 2085 Will & Estate Planner - Branding",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:20",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 375,
+        "projectName": "EBP-CMS 2041 Muzikboxx WordPress",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:22",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 374,
+        "projectName": "Club Culture Australia",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:23",
+        "engineeringManagerEmail": null
+    },
+    {
+        "projectId": 373,
+        "projectName": "EBP-CMS 2468 BAHAH Landing Page",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:25",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 371,
+        "projectName": "EBP-CMS 1851 Achieved Music",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:27",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 370,
+        "projectName": "EBP-STAFF 1436 Indigenous Futures Foundation - Staff Lease",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:28",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 369,
+        "projectName": "EBP-ENT 3558 PawPal",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:30",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 368,
+        "projectName": "EBP-ENT 3521 School Stream - Code Audit",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:32",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 367,
+        "projectName": "EBP-CMS 2474 365mesh",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:33",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 366,
+        "projectName": "EBP-CMS 2535 Pure Oz Shopify Template",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:35",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 365,
+        "projectName": "Communication Spectrum/ My Comms Website",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:36",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 363,
+        "projectName": "EBP-CMS 2513 EL Toro v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:38",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 362,
+        "projectName": "EBP-CMS 2540 Di Nuovo",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:40",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 361,
+        "projectName": "EBP-CMS 2473 Flip Pay (Website)",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:41",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 360,
+        "projectName": "EBP-ENT 3224 TopTeacher Code Audit",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:43",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 359,
+        "projectName": "EBP-ENT 2685 Peacock Pages",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:45",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 357,
+        "projectName": "EBP-ENT 3084 Launch Pro (Legal Project)",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:46",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 356,
+        "projectName": "Meta Health",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:48",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 355,
+        "projectName": "EBP-CMS 2529 Leora Health",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:50",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 354,
+        "projectName": "EBP-CMS 2568 TrendTrade - Wordpress",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:51",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 353,
+        "projectName": "AG-CMS 1817 Early Trade",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:53",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 352,
+        "projectName": "EBP-ENT 1999 Intro v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:54",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 351,
+        "projectName": "AG-CMS 695 - Medecins Sans Frontieres_Doctors",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:56",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 350,
+        "projectName": "EBP-ENT 2630 Megacash v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:58",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 349,
+        "projectName": "EBP-CMS 622 - Gallery Funaki",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:45:59",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 348,
+        "projectName": "EBP-CMS 129 - Peds Industrial",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:02",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 347,
+        "projectName": "EBP-CMS 2542 Kris and Li Cleaning Services",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:04",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 346,
+        "projectName": "EBP-CMS 2262 Wine Warehouse v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:05",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 345,
+        "projectName": "EBP-ENT 2989 Travel App",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:07",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 344,
+        "projectName": "EBP-ENT 2035 Will & Estate Planner",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:08",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 343,
+        "projectName": "EBP-ENT 2276 Real Estate App Branding",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:10",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 342,
+        "projectName": "EBP-CMS 2223 Owner Inspections v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:12",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 341,
+        "projectName": "EBP-CMS 272 - Mondiale VGL",
+        "projectStatus": "Completed",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:13",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 340,
+        "projectName": "EBP-CMS 2286 Dosatron v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:15",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 339,
+        "projectName": "EBP-CMS 2189 Flow Leaders",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:17",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 338,
+        "projectName": "EBP-CMS 278 - Sydney Plumbing",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:18",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 337,
+        "projectName": "EBP-CMS 2251 Dickies Transportation",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:20",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 336,
+        "projectName": "EBP-ENT 3131 AnyFind Code Audit",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:22",
+        "engineeringManagerEmail": "samir@ebpearls.com.au"
+    },
+    {
+        "projectId": 335,
+        "projectName": "EBP-CMS 2220  Pest Control Specialists v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:23",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 334,
+        "projectName": "AG-CMS 1799 ACRF",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:25",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 333,
+        "projectName": "AG-CMS 1818 Trickstar",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:26",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 332,
+        "projectName": "EBP-CMS 2564 Yakkly (Wordpress)",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:28",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 331,
+        "projectName": "EBP-CMS 2114 - Head On",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:30",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 330,
+        "projectName": "EBP-ENT 2318 GRC Institute Membership Portal",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:32",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 329,
+        "projectName": "EBP-ENT 2539 EML v2",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:34",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 328,
+        "projectName": "EBP-ENT 3237 Activfy Code Audit",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:36",
+        "engineeringManagerEmail": "samir@ebpearls.com.au"
+    },
+    {
+        "projectId": 327,
+        "projectName": "EBP-CMS 2276 EzyCharge",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:38",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 326,
+        "projectName": "EBP-ENT 2318 GRC Institute Membership Portal",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:39",
+        "engineeringManagerEmail": null
+    },
+    {
+        "projectId": 323,
+        "projectName": "EBP-CMS 2538 CT Freight - Landing Page",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:41",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 322,
+        "projectName": "EBP-ENT 1868 Exportia",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:43",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 321,
+        "projectName": "EBP-CMS 2288 Asteri Mason v3",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:44",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 320,
+        "projectName": "EBP-CMS 2146 Babylonchain",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:46",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 319,
+        "projectName": "EBP-ENT 2195 NSW Child Protection App",
+        "projectStatus": "Completed",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:48",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 318,
+        "projectName": "EBP-CMS 2019 Bendooley Estate",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:49",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 317,
+        "projectName": "EBP-CMS 2661 JLI Computers Shopify Theme",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:51",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 316,
+        "projectName": "EBP-ENT 2992 Howdy",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:53",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 315,
+        "projectName": "EBP-ENT 1905 V-Insurance",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:54",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 314,
+        "projectName": "EBP-ENT 2583 Honeypot",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:56",
+        "engineeringManagerEmail": "samir@ebpearls.com.au"
+    },
+    {
+        "projectId": 313,
+        "projectName": "EBP-ENT 2042 Australian Community Media v2",
+        "projectStatus": "Completed",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:58",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 312,
+        "projectName": "EBP-ENT 2175 Gigsta",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:46:59",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 311,
+        "projectName": "AG-CMS 1813 Fasta Pasta",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:01",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 310,
+        "projectName": "EBP-ENT 2378 StoryBook App",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:02",
+        "engineeringManagerEmail": "bikash@ebpearls.com.au"
+    },
+    {
+        "projectId": 308,
+        "projectName": "EBP-ENT 2294 Specialist Protection Group (Android)",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:04",
+        "engineeringManagerEmail": "narendra@ebpearls.com.au"
+    },
+    {
+        "projectId": 307,
+        "projectName": "EBP-ENT 2140 One Wear Only Hire",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:06",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 305,
+        "projectName": "DevOps",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:07",
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au"
+    },
+    {
+        "projectId": 290,
+        "projectName": "EBP-CMS 3484 Massage Booker",
+        "projectStatus": "Wireframe - Approved and Design Started",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:09",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 288,
+        "projectName": "CMS-RFC 3384 EL Toro v2 RFC1",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:11",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 287,
+        "projectName": "CMS-RFC 3381 AWN.net RFC28",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:12",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 286,
+        "projectName": "EBP-ENT 3735 Worker's AI Prototype",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:47:14",
+        "engineeringManagerEmail": "samir@ebpearls.com.au"
+    },
+    {
+        "projectId": 284,
+        "projectName": "EBP-CMS 2637 Zalane Balance Bike",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:16",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 283,
+        "projectName": "EBP-ENT 3799 Australian Campdraft Association (Wordpress) v3 - POC",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:17",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 281,
+        "projectName": "EBP-STAFF 1422 Claros (Staff Leasing)- Andrew Gildea",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:47:19",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 277,
+        "projectName": "AG-CMS 1877  I Code School",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:47:20",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 258,
+        "projectName": "EBP-CMS 2621 Chairforce v4",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:22",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 256,
+        "projectName": "EBP-CMS 2362 Firex v2",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:24",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 254,
+        "projectName": "EBP-STAFF 643 - Farm Service Management",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:25",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 243,
+        "projectName": "EBP-ENT 3396 YCP (maintenance)",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:27",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 241,
+        "projectName": "EBP-ENT 1924 All Pumps App",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:29",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 236,
+        "projectName": "EBP-ENT 2432 ARTIS Code Audit",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:30",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 230,
+        "projectName": "EBP-ENT 3707 Shedule AI MVP",
+        "projectStatus": "Development",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:47:32",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 227,
+        "projectName": "Rotech - Maintenance Project",
+        "projectStatus": "Completed",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:47:34",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 225,
+        "projectName": "CMS-RFC 3479 White Bow Gift Registry RFC13",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:47:35",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 224,
+        "projectName": "Personhood",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:37",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 223,
+        "projectName": "Bahah - Support",
+        "projectStatus": "Completed",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:38",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 220,
+        "projectName": "EBP-ENT 2304 Freight Search",
+        "projectStatus": "Completed",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:40",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 215,
+        "projectName": "EBP-STAFF 1451 Coposit Staff Leasing",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:42",
+        "engineeringManagerEmail": "narendra@ebpearls.com.au"
+    },
+    {
+        "projectId": 211,
+        "projectName": "EBP-ENT 471 - Real Estate App (APBR)",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:43",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 210,
+        "projectName": "EBP-CMS 2675 Pro Invest Website v2",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:45",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 209,
+        "projectName": "Crews",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:47:47",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 200,
+        "projectName": "EBP-ENT 4001 Brigade (Prototype)",
+        "projectStatus": "Wireframe",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:48",
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au"
+    },
+    {
+        "projectId": 199,
+        "projectName": "CMS-RFC 3475 Rotech - RFC25 v2",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:50",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 192,
+        "projectName": "CMS-RFC 3471 Convey Online  RFC14",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:52",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 191,
+        "projectName": "CMS-RFC 3470 White Bow Gift Registry RFC12",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:53",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 189,
+        "projectName": "EBP-ENT 3695 Quantify Wellness MVP v2",
+        "projectStatus": "Budget Approval and Project Plan",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:55",
+        "engineeringManagerEmail": "anima@ebpearls.com.au"
+    },
+    {
+        "projectId": 182,
+        "projectName": "EBP-ENT 3709 MGI Code Audit",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:56",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 181,
+        "projectName": "EBP-ENT 3961 SPS Facilities Code Audit",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:47:58",
+        "engineeringManagerEmail": "narendra@ebpearls.com.au"
+    },
+    {
+        "projectId": 179,
+        "projectName": "CMS-RFC 3467 Mondiale VGL RFC6",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:00",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 176,
+        "projectName": "EBP-ENT 2724 GapMash Code Audit",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:02",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 173,
+        "projectName": "EBP-ENT 4020 Baztel Code Audit",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:03",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 172,
+        "projectName": "EBP-ENT 3544 Stratus Smart Software",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:05",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 170,
+        "projectName": "EBP-ENT 3339 Caroo RFC57 (Webapp MVP)",
+        "projectStatus": "Final Budget Approval",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:07",
+        "engineeringManagerEmail": "narendra@ebpearls.com.au"
+    },
+    {
+        "projectId": 169,
+        "projectName": "Caroo Maintenace",
+        "projectStatus": "Final Budget Approval",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:08",
+        "engineeringManagerEmail": "narendra@ebpearls.com.au"
+    },
+    {
+        "projectId": 167,
+        "projectName": "CMS-RFC 3462 Friends United v2 (Theme Based) RFC2 v3",
+        "projectStatus": "Development",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:10",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 162,
+        "projectName": "CMS-RFC 3460 Wyer & Co RFC4",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:11",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 159,
+        "projectName": "EBP-STAFF 1452 WUNA - Staff Leasing",
+        "projectStatus": "Development",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:13",
+        "engineeringManagerEmail": "rajeshneupane@ebpearls.com.au"
+    },
+    {
+        "projectId": 136,
+        "projectName": "CMS-RFC 3446 365mesh RFC4",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:15",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 132,
+        "projectName": "EBP-ENT 3683 Stockman's Wallet",
+        "projectStatus": "Budget Approval and Project Plan",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:16",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 128,
+        "projectName": "ENT-RFC 1823 Metahealth RFC1",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:18",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 126,
+        "projectName": "CMS-RFC 3445 Quantify Wellness Landing Page RFC2",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:19",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 125,
+        "projectName": "EBP-ENT 3491MeetDelete Prototype",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:21",
+        "engineeringManagerEmail": "bikash@ebpearls.com.au"
+    },
+    {
+        "projectId": 115,
+        "projectName": "EBP-ENT 3544 Stratus Smart Software Solutions",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:23",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 112,
+        "projectName": "EBP-ENT 3617 Top Teacher - Webapp v2",
+        "projectStatus": "Live/30-day Support",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:24",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 110,
+        "projectName": "EBP-ENT 3468 Communication Spectrum MVP",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:26",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 102,
+        "projectName": "Smart Mobile App Development with Agile Resource Augmentation",
+        "projectStatus": "Development",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:28",
+        "engineeringManagerEmail": "narendra@ebpearls.com.au"
+    },
+    {
+        "projectId": 92,
+        "projectName": "EBP-CMS 2636 Metalia Studios",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:29",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 91,
+        "projectName": "EBP-CMS 2639 Quantify Wellness Landing Page",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:31",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 90,
+        "projectName": "EBP-CMS 2607 Bendooley Estate v4",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:33",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 85,
+        "projectName": "EBP-ENT 3453 WUNA - Code Audit",
+        "projectStatus": "Beta Release",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:34",
+        "engineeringManagerEmail": "anima@ebpearls.com.au"
+    },
+    {
+        "projectId": 82,
+        "projectName": "EBP-CMS 2634 Queensland Compassionate Services",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:36",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 75,
+        "projectName": "EBP-STAFF 1359 Doubleguard Staff Leasing",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:38",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 69,
+        "projectName": "EBP-ENT 3098 Allied Health Directory",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:39",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 58,
+        "projectName": "EBP-ENT 3281 VinoBid (Supabase)",
+        "projectStatus": "Beta Release",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:41",
+        "engineeringManagerEmail": "anima@ebpearls.com.au"
+    },
+    {
+        "projectId": 57,
+        "projectName": "EBP-ENT 3500 Beauty Grail WebApp",
+        "projectStatus": "Live/30-day Support",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:42",
+        "engineeringManagerEmail": "anima@ebpearls.com.au"
+    },
+    {
+        "projectId": 51,
+        "projectName": "EBP-CMS 2635 Seymours Group",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:44",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 46,
+        "projectName": "CMS-RFC 3439 Voiceless RFC10",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:46",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 42,
+        "projectName": "ENT-RFC 1901 Adventure Shuffle - RFC 1",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:47",
+        "engineeringManagerEmail": "anima@ebpearls.com.au"
+    },
+    {
+        "projectId": 30,
+        "projectName": "CMS-RFC 3427 EBP-CMS 2639 Quantify Wellness Landing Page RFC1",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:49",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 25,
+        "projectName": "ENT-RFC 1910 Property Dollar Gamification Prototype RFC1",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:51",
+        "engineeringManagerEmail": "rupesh@ebpearls.com.au"
+    },
+    {
+        "projectId": 14,
+        "projectName": "EBP-ENT 3841 Coposit Penetration Testing Report",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:52",
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au"
+    },
+    {
+        "projectId": 13,
+        "projectName": "CMS-RFC 3416 OutcomeX RFC24",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:54",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 12,
+        "projectName": "CMS-RFC 3415 Blue Spinach RFC25",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:48:55",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 11,
+        "projectName": "EBP-ENT 3672 Nimbus Receipt Prototype",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:57",
+        "engineeringManagerEmail": "narendra@ebpearls.com.au"
+    },
+    {
+        "projectId": 10,
+        "projectName": "EBP-ENT 3834 Dating App Code Audit v2",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:48:59",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 4,
+        "projectName": "EBP-ENT 3825 Air Run Prototype",
+        "projectStatus": "Done",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:49:00",
+        "engineeringManagerEmail": "samir@ebpearls.com.au"
+    },
+    {
+        "projectId": 2,
+        "projectName": "ENT-RFC 1896 Copost Pen testing",
+        "projectStatus": "Done",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:02",
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au"
+    },
+    {
+        "projectId": 555,
+        "projectName": "Gapmash Maintenance",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:03",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 554,
+        "projectName": "MGI Maintenance",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:05",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 553,
+        "projectName": "Freight Search Maintenance",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:07",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 552,
+        "projectName": "Communication Spectrum Maintenance",
+        "projectStatus": "Final Budget Approval",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:08",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 550,
+        "projectName": "EBP-ENT 3345 Countdown V2 V2",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:49:10",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 549,
+        "projectName": "EBP-RFC 3460 Coach Merv RFC1 SRS",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:11",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 547,
+        "projectName": "Personhood - Maintenance",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:13",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 546,
+        "projectName": "Top Teacher - Webapp v2 - Maintenance",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:15",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 544,
+        "projectName": "CT Freight - Client Portal (Webapp Only) - Maintenance",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:16",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 543,
+        "projectName": "Howdy Maintenance",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:18",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 541,
+        "projectName": "EBP-ENT 4211  Jon Lim Revised MVP",
+        "projectStatus": "Kick Off Workshop",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:19",
+        "engineeringManagerEmail": null
+    },
+    {
+        "projectId": 540,
+        "projectName": "EBP-ENT 4193 Zenu - Pro-invest Stays Pty Ltd",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:21",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 539,
+        "projectName": "EBP-RFC 3458 To Be Me - RFC3 (Translation & Localisation)",
+        "projectStatus": "Wireframe",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:23",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 536,
+        "projectName": "ENT-RFC 2056 Top Teacher RFC12",
+        "projectStatus": "Budget Approval and Project Plan",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:49:25",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 535,
+        "projectName": "EBP-RFC 3473 Bendooleyestate RFC4",
+        "projectStatus": "Budget Approval and Project Plan",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:49:26",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 534,
+        "projectName": "EBP-CMS 2699 Salima",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:28",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 533,
+        "projectName": "Tom Swan",
+        "projectStatus": "Kick Off Workshop",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:29",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 532,
+        "projectName": "My Leather Doctor - RFC 4 (Resolving Email Storage Limitations)",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:49:31",
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au"
+    },
+    {
+        "projectId": 530,
+        "projectName": "Wedmuse (vibe Coded + Custom Coded) MVP",
+        "projectStatus": "Wireframe",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:33",
+        "engineeringManagerEmail": "sweta@ebpearls.com.au"
+    },
+    {
+        "projectId": 528,
+        "projectName": "EBP-ENT 4181 Bikemebro",
+        "projectStatus": "Kick Off Workshop",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:34",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 527,
+        "projectName": "EBP-ENT 4180 Nimbus Receipt MVPv2.1",
+        "projectStatus": "Kick Off Workshop",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:36",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 526,
+        "projectName": "EBP-ENT 4174 Strategy 1 HR Staff Leasing",
+        "projectStatus": "Kick Off Workshop",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:37",
+        "engineeringManagerEmail": "narendra@ebpearls.com.au"
+    },
+    {
+        "projectId": 525,
+        "projectName": "EBP-ENT 3793 A&S Australian Investment - Web App",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:39",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 524,
+        "projectName": "ACM RFC - Braze Integration",
+        "projectStatus": "Final Budget Approval",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:49:41",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 522,
+        "projectName": "EBP-ENT 4020 Baztel Code Audit (Phase 2)",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:49:42",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 521,
+        "projectName": "AI Workflow",
+        "projectStatus": "Kick Off Workshop",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:49:44",
+        "engineeringManagerEmail": "narendra@ebpearls.com.au"
+    },
+    {
+        "projectId": 520,
+        "projectName": "EBP-ENT Howdy RFC",
+        "projectStatus": "Budget Approval and Project Plan",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:49:46",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 516,
+        "projectName": "EBP-CMS 2692 MyComms Website Refresh",
+        "projectStatus": "Wireframe - Approved and Design Started",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:47",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 514,
+        "projectName": "EBP-ENT 4150 Mate Money",
+        "projectStatus": "Wireframe - Approved and Design Started",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:49",
+        "engineeringManagerEmail": "sweta@ebpearls.com.au"
+    },
+    {
+        "projectId": 513,
+        "projectName": "Inferent Analyst",
+        "projectStatus": "Wireframe - Approved and Design Started",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:51",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 501,
+        "projectName": "EBP-PROTO 1464 Ampd Prototype",
+        "projectStatus": "Wireframe - Approved and Design Started",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:52",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 488,
+        "projectName": "Workforce Tool",
+        "projectStatus": "initiating",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:49:54",
+        "engineeringManagerEmail": "bikash@ebpearls.com.au"
+    },
+    {
+        "projectId": 485,
+        "projectName": "RelloPay CRM",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:49:55",
+        "engineeringManagerEmail": "sweta@ebpearls.com.au"
+    },
+    {
+        "projectId": 483,
+        "projectName": "Squad Lead Task",
+        "projectStatus": "initiating",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:57",
+        "engineeringManagerEmail": "bikash@ebpearls.com.au"
+    },
+    {
+        "projectId": 482,
+        "projectName": "SEST",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:49:59",
+        "engineeringManagerEmail": null
+    },
+    {
+        "projectId": 481,
+        "projectName": "EBP-STAFF 1481 Stockman's Wallet Staff Leasing Proposal V4",
+        "projectStatus": "Final Budget Approval",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:00",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 480,
+        "projectName": "Glucose Management Software (REGAS) New",
+        "projectStatus": "Live/30-day Support",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:02",
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au"
+    },
+    {
+        "projectId": 479,
+        "projectName": "ENT-RFC 2055 Isaac Server Restructuring RFC",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:04",
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au"
+    },
+    {
+        "projectId": 476,
+        "projectName": "EBP-ENT 3753 FlyBright v2",
+        "projectStatus": "Design - Approved and SRS Initiated",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:05",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 469,
+        "projectName": "Ebtheme",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:07",
+        "engineeringManagerEmail": "bikash@ebpearls.com.au"
+    },
+    {
+        "projectId": 462,
+        "projectName": "EBP-STAFF 1469 DDEG ERP Staff Leasing",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:08",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 461,
+        "projectName": "IT Internals",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:10",
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au"
+    },
+    {
+        "projectId": 459,
+        "projectName": "EB Pearls - Hubspot Website",
+        "projectStatus": "Final Budget Approval",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:12",
+        "engineeringManagerEmail": "bikash@ebpearls.com.au"
+    },
+    {
+        "projectId": 457,
+        "projectName": "EBP-ENT 3930 Peoples Voice",
+        "projectStatus": "Wireframe",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:13",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 453,
+        "projectName": "EBP-STAFF 1471 Shedule AI (Nisha) - Staff Leasing Proposal",
+        "projectStatus": "Budget Approval and Project Plan",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:15",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 364,
+        "projectName": "PeopleOps Goal",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:17",
+        "engineeringManagerEmail": "sanjeena@ebpearls.com.au"
+    },
+    {
+        "projectId": 303,
+        "projectName": "EBP-ENT 4078 AgentSwipe MVP",
+        "projectStatus": "Design - Approved and SRS Initiated",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:18",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 300,
+        "projectName": "EBP-ENT 4063 Beare Flooring Prototype",
+        "projectStatus": "Wireframe",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:20",
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au"
+    },
+    {
+        "projectId": 295,
+        "projectName": "Research and Learning not needed",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:21",
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au"
+    },
+    {
+        "projectId": 294,
+        "projectName": "Research and Learning New",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:23",
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au"
+    },
+    {
+        "projectId": 293,
+        "projectName": "QA OKR Goal Task",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:25",
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au"
+    },
+    {
+        "projectId": 274,
+        "projectName": "OKR Goal",
+        "projectStatus": "initiating",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:26",
+        "engineeringManagerEmail": null
+    },
+    {
+        "projectId": 270,
+        "projectName": "Senior QA Role",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:28",
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au"
+    },
+    {
+        "projectId": 269,
+        "projectName": "Lead and Support",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:29",
+        "engineeringManagerEmail": "bikash@ebpearls.com.au"
+    },
+    {
+        "projectId": 263,
+        "projectName": "EBP-ENT 4051 Workmate App Prototype",
+        "projectStatus": "Wireframe - Approved and Design Started",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:31",
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au"
+    },
+    {
+        "projectId": 262,
+        "projectName": "Starter Kit v5",
+        "projectStatus": "Wireframe",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:33",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 259,
+        "projectName": "EBP-ENT 3693 CBMFG Prototype",
+        "projectStatus": "Wireframe",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:34",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 257,
+        "projectName": "EBP-CMS 2403 Blkdot Client Portal",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:36",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 255,
+        "projectName": "Miscellaneous Hours",
+        "projectStatus": "initiating",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:38",
+        "engineeringManagerEmail": null
+    },
+    {
+        "projectId": 253,
+        "projectName": "CMS Maintenance",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:39",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 248,
+        "projectName": "Honey Pot Mobile App",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:41",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 245,
+        "projectName": "CT Freight (QC App) maintenance",
+        "projectStatus": "Development",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:42",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 242,
+        "projectName": "ENT-RFC 1804 Cordouan Health RFC2",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:44",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 238,
+        "projectName": "Cordouan Health ( Maintenance )",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:46",
+        "engineeringManagerEmail": null
+    },
+    {
+        "projectId": 237,
+        "projectName": "All Pumps ( Maintenance)",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:47",
+        "engineeringManagerEmail": null
+    },
+    {
+        "projectId": 234,
+        "projectName": "Portal",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:49",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 232,
+        "projectName": "Ebplanner",
+        "projectStatus": "Project approved",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:51",
+        "engineeringManagerEmail": "bikash@ebpearls.com.au"
+    },
+    {
+        "projectId": 221,
+        "projectName": "One Wardrobe",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:52",
+        "engineeringManagerEmail": "ray@ebpearls.com.au"
+    },
+    {
+        "projectId": 217,
+        "projectName": "EBP-ENT 3922 Mustr Racing MVP v3",
+        "projectStatus": "Wireframe - Approved and Design Started",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:54",
+        "engineeringManagerEmail": "anima@ebpearls.com.au"
+    },
+    {
+        "projectId": 216,
+        "projectName": "EBP-ENT 3785 Stay Upright Mobile App",
+        "projectStatus": "Wireframe - Approved and Design Started",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:50:55",
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au"
+    },
+    {
+        "projectId": 213,
+        "projectName": "EBP-ENT 4025 Coach Merv Prototype",
+        "projectStatus": "Wireframe - Approved and Design Started",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:57",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 203,
+        "projectName": "EBP-ENT 2394 MYBOS v2",
+        "projectStatus": "Development",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:50:59",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 202,
+        "projectName": "EBP-ENT 4007 ToBeMe (Mobile and Webapp) - Tom",
+        "projectStatus": "Budget Approval and Project Plan",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:00",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 198,
+        "projectName": "CMS-RFC 3472 Estraints RFC11",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:02",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 193,
+        "projectName": "EBP-ENT 3014 Glucose Management Software",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:04",
+        "engineeringManagerEmail": "rajeshneupane@ebpearls.com.au"
+    },
+    {
+        "projectId": 185,
+        "projectName": "EBP-ENT 3679 Telehealth App v2",
+        "projectStatus": "Wireframe",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:05",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 180,
+        "projectName": "EBP-ENT 4000 Australian Campdraft Association (Wordpress) Full Development v2",
+        "projectStatus": "Final Budget Approval",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:07",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 174,
+        "projectName": "EBP-ENT 4012 Parent Hub",
+        "projectStatus": "Budget Approval and Project Plan",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:09",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 166,
+        "projectName": "EBP-ENT 4006 Syncra v2",
+        "projectStatus": "Wireframe",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:10",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 160,
+        "projectName": "EBP-ENT 3999 EFS Prototype",
+        "projectStatus": "Wireframe",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:12",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 157,
+        "projectName": "EBP-STAFF 1462 EFS Staff Leasing",
+        "projectStatus": "Final Budget Approval",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:13",
+        "engineeringManagerEmail": "bikash@ebpearls.com.au"
+    },
+    {
+        "projectId": 153,
+        "projectName": "EBP-STAFF 1461 DDEG Staff Leasing",
+        "projectStatus": "Development",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:15",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 148,
+        "projectName": "EBP-ENT 3993 My Leather Doctor Code Audit (Phase 1)",
+        "projectStatus": "Final Budget Approval",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:17",
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au"
+    },
+    {
+        "projectId": 147,
+        "projectName": "CMS-RFC 3435 Ellar Boutique API",
+        "projectStatus": "Budget Approval and Project Plan",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:18",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 143,
+        "projectName": "EBP-ENT 3963 Associated Cleaning App",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:20",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 141,
+        "projectName": "EBP-CMS 2655 Wingspan - Theme Based",
+        "projectStatus": "Wireframe",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:21",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 138,
+        "projectName": "EBP-ENT 3918 KKW Trucks",
+        "projectStatus": "Wireframe",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:23",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 129,
+        "projectName": "EBP-ENT 3661 Reasy Prototype",
+        "projectStatus": "Wireframe - Approved and Design Started",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:25",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 127,
+        "projectName": "EBP-ENT 2042 Australian Community Media v2 - Maintenance",
+        "projectStatus": "Project approved",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:26",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 123,
+        "projectName": "EBP-CMS 2530 Reliable Driving School (Re-development) v2",
+        "projectStatus": "Budget Approval and Project Plan",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:28",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 114,
+        "projectName": "ENT-RFC 1803 AWN.net RFC26 (Client Portal 3.0 including GenAI)",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:29",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 113,
+        "projectName": "EBP-ENT 3401 CT Freight - Client Portal (Webapp Only)",
+        "projectStatus": "Beta Release",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:31",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 108,
+        "projectName": "EBP-STAFF 1353 Pogozo Staff Leasing v2",
+        "projectStatus": "Development",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:33",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 107,
+        "projectName": "EBP-ENT 3345 Countdown v2",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:34",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 105,
+        "projectName": "EBP-STAFF 1431 Rello - Staff Leasing Agreement",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:36",
+        "engineeringManagerEmail": "samir@ebpearls.com.au"
+    },
+    {
+        "projectId": 103,
+        "projectName": "Tills Payment v2",
+        "projectStatus": "Development",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:38",
+        "engineeringManagerEmail": "narendra@ebpearls.com.au"
+    },
+    {
+        "projectId": 101,
+        "projectName": "EBP-STAFF 1348 Specialist Protection Group Staff Leasing v2",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:39",
+        "engineeringManagerEmail": "sweta@ebpearls.com.au"
+    },
+    {
+        "projectId": 98,
+        "projectName": "EBP-ENT 3573 Honeypot (Webapp)",
+        "projectStatus": "Development",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:41",
+        "engineeringManagerEmail": "samir@ebpearls.com.au"
+    },
+    {
+        "projectId": 97,
+        "projectName": "EBP-ENT 3625 Aesthetic Practitioner Platform Prototype",
+        "projectStatus": "Wireframe",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:43",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 72,
+        "projectName": "EBP-ENT 3358 Doubleguard App v1",
+        "projectStatus": "Beta Release",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:45",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 60,
+        "projectName": "EBP-ENT 2981 TalkNow Telehealth (Mobile + Web App) v2",
+        "projectStatus": "Final Budget Approval",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:46",
+        "engineeringManagerEmail": "karun@ebpearls.com.au"
+    },
+    {
+        "projectId": 59,
+        "projectName": "EBP-ENT 3364 Borroway v3 (Supabase)",
+        "projectStatus": "Design - Approved and SRS Initiated",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:48",
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au"
+    },
+    {
+        "projectId": 55,
+        "projectName": "EBP-CMS 2659 Rogue Dahlia",
+        "projectStatus": "Final Budget Approval",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:49",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 52,
+        "projectName": "EBP-STAFF 1459 Vinobid Staff Lease v2",
+        "projectStatus": "Development",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:51",
+        "engineeringManagerEmail": "rajeshneupane@ebpearls.com.au"
+    },
+    {
+        "projectId": 49,
+        "projectName": "EBP-ENT 3747 HAPPS",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:53",
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au"
+    },
+    {
+        "projectId": 43,
+        "projectName": "EBP-ENT 3867 Fashion AI Prototype",
+        "projectStatus": "Kick Off Workshop",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:54",
+        "engineeringManagerEmail": "prashant@ebpearls.com.au"
+    },
+    {
+        "projectId": 31,
+        "projectName": "EBP-CMS 2592 BatesHolmes",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:56",
+        "engineeringManagerEmail": "sunil@ebpearls.com.au"
+    },
+    {
+        "projectId": 26,
+        "projectName": "EBP-ENT 3837 Community Alert",
+        "projectStatus": "Design - Approved and SRS Initiated",
+        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-24 23:51:58",
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au"
+    },
+    {
+        "projectId": 6,
+        "projectName": "EBP-ENT 3556 Whiskrs",
+        "projectStatus": "Development",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:51:59",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    },
+    {
+        "projectId": 3,
+        "projectName": "EBP-ENT 3827 DDEG Phase 1",
+        "projectStatus": "Design - Approved and SRS Initiated",
+        "sync_message": "Syncing worklog for project added to queue",
+        "timestamp": "2026-05-24 23:52:01",
+        "engineeringManagerEmail": "nabin@ebpearls.com.au"
+    }
+]
