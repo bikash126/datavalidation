@@ -6,7 +6,7 @@ import constants
 
 # 1. Configuration
 URL = constants.API_URL
-OUTPUT_FILE = "sync_results.json"
+OUTPUT_FILE = "joined_projects.json"
 
 
 SYNC_RESULTS_FILE = "sync_results.json"
