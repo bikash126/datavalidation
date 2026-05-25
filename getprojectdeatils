@@ -6,16 +6,17 @@ import constants
 
 # 1. Configuration
 URL = constants.API_URL
-OUTPUT_FILE = "joined_projects.json"
+OUTPUT_FILE = "engineering_emails.json"
 
 
-SYNC_RESULTS_FILE = "sync_results.json"
+SYNC_RESULTS_FILE = "combined_projects.json"
 
 def get_project_ids_from_sync_results(filename=SYNC_RESULTS_FILE):
     """Extracts projectId list from sync_results.json file."""
     with open(filename, "r") as f:
         data = json.load(f)
-    return [item["projectId"] for item in data if "projectId" in item]
+    # Extract 'id' from each project dict in the list
+    return [item["id"] for item in data if "id" in item]
 
 HEADERS = {
     "Content-Type": "application/json",
@@ -89,9 +90,9 @@ def fetch_project_details():
         time.sleep(1)
         print()
 
-    with open("engineering_emails.json", "w") as f:
+    with open(OUTPUT_FILE, "w") as f:
         json.dump(results, f, indent=4)
-    print(f"🏁 Execution finished. Output saved to engineering_emails.json.")
+    print(f"🏁 Execution finished. Output saved to \"{OUTPUT_FILE}\".")
 
 if __name__ == "__main__":
     fetch_project_details()

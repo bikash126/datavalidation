@@ -16,7 +16,9 @@
             }
         ],
         "worklogsTotal": 20,
-        "totalLoggedHours": 31.25
+        "totalLoggedHours": 31.25,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:32:46"
     },
     {
         "id": 529,
@@ -35,7 +37,9 @@
             }
         ],
         "worklogsTotal": 6,
-        "totalLoggedHours": 18.0
+        "totalLoggedHours": 18.0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:32:51"
     },
     {
         "id": 519,
@@ -46,7 +50,9 @@
         "status": "Kick Off Workshop",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:32:55"
     },
     {
         "id": 518,
@@ -57,7 +63,9 @@
         "status": "Wireframe",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:32:58"
     },
     {
         "id": 517,
@@ -68,7 +76,9 @@
         "status": "Wireframe - Approved and Design Started",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:02"
     },
     {
         "id": 503,
@@ -87,7 +97,9 @@
             }
         ],
         "worklogsTotal": 3,
-        "totalLoggedHours": 3.0
+        "totalLoggedHours": 3.0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:07"
     },
     {
         "id": 498,
@@ -106,7 +118,9 @@
             }
         ],
         "worklogsTotal": 1,
-        "totalLoggedHours": 3
+        "totalLoggedHours": 3,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:10"
     },
     {
         "id": 497,
@@ -125,7 +139,9 @@
             }
         ],
         "worklogsTotal": 84,
-        "totalLoggedHours": 205.94
+        "totalLoggedHours": 205.94,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:13"
     },
     {
         "id": 489,
@@ -144,7 +160,9 @@
             }
         ],
         "worklogsTotal": 5,
-        "totalLoggedHours": 3.0
+        "totalLoggedHours": 3.0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:15"
     },
     {
         "id": 484,
@@ -155,7 +173,9 @@
         "status": "Wireframe",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:18"
     },
     {
         "id": 466,
@@ -174,7 +194,9 @@
             }
         ],
         "worklogsTotal": 17,
-        "totalLoggedHours": 26.590000000000003
+        "totalLoggedHours": 26.590000000000003,
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:21"
     },
     {
         "id": 464,
@@ -193,7 +215,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:23"
     },
     {
         "id": 456,
@@ -212,7 +236,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:24"
     },
     {
         "id": 446,
@@ -223,7 +249,9 @@
         "status": "Project approved",
         "planning": [],
         "worklogsTotal": 7,
-        "totalLoggedHours": 16.17
+        "totalLoggedHours": 16.17,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:26"
     },
     {
         "id": 444,
@@ -242,7 +270,9 @@
             }
         ],
         "worklogsTotal": 102,
-        "totalLoggedHours": 167.59999999999997
+        "totalLoggedHours": 167.59999999999997,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:27"
     },
     {
         "id": 443,
@@ -261,7 +291,9 @@
             }
         ],
         "worklogsTotal": 334,
-        "totalLoggedHours": 631.8
+        "totalLoggedHours": 631.8,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:29"
     },
     {
         "id": 442,
@@ -280,7 +312,9 @@
             }
         ],
         "worklogsTotal": 46,
-        "totalLoggedHours": 51.599999999999994
+        "totalLoggedHours": 51.599999999999994,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:31"
     },
     {
         "id": 441,
@@ -299,7 +333,9 @@
             }
         ],
         "worklogsTotal": 187,
-        "totalLoggedHours": 337.5
+        "totalLoggedHours": 337.5,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:32"
     },
     {
         "id": 440,
@@ -318,7 +354,9 @@
             }
         ],
         "worklogsTotal": 484,
-        "totalLoggedHours": 1144.5000000000005
+        "totalLoggedHours": 1144.5000000000005,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:34"
     },
     {
         "id": 439,
@@ -337,7 +375,9 @@
             }
         ],
         "worklogsTotal": 340,
-        "totalLoggedHours": 748.14
+        "totalLoggedHours": 748.14,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:36"
     },
     {
         "id": 438,
@@ -356,7 +396,9 @@
             }
         ],
         "worklogsTotal": 16,
-        "totalLoggedHours": 24.5
+        "totalLoggedHours": 24.5,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:37"
     },
     {
         "id": 437,
@@ -367,7 +409,9 @@
         "status": "Project approved",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:39"
     },
     {
         "id": 436,
@@ -386,7 +430,9 @@
             }
         ],
         "worklogsTotal": 38,
-        "totalLoggedHours": 58.08
+        "totalLoggedHours": 58.08,
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:40"
     },
     {
         "id": 435,
@@ -405,7 +451,9 @@
             }
         ],
         "worklogsTotal": 11,
-        "totalLoggedHours": 6.75
+        "totalLoggedHours": 6.75,
+        "engineeringManagerEmail": null,
+        "timestamp": "2026-05-25 11:33:42"
     },
     {
         "id": 434,
@@ -424,7 +472,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:43"
     },
     {
         "id": 432,
@@ -443,7 +493,9 @@
             }
         ],
         "worklogsTotal": 764,
-        "totalLoggedHours": 1032.5499999999993
+        "totalLoggedHours": 1032.5499999999993,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:45"
     },
     {
         "id": 431,
@@ -462,7 +514,9 @@
             }
         ],
         "worklogsTotal": 150,
-        "totalLoggedHours": 287.2099999999999
+        "totalLoggedHours": 287.2099999999999,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:47"
     },
     {
         "id": 430,
@@ -481,7 +535,9 @@
             }
         ],
         "worklogsTotal": 256,
-        "totalLoggedHours": 375.63999999999993
+        "totalLoggedHours": 375.63999999999993,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:48"
     },
     {
         "id": 429,
@@ -500,7 +556,9 @@
             }
         ],
         "worklogsTotal": 277,
-        "totalLoggedHours": 677.18
+        "totalLoggedHours": 677.18,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:50"
     },
     {
         "id": 428,
@@ -519,7 +577,9 @@
             }
         ],
         "worklogsTotal": 21,
-        "totalLoggedHours": 37.5
+        "totalLoggedHours": 37.5,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:51"
     },
     {
         "id": 427,
@@ -538,7 +598,9 @@
             }
         ],
         "worklogsTotal": 113,
-        "totalLoggedHours": 127.75
+        "totalLoggedHours": 127.75,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:53"
     },
     {
         "id": 426,
@@ -557,7 +619,9 @@
             }
         ],
         "worklogsTotal": 181,
-        "totalLoggedHours": 296.13
+        "totalLoggedHours": 296.13,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:54"
     },
     {
         "id": 425,
@@ -576,7 +640,9 @@
             }
         ],
         "worklogsTotal": 132,
-        "totalLoggedHours": 167.76000000000002
+        "totalLoggedHours": 167.76000000000002,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:56"
     },
     {
         "id": 424,
@@ -595,7 +661,9 @@
             }
         ],
         "worklogsTotal": 534,
-        "totalLoggedHours": 704.2899999999993
+        "totalLoggedHours": 704.2899999999993,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:58"
     },
     {
         "id": 423,
@@ -614,7 +682,9 @@
             }
         ],
         "worklogsTotal": 91,
-        "totalLoggedHours": 98.08
+        "totalLoggedHours": 98.08,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:33:59"
     },
     {
         "id": 422,
@@ -633,7 +703,9 @@
             }
         ],
         "worklogsTotal": 96,
-        "totalLoggedHours": 275.0
+        "totalLoggedHours": 275.0,
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:01"
     },
     {
         "id": 421,
@@ -652,7 +724,9 @@
             }
         ],
         "worklogsTotal": 212,
-        "totalLoggedHours": 344.56999999999994
+        "totalLoggedHours": 344.56999999999994,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:02"
     },
     {
         "id": 420,
@@ -671,7 +745,9 @@
             }
         ],
         "worklogsTotal": 40,
-        "totalLoggedHours": 94.42
+        "totalLoggedHours": 94.42,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:04"
     },
     {
         "id": 419,
@@ -690,7 +766,9 @@
             }
         ],
         "worklogsTotal": 111,
-        "totalLoggedHours": 199.54999999999998
+        "totalLoggedHours": 199.54999999999998,
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:06"
     },
     {
         "id": 418,
@@ -709,7 +787,9 @@
             }
         ],
         "worklogsTotal": 116,
-        "totalLoggedHours": 139.10000000000002
+        "totalLoggedHours": 139.10000000000002,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:07"
     },
     {
         "id": 417,
@@ -728,7 +808,9 @@
             }
         ],
         "worklogsTotal": 260,
-        "totalLoggedHours": 377.37000000000006
+        "totalLoggedHours": 377.37000000000006,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:09"
     },
     {
         "id": 415,
@@ -747,7 +829,9 @@
             }
         ],
         "worklogsTotal": 117,
-        "totalLoggedHours": 342.90999999999997
+        "totalLoggedHours": 342.90999999999997,
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:10"
     },
     {
         "id": 414,
@@ -766,7 +850,9 @@
             }
         ],
         "worklogsTotal": 389,
-        "totalLoggedHours": 733.7600000000001
+        "totalLoggedHours": 733.7600000000001,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:12"
     },
     {
         "id": 412,
@@ -785,7 +871,9 @@
             }
         ],
         "worklogsTotal": 236,
-        "totalLoggedHours": 301.1300000000001
+        "totalLoggedHours": 301.1300000000001,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:18"
     },
     {
         "id": 409,
@@ -804,7 +892,9 @@
             }
         ],
         "worklogsTotal": 47,
-        "totalLoggedHours": 77.26
+        "totalLoggedHours": 77.26,
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:21"
     },
     {
         "id": 408,
@@ -823,7 +913,9 @@
             }
         ],
         "worklogsTotal": 18,
-        "totalLoggedHours": 39.41
+        "totalLoggedHours": 39.41,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:25"
     },
     {
         "id": 407,
@@ -842,7 +934,9 @@
             }
         ],
         "worklogsTotal": 837,
-        "totalLoggedHours": 2025.5599999999993
+        "totalLoggedHours": 2025.5599999999993,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:27"
     },
     {
         "id": 406,
@@ -861,7 +955,9 @@
             }
         ],
         "worklogsTotal": 126,
-        "totalLoggedHours": 152.31
+        "totalLoggedHours": 152.31,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:29"
     },
     {
         "id": 404,
@@ -880,7 +976,9 @@
             }
         ],
         "worklogsTotal": 231,
-        "totalLoggedHours": 581.45
+        "totalLoggedHours": 581.45,
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:35"
     },
     {
         "id": 403,
@@ -899,7 +997,9 @@
             }
         ],
         "worklogsTotal": 76,
-        "totalLoggedHours": 139.42000000000002
+        "totalLoggedHours": 139.42000000000002,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:38"
     },
     {
         "id": 402,
@@ -918,7 +1018,9 @@
             }
         ],
         "worklogsTotal": 642,
-        "totalLoggedHours": 945.8499999999996
+        "totalLoggedHours": 945.8499999999996,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:43"
     },
     {
         "id": 401,
@@ -937,7 +1039,9 @@
             }
         ],
         "worklogsTotal": 246,
-        "totalLoggedHours": 447.17
+        "totalLoggedHours": 447.17,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:47"
     },
     {
         "id": 400,
@@ -956,7 +1060,9 @@
             }
         ],
         "worklogsTotal": 258,
-        "totalLoggedHours": 550.1800000000001
+        "totalLoggedHours": 550.1800000000001,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:49"
     },
     {
         "id": 399,
@@ -975,7 +1081,9 @@
             }
         ],
         "worklogsTotal": 186,
-        "totalLoggedHours": 344.6299999999998
+        "totalLoggedHours": 344.6299999999998,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:51"
     },
     {
         "id": 398,
@@ -994,7 +1102,9 @@
             }
         ],
         "worklogsTotal": 152,
-        "totalLoggedHours": 291.34000000000003
+        "totalLoggedHours": 291.34000000000003,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:52"
     },
     {
         "id": 397,
@@ -1013,7 +1123,9 @@
             }
         ],
         "worklogsTotal": 468,
-        "totalLoggedHours": 898.76
+        "totalLoggedHours": 898.76,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:54"
     },
     {
         "id": 396,
@@ -1032,7 +1144,9 @@
             }
         ],
         "worklogsTotal": 154,
-        "totalLoggedHours": 243.91000000000005
+        "totalLoggedHours": 243.91000000000005,
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:56"
     },
     {
         "id": 395,
@@ -1051,7 +1165,9 @@
             }
         ],
         "worklogsTotal": 196,
-        "totalLoggedHours": 326.92
+        "totalLoggedHours": 326.92,
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:57"
     },
     {
         "id": 394,
@@ -1070,7 +1186,9 @@
             }
         ],
         "worklogsTotal": 366,
-        "totalLoggedHours": 459.9200000000001
+        "totalLoggedHours": 459.9200000000001,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:34:59"
     },
     {
         "id": 393,
@@ -1089,7 +1207,9 @@
             }
         ],
         "worklogsTotal": 44,
-        "totalLoggedHours": 97.99000000000001
+        "totalLoggedHours": 97.99000000000001,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:00"
     },
     {
         "id": 390,
@@ -1108,7 +1228,9 @@
             }
         ],
         "worklogsTotal": 328,
-        "totalLoggedHours": 512.6700000000001
+        "totalLoggedHours": 512.6700000000001,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:02"
     },
     {
         "id": 388,
@@ -1127,7 +1249,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:03"
     },
     {
         "id": 386,
@@ -1146,7 +1270,9 @@
             }
         ],
         "worklogsTotal": 2070,
-        "totalLoggedHours": 4100.059999999999
+        "totalLoggedHours": 4100.059999999999,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:05"
     },
     {
         "id": 385,
@@ -1165,7 +1291,9 @@
             }
         ],
         "worklogsTotal": 313,
-        "totalLoggedHours": 488.3200000000001
+        "totalLoggedHours": 488.3200000000001,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:07"
     },
     {
         "id": 384,
@@ -1184,7 +1312,9 @@
             }
         ],
         "worklogsTotal": 131,
-        "totalLoggedHours": 159.98000000000005
+        "totalLoggedHours": 159.98000000000005,
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:08"
     },
     {
         "id": 383,
@@ -1203,7 +1333,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:10"
     },
     {
         "id": 382,
@@ -1222,7 +1354,9 @@
             }
         ],
         "worklogsTotal": 10,
-        "totalLoggedHours": 7.09
+        "totalLoggedHours": 7.09,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:11"
     },
     {
         "id": 381,
@@ -1241,7 +1375,9 @@
             }
         ],
         "worklogsTotal": 146,
-        "totalLoggedHours": 225.84999999999997
+        "totalLoggedHours": 225.84999999999997,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:13"
     },
     {
         "id": 380,
@@ -1260,7 +1396,9 @@
             }
         ],
         "worklogsTotal": 1274,
-        "totalLoggedHours": 1875.4799999999996
+        "totalLoggedHours": 1875.4799999999996,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:14"
     },
     {
         "id": 379,
@@ -1279,7 +1417,9 @@
             }
         ],
         "worklogsTotal": 331,
-        "totalLoggedHours": 639.32
+        "totalLoggedHours": 639.32,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:16"
     },
     {
         "id": 378,
@@ -1298,7 +1438,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:18"
     },
     {
         "id": 375,
@@ -1317,7 +1459,9 @@
             }
         ],
         "worklogsTotal": 814,
-        "totalLoggedHours": 1653.440000000003
+        "totalLoggedHours": 1653.440000000003,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:19"
     },
     {
         "id": 374,
@@ -1336,7 +1480,9 @@
             }
         ],
         "worklogsTotal": 4,
-        "totalLoggedHours": 28
+        "totalLoggedHours": 28,
+        "engineeringManagerEmail": null,
+        "timestamp": "2026-05-25 11:35:21"
     },
     {
         "id": 373,
@@ -1355,7 +1501,9 @@
             }
         ],
         "worklogsTotal": 50,
-        "totalLoggedHours": 51.95
+        "totalLoggedHours": 51.95,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:22"
     },
     {
         "id": 371,
@@ -1374,7 +1522,9 @@
             }
         ],
         "worklogsTotal": 71,
-        "totalLoggedHours": 223.43
+        "totalLoggedHours": 223.43,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:24"
     },
     {
         "id": 370,
@@ -1393,7 +1543,9 @@
             }
         ],
         "worklogsTotal": 21,
-        "totalLoggedHours": 32.0
+        "totalLoggedHours": 32.0,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:26"
     },
     {
         "id": 369,
@@ -1412,7 +1564,9 @@
             }
         ],
         "worklogsTotal": 83,
-        "totalLoggedHours": 77.39
+        "totalLoggedHours": 77.39,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:27"
     },
     {
         "id": 368,
@@ -1431,7 +1585,9 @@
             }
         ],
         "worklogsTotal": 23,
-        "totalLoggedHours": 85.75
+        "totalLoggedHours": 85.75,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:29"
     },
     {
         "id": 367,
@@ -1450,7 +1606,9 @@
             }
         ],
         "worklogsTotal": 248,
-        "totalLoggedHours": 358.8100000000003
+        "totalLoggedHours": 358.8100000000003,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:30"
     },
     {
         "id": 366,
@@ -1469,7 +1627,9 @@
             }
         ],
         "worklogsTotal": 43,
-        "totalLoggedHours": 56.13000000000001
+        "totalLoggedHours": 56.13000000000001,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:32"
     },
     {
         "id": 365,
@@ -1488,7 +1648,9 @@
             }
         ],
         "worklogsTotal": 102,
-        "totalLoggedHours": 132.70999999999998
+        "totalLoggedHours": 132.70999999999998,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:34"
     },
     {
         "id": 363,
@@ -1514,7 +1676,9 @@
             }
         ],
         "worklogsTotal": 83,
-        "totalLoggedHours": 94.78
+        "totalLoggedHours": 94.78,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:35"
     },
     {
         "id": 362,
@@ -1533,7 +1697,9 @@
             }
         ],
         "worklogsTotal": 49,
-        "totalLoggedHours": 63.04
+        "totalLoggedHours": 63.04,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:37"
     },
     {
         "id": 361,
@@ -1552,7 +1718,9 @@
             }
         ],
         "worklogsTotal": 143,
-        "totalLoggedHours": 229.49
+        "totalLoggedHours": 229.49,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:38"
     },
     {
         "id": 360,
@@ -1571,7 +1739,9 @@
             }
         ],
         "worklogsTotal": 344,
-        "totalLoggedHours": 719.2599999999999
+        "totalLoggedHours": 719.2599999999999,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:40"
     },
     {
         "id": 359,
@@ -1590,7 +1760,9 @@
             }
         ],
         "worklogsTotal": 1426,
-        "totalLoggedHours": 2301.749999999999
+        "totalLoggedHours": 2301.749999999999,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:42"
     },
     {
         "id": 357,
@@ -1609,7 +1781,9 @@
             }
         ],
         "worklogsTotal": 83,
-        "totalLoggedHours": 132.25
+        "totalLoggedHours": 132.25,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:43"
     },
     {
         "id": 356,
@@ -1628,7 +1802,9 @@
             }
         ],
         "worklogsTotal": 212,
-        "totalLoggedHours": 511.0
+        "totalLoggedHours": 511.0,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:45"
     },
     {
         "id": 355,
@@ -1647,7 +1823,9 @@
             }
         ],
         "worklogsTotal": 186,
-        "totalLoggedHours": 407.92
+        "totalLoggedHours": 407.92,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:46"
     },
     {
         "id": 354,
@@ -1666,7 +1844,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:48"
     },
     {
         "id": 353,
@@ -1685,7 +1865,9 @@
             }
         ],
         "worklogsTotal": 120,
-        "totalLoggedHours": 277.26
+        "totalLoggedHours": 277.26,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:50"
     },
     {
         "id": 352,
@@ -1704,7 +1886,9 @@
             }
         ],
         "worklogsTotal": 5034,
-        "totalLoggedHours": 15632.339999999998
+        "totalLoggedHours": 15632.339999999998,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:51"
     },
     {
         "id": 351,
@@ -1723,7 +1907,9 @@
             }
         ],
         "worklogsTotal": 6,
-        "totalLoggedHours": 12.5
+        "totalLoggedHours": 12.5,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:53"
     },
     {
         "id": 350,
@@ -1742,7 +1928,9 @@
             }
         ],
         "worklogsTotal": 3208,
-        "totalLoggedHours": 6360.89
+        "totalLoggedHours": 6360.89,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:54"
     },
     {
         "id": 349,
@@ -1761,7 +1949,9 @@
             }
         ],
         "worklogsTotal": 370,
-        "totalLoggedHours": 663.3799999999999
+        "totalLoggedHours": 663.3799999999999,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:56"
     },
     {
         "id": 348,
@@ -1780,7 +1970,9 @@
             }
         ],
         "worklogsTotal": 449,
-        "totalLoggedHours": 1085.7600000000002
+        "totalLoggedHours": 1085.7600000000002,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:57"
     },
     {
         "id": 347,
@@ -1799,7 +1991,9 @@
             }
         ],
         "worklogsTotal": 100,
-        "totalLoggedHours": 139.59
+        "totalLoggedHours": 139.59,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:35:59"
     },
     {
         "id": 346,
@@ -1818,7 +2012,9 @@
             }
         ],
         "worklogsTotal": 174,
-        "totalLoggedHours": 314.58
+        "totalLoggedHours": 314.58,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:01"
     },
     {
         "id": 345,
@@ -1837,7 +2033,9 @@
             }
         ],
         "worklogsTotal": 201,
-        "totalLoggedHours": 262.7699999999999
+        "totalLoggedHours": 262.7699999999999,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:02"
     },
     {
         "id": 344,
@@ -1856,7 +2054,9 @@
             }
         ],
         "worklogsTotal": 92,
-        "totalLoggedHours": 237.0
+        "totalLoggedHours": 237.0,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:04"
     },
     {
         "id": 343,
@@ -1875,7 +2075,9 @@
             }
         ],
         "worklogsTotal": 34,
-        "totalLoggedHours": 95.08
+        "totalLoggedHours": 95.08,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:05"
     },
     {
         "id": 342,
@@ -1894,7 +2096,9 @@
             }
         ],
         "worklogsTotal": 214,
-        "totalLoggedHours": 417.51
+        "totalLoggedHours": 417.51,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:07"
     },
     {
         "id": 341,
@@ -1920,7 +2124,9 @@
             }
         ],
         "worklogsTotal": 561,
-        "totalLoggedHours": 947.6799999999993
+        "totalLoggedHours": 947.6799999999993,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:09"
     },
     {
         "id": 340,
@@ -1939,7 +2145,9 @@
             }
         ],
         "worklogsTotal": 332,
-        "totalLoggedHours": 579.3100000000001
+        "totalLoggedHours": 579.3100000000001,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:10"
     },
     {
         "id": 339,
@@ -1958,7 +2166,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:12"
     },
     {
         "id": 338,
@@ -1977,7 +2187,9 @@
             }
         ],
         "worklogsTotal": 84,
-        "totalLoggedHours": 192.42000000000002
+        "totalLoggedHours": 192.42000000000002,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:13"
     },
     {
         "id": 337,
@@ -1996,7 +2208,9 @@
             }
         ],
         "worklogsTotal": 10,
-        "totalLoggedHours": 20.5
+        "totalLoggedHours": 20.5,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:15"
     },
     {
         "id": 336,
@@ -2015,7 +2229,9 @@
             }
         ],
         "worklogsTotal": 9,
-        "totalLoggedHours": 30.25
+        "totalLoggedHours": 30.25,
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:17"
     },
     {
         "id": 335,
@@ -2034,7 +2250,9 @@
             }
         ],
         "worklogsTotal": 144,
-        "totalLoggedHours": 227.34
+        "totalLoggedHours": 227.34,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:18"
     },
     {
         "id": 334,
@@ -2053,7 +2271,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:20"
     },
     {
         "id": 333,
@@ -2072,7 +2292,9 @@
             }
         ],
         "worklogsTotal": 164,
-        "totalLoggedHours": 373.51
+        "totalLoggedHours": 373.51,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:21"
     },
     {
         "id": 332,
@@ -2091,7 +2313,9 @@
             }
         ],
         "worklogsTotal": 460,
-        "totalLoggedHours": 894.6999999999996
+        "totalLoggedHours": 894.6999999999996,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:23"
     },
     {
         "id": 331,
@@ -2110,7 +2334,9 @@
             }
         ],
         "worklogsTotal": 949,
-        "totalLoggedHours": 2953.800000000002
+        "totalLoggedHours": 2953.800000000002,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:29"
     },
     {
         "id": 330,
@@ -2129,7 +2355,9 @@
             }
         ],
         "worklogsTotal": 1968,
-        "totalLoggedHours": 4314.999999999998
+        "totalLoggedHours": 4314.999999999998,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:33"
     },
     {
         "id": 329,
@@ -2148,7 +2376,9 @@
             }
         ],
         "worklogsTotal": 1299,
-        "totalLoggedHours": 2431.9400000000005
+        "totalLoggedHours": 2431.9400000000005,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:38"
     },
     {
         "id": 328,
@@ -2167,7 +2397,9 @@
             }
         ],
         "worklogsTotal": 23,
-        "totalLoggedHours": 96.17
+        "totalLoggedHours": 96.17,
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:40"
     },
     {
         "id": 327,
@@ -2186,7 +2418,9 @@
             }
         ],
         "worklogsTotal": 36,
-        "totalLoggedHours": 41.33
+        "totalLoggedHours": 41.33,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:45"
     },
     {
         "id": 326,
@@ -2197,7 +2431,9 @@
         "status": "Project approved",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": null,
+        "timestamp": "2026-05-25 11:36:49"
     },
     {
         "id": 323,
@@ -2216,7 +2452,9 @@
             }
         ],
         "worklogsTotal": 24,
-        "totalLoggedHours": 49.6
+        "totalLoggedHours": 49.6,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:52"
     },
     {
         "id": 322,
@@ -2235,7 +2473,9 @@
             }
         ],
         "worklogsTotal": 272,
-        "totalLoggedHours": 1061.49
+        "totalLoggedHours": 1061.49,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:57"
     },
     {
         "id": 321,
@@ -2254,7 +2494,9 @@
             }
         ],
         "worklogsTotal": 207,
-        "totalLoggedHours": 318.4499999999998
+        "totalLoggedHours": 318.4499999999998,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:36:58"
     },
     {
         "id": 320,
@@ -2273,7 +2515,9 @@
             }
         ],
         "worklogsTotal": 193,
-        "totalLoggedHours": 365.99000000000007
+        "totalLoggedHours": 365.99000000000007,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:00"
     },
     {
         "id": 319,
@@ -2292,7 +2536,9 @@
             }
         ],
         "worklogsTotal": 396,
-        "totalLoggedHours": 862.25
+        "totalLoggedHours": 862.25,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:02"
     },
     {
         "id": 318,
@@ -2311,7 +2557,9 @@
             }
         ],
         "worklogsTotal": 6,
-        "totalLoggedHours": 7.5
+        "totalLoggedHours": 7.5,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:03"
     },
     {
         "id": 317,
@@ -2330,7 +2578,9 @@
             }
         ],
         "worklogsTotal": 19,
-        "totalLoggedHours": 21.25
+        "totalLoggedHours": 21.25,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:05"
     },
     {
         "id": 316,
@@ -2349,7 +2599,9 @@
             }
         ],
         "worklogsTotal": 2232,
-        "totalLoggedHours": 4628.179999999999
+        "totalLoggedHours": 4628.179999999999,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:06"
     },
     {
         "id": 315,
@@ -2368,7 +2620,9 @@
             }
         ],
         "worklogsTotal": 493,
-        "totalLoggedHours": 1420.12
+        "totalLoggedHours": 1420.12,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:08"
     },
     {
         "id": 314,
@@ -2387,7 +2641,9 @@
             }
         ],
         "worklogsTotal": 2752,
-        "totalLoggedHours": 5344.070000000001
+        "totalLoggedHours": 5344.070000000001,
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:09"
     },
     {
         "id": 313,
@@ -2406,7 +2662,9 @@
             }
         ],
         "worklogsTotal": 5679,
-        "totalLoggedHours": 18743.079999999998
+        "totalLoggedHours": 18743.079999999998,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:14"
     },
     {
         "id": 312,
@@ -2425,7 +2683,9 @@
             }
         ],
         "worklogsTotal": 206,
-        "totalLoggedHours": 516.92
+        "totalLoggedHours": 516.92,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:19"
     },
     {
         "id": 311,
@@ -2444,7 +2704,9 @@
             }
         ],
         "worklogsTotal": 59,
-        "totalLoggedHours": 162.17000000000002
+        "totalLoggedHours": 162.17000000000002,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:22"
     },
     {
         "id": 310,
@@ -2463,7 +2725,9 @@
             }
         ],
         "worklogsTotal": 70,
-        "totalLoggedHours": 137.49
+        "totalLoggedHours": 137.49,
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:23"
     },
     {
         "id": 308,
@@ -2482,7 +2746,9 @@
             }
         ],
         "worklogsTotal": 2567,
-        "totalLoggedHours": 7662.949999999999
+        "totalLoggedHours": 7662.949999999999,
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:26"
     },
     {
         "id": 307,
@@ -2501,7 +2767,9 @@
             }
         ],
         "worklogsTotal": 1219,
-        "totalLoggedHours": 4557.780000000001
+        "totalLoggedHours": 4557.780000000001,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:30"
     },
     {
         "id": 305,
@@ -2520,7 +2788,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:34"
     },
     {
         "id": 290,
@@ -2539,7 +2809,9 @@
             }
         ],
         "worklogsTotal": 2165,
-        "totalLoggedHours": 3543.7200000000003
+        "totalLoggedHours": 3543.7200000000003,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:37"
     },
     {
         "id": 288,
@@ -2550,7 +2822,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 1,
-        "totalLoggedHours": 3
+        "totalLoggedHours": 3,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:41"
     },
     {
         "id": 287,
@@ -2561,7 +2835,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:45"
     },
     {
         "id": 286,
@@ -2572,7 +2848,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:47"
     },
     {
         "id": 284,
@@ -2591,7 +2869,9 @@
             }
         ],
         "worklogsTotal": 55,
-        "totalLoggedHours": 37.43000000000001
+        "totalLoggedHours": 37.43000000000001,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:52"
     },
     {
         "id": 283,
@@ -2610,7 +2890,9 @@
             }
         ],
         "worklogsTotal": 115,
-        "totalLoggedHours": 130.67
+        "totalLoggedHours": 130.67,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:37:56"
     },
     {
         "id": 281,
@@ -2643,7 +2925,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:01"
     },
     {
         "id": 277,
@@ -2654,7 +2938,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:06"
     },
     {
         "id": 258,
@@ -2673,7 +2959,9 @@
             }
         ],
         "worklogsTotal": 758,
-        "totalLoggedHours": 873.0899999999998
+        "totalLoggedHours": 873.0899999999998,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:08"
     },
     {
         "id": 256,
@@ -2692,7 +2980,9 @@
             }
         ],
         "worklogsTotal": 1346,
-        "totalLoggedHours": 2233.9100000000003
+        "totalLoggedHours": 2233.9100000000003,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:14"
     },
     {
         "id": 254,
@@ -2711,7 +3001,9 @@
             }
         ],
         "worklogsTotal": 5137,
-        "totalLoggedHours": 13288.11
+        "totalLoggedHours": 13288.11,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:18"
     },
     {
         "id": 243,
@@ -2737,7 +3029,9 @@
             }
         ],
         "worklogsTotal": 706,
-        "totalLoggedHours": 1847.0
+        "totalLoggedHours": 1847.0,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:23"
     },
     {
         "id": 241,
@@ -2756,7 +3050,9 @@
             }
         ],
         "worklogsTotal": 922,
-        "totalLoggedHours": 2967.3099999999995
+        "totalLoggedHours": 2967.3099999999995,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:25"
     },
     {
         "id": 236,
@@ -2775,7 +3071,9 @@
             }
         ],
         "worklogsTotal": 451,
-        "totalLoggedHours": 1875.25
+        "totalLoggedHours": 1875.25,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:26"
     },
     {
         "id": 230,
@@ -2794,7 +3092,9 @@
             }
         ],
         "worklogsTotal": 348,
-        "totalLoggedHours": 545.74
+        "totalLoggedHours": 545.74,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:28"
     },
     {
         "id": 227,
@@ -2805,7 +3105,9 @@
         "status": "Completed",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:30"
     },
     {
         "id": 225,
@@ -2824,7 +3126,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:31"
     },
     {
         "id": 224,
@@ -2843,7 +3147,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:33"
     },
     {
         "id": 223,
@@ -2869,7 +3175,9 @@
             }
         ],
         "worklogsTotal": 3499,
-        "totalLoggedHours": 7309.789999999999
+        "totalLoggedHours": 7309.789999999999,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:34"
     },
     {
         "id": 220,
@@ -2895,7 +3203,9 @@
             }
         ],
         "worklogsTotal": 2042,
-        "totalLoggedHours": 3645.99
+        "totalLoggedHours": 3645.99,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:36"
     },
     {
         "id": 215,
@@ -2914,7 +3224,9 @@
             }
         ],
         "worklogsTotal": 226,
-        "totalLoggedHours": 1632.42
+        "totalLoggedHours": 1632.42,
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:38"
     },
     {
         "id": 211,
@@ -2940,7 +3252,9 @@
             }
         ],
         "worklogsTotal": 4775,
-        "totalLoggedHours": 9035.369999999999
+        "totalLoggedHours": 9035.369999999999,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:43"
     },
     {
         "id": 210,
@@ -2959,7 +3273,9 @@
             }
         ],
         "worklogsTotal": 200,
-        "totalLoggedHours": 350.27000000000004
+        "totalLoggedHours": 350.27000000000004,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:49"
     },
     {
         "id": 209,
@@ -2970,7 +3286,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:53"
     },
     {
         "id": 200,
@@ -2989,7 +3307,9 @@
             }
         ],
         "worklogsTotal": 77,
-        "totalLoggedHours": 137.88
+        "totalLoggedHours": 137.88,
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:38:57"
     },
     {
         "id": 199,
@@ -3008,7 +3328,9 @@
             }
         ],
         "worklogsTotal": 33,
-        "totalLoggedHours": 39.0
+        "totalLoggedHours": 39.0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:01"
     },
     {
         "id": 192,
@@ -3027,7 +3349,9 @@
             }
         ],
         "worklogsTotal": 22,
-        "totalLoggedHours": 37.0
+        "totalLoggedHours": 37.0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:05"
     },
     {
         "id": 191,
@@ -3046,7 +3370,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:09"
     },
     {
         "id": 189,
@@ -3065,7 +3391,9 @@
             }
         ],
         "worklogsTotal": 67,
-        "totalLoggedHours": 161.01999999999998
+        "totalLoggedHours": 161.01999999999998,
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:12"
     },
     {
         "id": 182,
@@ -3084,7 +3412,9 @@
             }
         ],
         "worklogsTotal": 171,
-        "totalLoggedHours": 341.67
+        "totalLoggedHours": 341.67,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:15"
     },
     {
         "id": 181,
@@ -3103,7 +3433,9 @@
             }
         ],
         "worklogsTotal": 47,
-        "totalLoggedHours": 128.56
+        "totalLoggedHours": 128.56,
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:17"
     },
     {
         "id": 179,
@@ -3122,7 +3454,9 @@
             }
         ],
         "worklogsTotal": 17,
-        "totalLoggedHours": 27.75
+        "totalLoggedHours": 27.75,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:19"
     },
     {
         "id": 176,
@@ -3141,7 +3475,9 @@
             }
         ],
         "worklogsTotal": 1056,
-        "totalLoggedHours": 1732.85
+        "totalLoggedHours": 1732.85,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:20"
     },
     {
         "id": 173,
@@ -3167,7 +3503,9 @@
             }
         ],
         "worklogsTotal": 178,
-        "totalLoggedHours": 429.12
+        "totalLoggedHours": 429.12,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:22"
     },
     {
         "id": 172,
@@ -3178,7 +3516,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:23"
     },
     {
         "id": 170,
@@ -3204,7 +3544,9 @@
             }
         ],
         "worklogsTotal": 1157,
-        "totalLoggedHours": 2005.17
+        "totalLoggedHours": 2005.17,
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:25"
     },
     {
         "id": 169,
@@ -3223,7 +3565,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:27"
     },
     {
         "id": 167,
@@ -3242,7 +3586,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:28"
     },
     {
         "id": 162,
@@ -3253,7 +3599,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:30"
     },
     {
         "id": 159,
@@ -3272,7 +3620,9 @@
             }
         ],
         "worklogsTotal": 36,
-        "totalLoggedHours": 64.75
+        "totalLoggedHours": 64.75,
+        "engineeringManagerEmail": "rajeshneupane@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:31"
     },
     {
         "id": 136,
@@ -3283,7 +3633,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:33"
     },
     {
         "id": 132,
@@ -3302,7 +3654,9 @@
             }
         ],
         "worklogsTotal": 602,
-        "totalLoggedHours": 988.1800000000002
+        "totalLoggedHours": 988.1800000000002,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:35"
     },
     {
         "id": 128,
@@ -3313,7 +3667,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:36"
     },
     {
         "id": 126,
@@ -3324,7 +3680,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:38"
     },
     {
         "id": 125,
@@ -3335,7 +3693,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:40"
     },
     {
         "id": 115,
@@ -3354,7 +3714,9 @@
             }
         ],
         "worklogsTotal": 138,
-        "totalLoggedHours": 234.59000000000006
+        "totalLoggedHours": 234.59000000000006,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:41"
     },
     {
         "id": 112,
@@ -3387,7 +3749,9 @@
             }
         ],
         "worklogsTotal": 3472,
-        "totalLoggedHours": 7638.65
+        "totalLoggedHours": 7638.65,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:43"
     },
     {
         "id": 110,
@@ -3406,7 +3770,9 @@
             }
         ],
         "worklogsTotal": 2326,
-        "totalLoggedHours": 3575.4599999999996
+        "totalLoggedHours": 3575.4599999999996,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:44"
     },
     {
         "id": 102,
@@ -3425,7 +3791,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:46"
     },
     {
         "id": 92,
@@ -3444,7 +3812,9 @@
             }
         ],
         "worklogsTotal": 40,
-        "totalLoggedHours": 29.83
+        "totalLoggedHours": 29.83,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:48"
     },
     {
         "id": 91,
@@ -3463,7 +3833,9 @@
             }
         ],
         "worklogsTotal": 71,
-        "totalLoggedHours": 103.01
+        "totalLoggedHours": 103.01,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:50"
     },
     {
         "id": 90,
@@ -3489,7 +3861,9 @@
             }
         ],
         "worklogsTotal": 517,
-        "totalLoggedHours": 757.3499999999997
+        "totalLoggedHours": 757.3499999999997,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:52"
     },
     {
         "id": 85,
@@ -3508,7 +3882,9 @@
             }
         ],
         "worklogsTotal": 627,
-        "totalLoggedHours": 1525.08
+        "totalLoggedHours": 1525.08,
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:53"
     },
     {
         "id": 82,
@@ -3527,7 +3903,9 @@
             }
         ],
         "worklogsTotal": 832,
-        "totalLoggedHours": 1162.33
+        "totalLoggedHours": 1162.33,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:55"
     },
     {
         "id": 75,
@@ -3538,7 +3916,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:57"
     },
     {
         "id": 69,
@@ -3564,7 +3944,9 @@
             }
         ],
         "worklogsTotal": 1498,
-        "totalLoggedHours": 2499.4800000000005
+        "totalLoggedHours": 2499.4800000000005,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:39:59"
     },
     {
         "id": 58,
@@ -3583,7 +3965,9 @@
             }
         ],
         "worklogsTotal": 5485,
-        "totalLoggedHours": 8432.050000000005
+        "totalLoggedHours": 8432.050000000005,
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:00"
     },
     {
         "id": 57,
@@ -3609,7 +3993,9 @@
             }
         ],
         "worklogsTotal": 3989,
-        "totalLoggedHours": 7381.259999999999
+        "totalLoggedHours": 7381.259999999999,
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:02"
     },
     {
         "id": 51,
@@ -3628,7 +4014,9 @@
             }
         ],
         "worklogsTotal": 215,
-        "totalLoggedHours": 186.16000000000003
+        "totalLoggedHours": 186.16000000000003,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:03"
     },
     {
         "id": 46,
@@ -3639,7 +4027,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:05"
     },
     {
         "id": 42,
@@ -3650,7 +4040,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:07"
     },
     {
         "id": 30,
@@ -3661,7 +4053,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:08"
     },
     {
         "id": 25,
@@ -3672,7 +4066,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:10"
     },
     {
         "id": 14,
@@ -3683,7 +4079,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:11"
     },
     {
         "id": 13,
@@ -3694,7 +4092,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:13"
     },
     {
         "id": 12,
@@ -3705,7 +4105,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:14"
     },
     {
         "id": 11,
@@ -3716,7 +4118,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 46,
-        "totalLoggedHours": 48.91
+        "totalLoggedHours": 48.91,
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:16"
     },
     {
         "id": 10,
@@ -3735,7 +4139,9 @@
             }
         ],
         "worklogsTotal": 129,
-        "totalLoggedHours": 469.75
+        "totalLoggedHours": 469.75,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:18"
     },
     {
         "id": 4,
@@ -3746,7 +4152,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:19"
     },
     {
         "id": 2,
@@ -3757,7 +4165,9 @@
         "status": "Done",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:21"
     },
     {
         "id": 555,
@@ -3776,7 +4186,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:22"
     },
     {
         "id": 554,
@@ -3795,7 +4207,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:24"
     },
     {
         "id": 553,
@@ -3814,7 +4228,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:26"
     },
     {
         "id": 552,
@@ -3833,7 +4249,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:27"
     },
     {
         "id": 550,
@@ -3852,7 +4270,9 @@
             }
         ],
         "worklogsTotal": 1428,
-        "totalLoggedHours": 2381.5199999999995
+        "totalLoggedHours": 2381.5199999999995,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:29"
     },
     {
         "id": 549,
@@ -3863,7 +4283,9 @@
         "status": "Project approved",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:30"
     },
     {
         "id": 547,
@@ -3882,7 +4304,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:32"
     },
     {
         "id": 546,
@@ -3901,7 +4325,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:33"
     },
     {
         "id": 544,
@@ -3920,7 +4346,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:35"
     },
     {
         "id": 543,
@@ -3939,7 +4367,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:37"
     },
     {
         "id": 541,
@@ -3958,7 +4388,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": null,
+        "timestamp": "2026-05-25 11:40:38"
     },
     {
         "id": 540,
@@ -3977,7 +4409,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:40"
     },
     {
         "id": 539,
@@ -3988,7 +4422,9 @@
         "status": "Wireframe",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:41"
     },
     {
         "id": 536,
@@ -4007,7 +4443,9 @@
             }
         ],
         "worklogsTotal": 55,
-        "totalLoggedHours": 76.0
+        "totalLoggedHours": 76.0,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:43"
     },
     {
         "id": 535,
@@ -4026,7 +4464,9 @@
             }
         ],
         "worklogsTotal": 8,
-        "totalLoggedHours": 9.0
+        "totalLoggedHours": 9.0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:44"
     },
     {
         "id": 534,
@@ -4045,7 +4485,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:46"
     },
     {
         "id": 533,
@@ -4056,7 +4498,9 @@
         "status": "Kick Off Workshop",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:48"
     },
     {
         "id": 532,
@@ -4075,7 +4519,9 @@
             }
         ],
         "worklogsTotal": 3,
-        "totalLoggedHours": 3
+        "totalLoggedHours": 3,
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:49"
     },
     {
         "id": 530,
@@ -4094,7 +4540,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sweta@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:51"
     },
     {
         "id": 528,
@@ -4105,7 +4553,9 @@
         "status": "Kick Off Workshop",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:52"
     },
     {
         "id": 527,
@@ -4131,7 +4581,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:54"
     },
     {
         "id": 526,
@@ -4150,7 +4602,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:55"
     },
     {
         "id": 525,
@@ -4161,7 +4615,9 @@
         "status": "Project approved",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:57"
     },
     {
         "id": 524,
@@ -4194,7 +4650,9 @@
             }
         ],
         "worklogsTotal": 27,
-        "totalLoggedHours": 59.0
+        "totalLoggedHours": 59.0,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:40:59"
     },
     {
         "id": 522,
@@ -4220,7 +4678,9 @@
             }
         ],
         "worklogsTotal": 1,
-        "totalLoggedHours": 4.75
+        "totalLoggedHours": 4.75,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:00"
     },
     {
         "id": 521,
@@ -4239,7 +4699,9 @@
             }
         ],
         "worklogsTotal": 248,
-        "totalLoggedHours": 797.25
+        "totalLoggedHours": 797.25,
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:02"
     },
     {
         "id": 520,
@@ -4258,7 +4720,9 @@
             }
         ],
         "worklogsTotal": 104,
-        "totalLoggedHours": 205.0
+        "totalLoggedHours": 205.0,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:03"
     },
     {
         "id": 516,
@@ -4277,7 +4741,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:05"
     },
     {
         "id": 514,
@@ -4296,7 +4762,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sweta@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:07"
     },
     {
         "id": 513,
@@ -4315,7 +4783,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:08"
     },
     {
         "id": 501,
@@ -4334,7 +4804,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:10"
     },
     {
         "id": 488,
@@ -4353,7 +4825,9 @@
             }
         ],
         "worklogsTotal": 360,
-        "totalLoggedHours": 620.1399999999999
+        "totalLoggedHours": 620.1399999999999,
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:11"
     },
     {
         "id": 485,
@@ -4372,7 +4846,9 @@
             }
         ],
         "worklogsTotal": 454,
-        "totalLoggedHours": 898.2799999999999
+        "totalLoggedHours": 898.2799999999999,
+        "engineeringManagerEmail": "sweta@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:13"
     },
     {
         "id": 483,
@@ -4391,7 +4867,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:15"
     },
     {
         "id": 482,
@@ -4410,7 +4888,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": null,
+        "timestamp": "2026-05-25 11:41:16"
     },
     {
         "id": 481,
@@ -4429,7 +4909,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:18"
     },
     {
         "id": 480,
@@ -4448,7 +4930,9 @@
             }
         ],
         "worklogsTotal": 64,
-        "totalLoggedHours": 127.25
+        "totalLoggedHours": 127.25,
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:19"
     },
     {
         "id": 479,
@@ -4467,7 +4951,9 @@
             }
         ],
         "worklogsTotal": 56,
-        "totalLoggedHours": 125.17
+        "totalLoggedHours": 125.17,
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:21"
     },
     {
         "id": 476,
@@ -4478,7 +4964,9 @@
         "status": "Design - Approved and SRS Initiated",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:23"
     },
     {
         "id": 469,
@@ -4497,7 +4985,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:24"
     },
     {
         "id": 462,
@@ -4516,7 +5006,9 @@
             }
         ],
         "worklogsTotal": 2949,
-        "totalLoggedHours": 4710.429999999999
+        "totalLoggedHours": 4710.429999999999,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:26"
     },
     {
         "id": 461,
@@ -4535,7 +5027,9 @@
             }
         ],
         "worklogsTotal": 2935,
-        "totalLoggedHours": 3013.800000000001
+        "totalLoggedHours": 3013.800000000001,
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:27"
     },
     {
         "id": 459,
@@ -4554,7 +5048,9 @@
             }
         ],
         "worklogsTotal": 387,
-        "totalLoggedHours": 1188.33
+        "totalLoggedHours": 1188.33,
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:29"
     },
     {
         "id": 457,
@@ -4565,7 +5061,9 @@
         "status": "Wireframe",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:31"
     },
     {
         "id": 453,
@@ -4584,7 +5082,9 @@
             }
         ],
         "worklogsTotal": 871,
-        "totalLoggedHours": 1876.7799999999997
+        "totalLoggedHours": 1876.7799999999997,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:32"
     },
     {
         "id": 364,
@@ -4603,7 +5103,9 @@
             }
         ],
         "worklogsTotal": 3369,
-        "totalLoggedHours": 5117.049999999999
+        "totalLoggedHours": 5117.049999999999,
+        "engineeringManagerEmail": "sanjeena@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:34"
     },
     {
         "id": 303,
@@ -4622,7 +5124,9 @@
             }
         ],
         "worklogsTotal": 139,
-        "totalLoggedHours": 211.56000000000006
+        "totalLoggedHours": 211.56000000000006,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:35"
     },
     {
         "id": 300,
@@ -4641,7 +5145,9 @@
             }
         ],
         "worklogsTotal": 9,
-        "totalLoggedHours": 12.42
+        "totalLoggedHours": 12.42,
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:37"
     },
     {
         "id": 295,
@@ -4652,7 +5158,9 @@
         "status": "Project approved",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:39"
     },
     {
         "id": 294,
@@ -4671,7 +5179,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:40"
     },
     {
         "id": 293,
@@ -4690,7 +5200,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:42"
     },
     {
         "id": 274,
@@ -4709,7 +5221,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": null,
+        "timestamp": "2026-05-25 11:41:43"
     },
     {
         "id": 270,
@@ -4728,7 +5242,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:45"
     },
     {
         "id": 269,
@@ -4747,7 +5263,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:47"
     },
     {
         "id": 263,
@@ -4766,7 +5284,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:48"
     },
     {
         "id": 262,
@@ -4785,7 +5305,9 @@
             }
         ],
         "worklogsTotal": 108,
-        "totalLoggedHours": 233.75
+        "totalLoggedHours": 233.75,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:50"
     },
     {
         "id": 259,
@@ -4804,7 +5326,9 @@
             }
         ],
         "worklogsTotal": 79,
-        "totalLoggedHours": 197.15
+        "totalLoggedHours": 197.15,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:51"
     },
     {
         "id": 257,
@@ -4823,7 +5347,9 @@
             }
         ],
         "worklogsTotal": 546,
-        "totalLoggedHours": 857.7399999999999
+        "totalLoggedHours": 857.7399999999999,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:53"
     },
     {
         "id": 255,
@@ -4842,7 +5368,9 @@
             }
         ],
         "worklogsTotal": 73505,
-        "totalLoggedHours": 25891.490000000045
+        "totalLoggedHours": 25891.490000000045,
+        "engineeringManagerEmail": null,
+        "timestamp": "2026-05-25 11:41:55"
     },
     {
         "id": 253,
@@ -4861,7 +5389,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:56"
     },
     {
         "id": 248,
@@ -4880,7 +5410,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:58"
     },
     {
         "id": 245,
@@ -4899,7 +5431,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:41:59"
     },
     {
         "id": 242,
@@ -4918,7 +5452,9 @@
             }
         ],
         "worklogsTotal": 401,
-        "totalLoggedHours": 927.74
+        "totalLoggedHours": 927.74,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:01"
     },
     {
         "id": 238,
@@ -4937,7 +5473,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": null,
+        "timestamp": "2026-05-25 11:42:02"
     },
     {
         "id": 237,
@@ -4956,7 +5494,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": null,
+        "timestamp": "2026-05-25 11:42:04"
     },
     {
         "id": 234,
@@ -4975,7 +5515,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:06"
     },
     {
         "id": 232,
@@ -4994,7 +5536,9 @@
             }
         ],
         "worklogsTotal": 2531,
-        "totalLoggedHours": 4373.970000000001
+        "totalLoggedHours": 4373.970000000001,
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:07"
     },
     {
         "id": 221,
@@ -5013,7 +5557,9 @@
             }
         ],
         "worklogsTotal": 17,
-        "totalLoggedHours": 49.5
+        "totalLoggedHours": 49.5,
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:09"
     },
     {
         "id": 217,
@@ -5032,7 +5578,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:10"
     },
     {
         "id": 216,
@@ -5051,7 +5599,9 @@
             }
         ],
         "worklogsTotal": 2002,
-        "totalLoggedHours": 3707.2599999999984
+        "totalLoggedHours": 3707.2599999999984,
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:12"
     },
     {
         "id": 213,
@@ -5070,7 +5620,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:14"
     },
     {
         "id": 203,
@@ -5089,7 +5641,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:15"
     },
     {
         "id": 202,
@@ -5108,7 +5662,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:17"
     },
     {
         "id": 198,
@@ -5127,7 +5683,9 @@
             }
         ],
         "worklogsTotal": 366,
-        "totalLoggedHours": 944.06
+        "totalLoggedHours": 944.06,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:18"
     },
     {
         "id": 193,
@@ -5146,7 +5704,9 @@
             }
         ],
         "worklogsTotal": 2222,
-        "totalLoggedHours": 3368.750000000003
+        "totalLoggedHours": 3368.750000000003,
+        "engineeringManagerEmail": "rajeshneupane@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:20"
     },
     {
         "id": 185,
@@ -5165,7 +5725,9 @@
             }
         ],
         "worklogsTotal": 242,
-        "totalLoggedHours": 483.18000000000006
+        "totalLoggedHours": 483.18000000000006,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:22"
     },
     {
         "id": 180,
@@ -5184,7 +5746,9 @@
             }
         ],
         "worklogsTotal": 1901,
-        "totalLoggedHours": 3253.11
+        "totalLoggedHours": 3253.11,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:23"
     },
     {
         "id": 174,
@@ -5210,7 +5774,9 @@
             }
         ],
         "worklogsTotal": 96,
-        "totalLoggedHours": 195.9
+        "totalLoggedHours": 195.9,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:25"
     },
     {
         "id": 166,
@@ -5229,7 +5795,9 @@
             }
         ],
         "worklogsTotal": 6,
-        "totalLoggedHours": 9.75
+        "totalLoggedHours": 9.75,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:26"
     },
     {
         "id": 160,
@@ -5248,7 +5816,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:28"
     },
     {
         "id": 157,
@@ -5267,7 +5837,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:30"
     },
     {
         "id": 153,
@@ -5286,7 +5858,9 @@
             }
         ],
         "worklogsTotal": 1021,
-        "totalLoggedHours": 2319.09
+        "totalLoggedHours": 2319.09,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:31"
     },
     {
         "id": 148,
@@ -5305,7 +5879,9 @@
             }
         ],
         "worklogsTotal": 70,
-        "totalLoggedHours": 294.74
+        "totalLoggedHours": 294.74,
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:33"
     },
     {
         "id": 147,
@@ -5316,7 +5892,9 @@
         "status": "Budget Approval and Project Plan",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:34"
     },
     {
         "id": 143,
@@ -5335,7 +5913,9 @@
             }
         ],
         "worklogsTotal": 871,
-        "totalLoggedHours": 1107.000000000001
+        "totalLoggedHours": 1107.000000000001,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:36"
     },
     {
         "id": 141,
@@ -5354,7 +5934,9 @@
             }
         ],
         "worklogsTotal": 20,
-        "totalLoggedHours": 28.5
+        "totalLoggedHours": 28.5,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:37"
     },
     {
         "id": 138,
@@ -5373,7 +5955,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:39"
     },
     {
         "id": 129,
@@ -5392,7 +5976,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:41"
     },
     {
         "id": 127,
@@ -5411,7 +5997,9 @@
             }
         ],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:42"
     },
     {
         "id": 123,
@@ -5430,7 +6018,9 @@
             }
         ],
         "worklogsTotal": 745,
-        "totalLoggedHours": 1280.1300000000003
+        "totalLoggedHours": 1280.1300000000003,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:44"
     },
     {
         "id": 114,
@@ -5449,7 +6039,9 @@
             }
         ],
         "worklogsTotal": 410,
-        "totalLoggedHours": 987.12
+        "totalLoggedHours": 987.12,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:45"
     },
     {
         "id": 113,
@@ -5468,7 +6060,9 @@
             }
         ],
         "worklogsTotal": 423,
-        "totalLoggedHours": 720.83
+        "totalLoggedHours": 720.83,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:47"
     },
     {
         "id": 108,
@@ -5487,7 +6081,9 @@
             }
         ],
         "worklogsTotal": 572,
-        "totalLoggedHours": 3671.92
+        "totalLoggedHours": 3671.92,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:49"
     },
     {
         "id": 107,
@@ -5506,7 +6102,9 @@
             }
         ],
         "worklogsTotal": 1739,
-        "totalLoggedHours": 2578.1600000000017
+        "totalLoggedHours": 2578.1600000000017,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:50"
     },
     {
         "id": 105,
@@ -5525,7 +6123,9 @@
             }
         ],
         "worklogsTotal": 288,
-        "totalLoggedHours": 2120.19
+        "totalLoggedHours": 2120.19,
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:52"
     },
     {
         "id": 103,
@@ -5544,7 +6144,9 @@
             }
         ],
         "worklogsTotal": 6766,
-        "totalLoggedHours": 38459.07999999999
+        "totalLoggedHours": 38459.07999999999,
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:53"
     },
     {
         "id": 101,
@@ -5563,7 +6165,9 @@
             }
         ],
         "worklogsTotal": 408,
-        "totalLoggedHours": 1121.98
+        "totalLoggedHours": 1121.98,
+        "engineeringManagerEmail": "sweta@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:55"
     },
     {
         "id": 98,
@@ -5582,7 +6186,9 @@
             }
         ],
         "worklogsTotal": 1286,
-        "totalLoggedHours": 2114.21
+        "totalLoggedHours": 2114.21,
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:57"
     },
     {
         "id": 97,
@@ -5593,7 +6199,9 @@
         "status": "Wireframe",
         "planning": [],
         "worklogsTotal": 0,
-        "totalLoggedHours": 0
+        "totalLoggedHours": 0,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:42:58"
     },
     {
         "id": 72,
@@ -5612,7 +6220,9 @@
             }
         ],
         "worklogsTotal": 3977,
-        "totalLoggedHours": 8529.640000000001
+        "totalLoggedHours": 8529.640000000001,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:43:00"
     },
     {
         "id": 68,
@@ -5631,7 +6241,9 @@
             }
         ],
         "worklogsTotal": 1407,
-        "totalLoggedHours": 2449.6400000000012
+        "totalLoggedHours": 2449.6400000000012,
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:43:02"
     },
     {
         "id": 60,
@@ -5664,7 +6276,9 @@
             }
         ],
         "worklogsTotal": 6022,
-        "totalLoggedHours": 11143.85
+        "totalLoggedHours": 11143.85,
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:43:03"
     },
     {
         "id": 59,
@@ -5683,7 +6297,9 @@
             }
         ],
         "worklogsTotal": 51,
-        "totalLoggedHours": 54.91
+        "totalLoggedHours": 54.91,
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:43:05"
     },
     {
         "id": 55,
@@ -5702,7 +6318,9 @@
             }
         ],
         "worklogsTotal": 297,
-        "totalLoggedHours": 424.75000000000006
+        "totalLoggedHours": 424.75000000000006,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:43:06"
     },
     {
         "id": 52,
@@ -5721,7 +6339,9 @@
             }
         ],
         "worklogsTotal": 1137,
-        "totalLoggedHours": 2959.57
+        "totalLoggedHours": 2959.57,
+        "engineeringManagerEmail": "rajeshneupane@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:43:08"
     },
     {
         "id": 49,
@@ -5740,7 +6360,9 @@
             }
         ],
         "worklogsTotal": 3124,
-        "totalLoggedHours": 5170.300000000002
+        "totalLoggedHours": 5170.300000000002,
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:43:09"
     },
     {
         "id": 43,
@@ -5759,7 +6381,9 @@
             }
         ],
         "worklogsTotal": 6,
-        "totalLoggedHours": 2.33
+        "totalLoggedHours": 2.33,
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:43:11"
     },
     {
         "id": 31,
@@ -5778,7 +6402,9 @@
             }
         ],
         "worklogsTotal": 112,
-        "totalLoggedHours": 142.10999999999999
+        "totalLoggedHours": 142.10999999999999,
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:43:13"
     },
     {
         "id": 26,
@@ -5804,7 +6430,9 @@
             }
         ],
         "worklogsTotal": 12,
-        "totalLoggedHours": 13.950000000000001
+        "totalLoggedHours": 13.950000000000001,
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:43:19"
     },
     {
         "id": 6,
@@ -5823,7 +6451,9 @@
             }
         ],
         "worklogsTotal": 969,
-        "totalLoggedHours": 1163.2399999999998
+        "totalLoggedHours": 1163.2399999999998,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:43:24"
     },
     {
         "id": 3,
@@ -5842,6 +6472,8 @@
             }
         ],
         "worklogsTotal": 27,
-        "totalLoggedHours": 24.990000000000002
+        "totalLoggedHours": 24.990000000000002,
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "timestamp": "2026-05-25 11:43:30"
     }
 ]

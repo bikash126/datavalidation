@@ -1,0 +1,317 @@
+planningStatus,planning_status,requestReviewCategory,isArchive,developmentStatus,status,totalLoggedHours,worklogsTotal,planning_id,projecType,id,resourceApproved,name,timestamp,engineeringManagerEmail
+Approved,active,Plan_Review,False,Active,Final Budget Approval,31.25,20,738,REGULAR,531,False,CT Freight Webapp - eAdaptor Next,2026-05-25 11:32:46,gorakh@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Budget Approval and Project Plan,18.0,6,743,REGULAR,529,False,EBP-RFC 3446 Kapstream RFC1,2026-05-25 11:32:51,sunil@ebpearls.com.au
+,,,False,Active,Kick Off Workshop,0,0,,REGULAR,519,,EBP-PROTO 1467 OptiCoach Prototype,2026-05-25 11:32:55,rupesh@ebpearls.com.au
+,,,False,Active,Wireframe,0,0,,REGULAR,518,,Opti coach,2026-05-25 11:32:58,prashant@ebpearls.com.au
+,,,False,Active,Wireframe - Approved and Design Started,0,0,,REGULAR,517,,EBP-ENT 4081 King River Outdoors Prototype,2026-05-25 11:33:02,karun@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Project approved,3.0,3,635,REGULAR,503,False, Jackson Ranch RFC17,2026-05-25 11:33:07,sunil@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Final Budget Approval,3,1,621,REGULAR,498,False, St.Jude's RFC1 v2,2026-05-25 11:33:10,sunil@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Development,205.94,84,793,REGULAR,497,False, WUNA RFC10,2026-05-25 11:33:13,sunil@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Development,3.0,5,608,REGULAR,489,False,Castle and Things,2026-05-25 11:33:15,sunil@ebpearls.com.au
+,,,False,Active,Wireframe,0,0,,REGULAR,484,,EBP-ENT 3694 DIY Tradie (Prototype),2026-05-25 11:33:18,karun@ebpearls.com.au
+Approved,active,,False,Active,Project approved,26.590000000000003,17,548,REGULAR,466,False,EBP-ENT 4090 Isaac DevOps Audit,2026-05-25 11:33:21,pradeep@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Development,0,0,546,REGULAR,464,False,CMS-RFC 3482 Bannister RFC10,2026-05-25 11:33:23,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Completed,0,0,308,REGULAR,456,False,Double Guard App old,2026-05-25 11:33:24,karun@ebpearls.com.au
+,,,False,Active,Project approved,16.17,7,,REGULAR,446,,EBP-CMS 2474 365mesh,2026-05-25 11:33:26,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,167.59999999999997,102,543,REGULAR,444,False,EBP-ENT 2756 Production Software,2026-05-25 11:33:27,nabin@ebpearls.com.au
+Approved,active,,False,Active,Project approved,631.8,334,542,REGULAR,443,False,EBP-CMS 2351 Africa Marketplace (Shopify Them,2026-05-25 11:33:29,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,51.599999999999994,46,541,REGULAR,442,False,EBP-CMS 2316 Bracton Group,2026-05-25 11:33:31,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,337.5,187,540,REGULAR,441,False,EBP-CMS 2590 Express Glass,2026-05-25 11:33:32,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,1144.5000000000005,484,539,REGULAR,440,False,EBP-CMS 2205 Online Pharmacy Agency v2,2026-05-25 11:33:34,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,748.14,340,538,REGULAR,439,False,EBP-CMS 1795 The Deep Blue,2026-05-25 11:33:36,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,24.5,16,537,REGULAR,438,False,EBP-ENT 2544 OORT RFC1 (App Landing Page),2026-05-25 11:33:37,sunil@ebpearls.com.au
+,,,False,Active,Project approved,0,0,,REGULAR,437,,EBP-CMS 1795 The Deep Blue,2026-05-25 11:33:39,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,58.08,38,292,REGULAR,436,False,EBP-CMS 2336 Black Jet Website v2,2026-05-25 11:33:40,anima@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,6.75,11,288,REGULAR,435,False,EBP-ENT 3645 Homemaker Investment App,2026-05-25 11:33:42,
+Draft,inactive,,False,Active,Project approved,0,0,286,REGULAR,434,False,EBP-CMS 2333 Robert Clerc,2026-05-25 11:33:43,anima@ebpearls.com.au
+Approved,active,,False,Active,Project approved,1032.5499999999993,764,536,REGULAR,432,False,EBP-ENT 2864 Quatt,2026-05-25 11:33:45,nabin@ebpearls.com.au
+Approved,active,,False,Active,Project approved,287.2099999999999,150,535,REGULAR,431,False,EBP-CMS 2481 TDS Website without Woocommerce,2026-05-25 11:33:47,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,375.63999999999993,256,534,REGULAR,430,False,EBP-CMS 2475 Environmental Group Australia v2,2026-05-25 11:33:48,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,677.18,277,285,REGULAR,429,False,Prep10,2026-05-25 11:33:50,sunil@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Completed,37.5,21,533,REGULAR,428,False,Rotech,2026-05-25 11:33:51,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,127.75,113,282,REGULAR,427,False,EBP-CMS 2533 Friends United v2 (Theme Based),2026-05-25 11:33:53,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,296.13,181,532,REGULAR,426,False,EBP-CMS 2571 Glide Online Travel Clinic,2026-05-25 11:33:54,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,167.76000000000002,132,531,REGULAR,425,False,EBP-CMS 2456 Australian Alkaloids Trading,2026-05-25 11:33:56,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,704.2899999999993,534,530,REGULAR,424,False,EBP-CMS 2395 Ferocious Feed v2,2026-05-25 11:33:58,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,98.08,91,275,REGULAR,423,False,EBP - CMS Howdy Website,2026-05-25 11:33:59,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,275.0,96,529,REGULAR,422,False,EBP-CMS 2211 ASENO,2026-05-25 11:34:01,anima@ebpearls.com.au
+Approved,active,,False,Active,Project approved,344.56999999999994,212,528,REGULAR,421,False,EBP-CMS 2601 Exportia v2,2026-05-25 11:34:02,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,94.42,40,527,REGULAR,420,False,EBP-CMS 2479 Prismo Website,2026-05-25 11:34:04,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,199.54999999999998,111,271,REGULAR,419,False,EBP-CMS 2361 Double Guard (Templated Pages),2026-05-25 11:34:06,samir@ebpearls.com.au
+Approved,active,,False,Active,Project approved,139.10000000000002,116,526,REGULAR,418,False,EBP-ENT 3178 Figrun v2,2026-05-25 11:34:07,nabin@ebpearls.com.au
+Approved,active,,False,Active,Project approved,377.37000000000006,260,525,REGULAR,417,False,EBP-CMS 2397 My Guardian,2026-05-25 11:34:09,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,342.90999999999997,117,524,REGULAR,415,False,EBP-CMS 2172 Power Sync,2026-05-25 11:34:10,anima@ebpearls.com.au
+Approved,active,,False,Active,Project approved,733.7600000000001,389,523,REGULAR,414,False,EBP-CMS 2293 Aesthetic practitioner Platform,2026-05-25 11:34:12,sunil@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Project approved,301.1300000000001,236,626,REGULAR,412,False,EBP-CMS 2436 Wyer & Co,2026-05-25 11:34:18,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,77.26,47,521,REGULAR,409,False,EBP-CMS 2359 Aydin Co Picture Framing (Shopify Template) v2,2026-05-25 11:34:21,samir@ebpearls.com.au
+Approved,active,,False,Active,Project approved,39.41,18,520,REGULAR,408,False,EBP-CMS 2329 Honey Pot Landing Page,2026-05-25 11:34:25,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,2025.5599999999993,837,266,REGULAR,407,False,EBP-CMS 2120 Coerver,2026-05-25 11:34:27,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,152.31,126,264,REGULAR,406,False,CMS-Talk Now Telehealth,2026-05-25 11:34:29,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,581.45,231,519,REGULAR,404,False,AG-CMS 1823 Safe Work,2026-05-25 11:34:35,anima@ebpearls.com.au
+Approved,active,,False,Active,Project approved,139.42000000000002,76,518,REGULAR,403,False,EBP-ENT 3069 Exquisite Giveaways,2026-05-25 11:34:38,nabin@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Completed,945.8499999999996,642,707,REGULAR,402,False,AG-CMS 1846 Metz Website,2026-05-25 11:34:43,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,447.17,246,515,REGULAR,401,False,EBP-CMS 2295 TrueCover,2026-05-25 11:34:47,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,550.1800000000001,258,253,REGULAR,400,False,AG-CMS 1773 Transference Healing,2026-05-25 11:34:49,ray@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,344.6299999999998,186,254,REGULAR,399,False,EBP - CMS  Pogozo Website,2026-05-25 11:34:51,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,291.34000000000003,152,514,REGULAR,398,False,EBP-CMS 2260  You Choose Pets (Landing Page),2026-05-25 11:34:52,sunil@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Project approved,898.76,468,513,REGULAR,397,False,Kathford Project,2026-05-25 11:34:54,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,243.91000000000005,154,512,REGULAR,396,False,Bloomfield Care,2026-05-25 11:34:56,anima@ebpearls.com.au
+Approved,active,,False,Active,Project approved,326.92,196,667,REGULAR,395,False,EBP-CMS 2388 Leora.ai v2,2026-05-25 11:34:57,samir@ebpearls.com.au
+Approved,active,,False,Active,Project approved,459.9200000000001,366,510,REGULAR,394,False,EBP-CMS 2335 CommandAuto,2026-05-25 11:34:59,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,97.99000000000001,44,666,REGULAR,393,False,EBP-CMS 1878 Estraints,2026-05-25 11:35:00,ray@ebpearls.com.au
+Approved,active,,False,Active,Project approved,512.6700000000001,328,508,REGULAR,390,False,EBP-CMS 2280 Lewis Hotels Group,2026-05-25 11:35:02,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,0,0,252,REGULAR,388,False,EBP-CMS 2253 Parras Hospitality Websites,2026-05-25 11:35:03,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,4100.059999999999,2070,639,REGULAR,386,False,EBP-ENT 2922 Shrynk(Yooli),2026-05-25 11:35:05,nabin@ebpearls.com.au
+Approved,active,,False,Active,Project approved,488.3200000000001,313,506,REGULAR,385,False,EBP-CMS 2334 Mothers Polish,2026-05-25 11:35:07,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,159.98000000000005,131,640,REGULAR,384,False,EBP-CMS 2331 The Art of Voice Australia,2026-05-25 11:35:08,samir@ebpearls.com.au
+Approved,active,,False,Active,Project approved,0,0,504,REGULAR,383,False,CMS-RFC 2837 Sydney Collective (Website Trans,2026-05-25 11:35:10,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,7.09,10,503,REGULAR,382,False,EBP-ENT 2797 Reliable Driving School Code Audit,2026-05-25 11:35:11,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,225.84999999999997,146,638,REGULAR,381,False,EBP-CMS 2366 Skeiny v2,2026-05-25 11:35:13,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,1875.4799999999996,1274,501,REGULAR,380,False,EBP-CMS 2383 MotorOne (Phase 1),2026-05-25 11:35:14,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,639.32,331,500,REGULAR,379,False,EBP-CMS 2552 AFRIGAR,2026-05-25 11:35:16,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,0,0,669,REGULAR,378,False,EBP-CMS 2085 Will & Estate Planner - Branding,2026-05-25 11:35:18,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,1653.440000000003,814,620,REGULAR,375,False,EBP-CMS 2041 Muzikboxx WordPress,2026-05-25 11:35:19,ray@ebpearls.com.au
+Approved,active,,False,Active,Project approved,28,4,497,REGULAR,374,False,Club Culture Australia,2026-05-25 11:35:21,
+Approved,active,,False,Active,Project approved,51.95,50,496,REGULAR,373,False,EBP-CMS 2468 BAHAH Landing Page,2026-05-25 11:35:22,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,223.43,71,495,REGULAR,371,False,EBP-CMS 1851 Achieved Music,2026-05-25 11:35:24,sunil@ebpearls.com.au
+InProgress,inactive,,False,Active,Project approved,32.0,21,302,REGULAR,370,False,EBP-STAFF 1436 Indigenous Futures Foundation - Staff Lease,2026-05-25 11:35:26,gorakh@ebpearls.com.au
+Approved,active,,False,Active,Project approved,77.39,83,494,REGULAR,369,False,EBP-ENT 3558 PawPal,2026-05-25 11:35:27,gorakh@ebpearls.com.au
+Approved,active,,False,Active,Project approved,85.75,23,493,REGULAR,368,False,EBP-ENT 3521 School Stream - Code Audit,2026-05-25 11:35:29,gorakh@ebpearls.com.au
+Approved,active,,False,Active,Project approved,358.8100000000003,248,492,REGULAR,367,False,EBP-CMS 2474 365mesh,2026-05-25 11:35:30,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,56.13000000000001,43,491,REGULAR,366,False,EBP-CMS 2535 Pure Oz Shopify Template,2026-05-25 11:35:32,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,132.70999999999998,102,585,REGULAR,365,False,Communication Spectrum/ My Comms Website,2026-05-25 11:35:34,sunil@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Project approved,94.78,83,489,REGULAR,363,False,EBP-CMS 2513 EL Toro v2,2026-05-25 11:35:35,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,63.04,49,487,REGULAR,362,False,EBP-CMS 2540 Di Nuovo,2026-05-25 11:35:37,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,229.49,143,486,REGULAR,361,False,EBP-CMS 2473 Flip Pay (Website),2026-05-25 11:35:38,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,719.2599999999999,344,218,REGULAR,360,False,EBP-ENT 3224 TopTeacher Code Audit,2026-05-25 11:35:40,gorakh@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,2301.749999999999,1426,216,REGULAR,359,False,EBP-ENT 2685 Peacock Pages,2026-05-25 11:35:42,gorakh@ebpearls.com.au
+Approved,active,,False,Active,Project approved,132.25,83,485,REGULAR,357,False,EBP-ENT 3084 Launch Pro (Legal Project),2026-05-25 11:35:43,gorakh@ebpearls.com.au
+Approved,active,,False,Active,Project approved,511.0,212,484,REGULAR,356,False,Meta Health,2026-05-25 11:35:45,gorakh@ebpearls.com.au
+Approved,active,,False,Active,Project approved,407.92,186,483,REGULAR,355,False,EBP-CMS 2529 Leora Health,2026-05-25 11:35:46,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,0,0,482,REGULAR,354,False,EBP-CMS 2568 TrendTrade - Wordpress,2026-05-25 11:35:48,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,277.26,120,481,REGULAR,353,False,AG-CMS 1817 Early Trade,2026-05-25 11:35:50,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,15632.339999999998,5034,480,REGULAR,352,False,EBP-ENT 1999 Intro v2,2026-05-25 11:35:51,nabin@ebpearls.com.au
+Approved,active,,False,Active,Project approved,12.5,6,479,REGULAR,351,False,AG-CMS 695 - Medecins Sans Frontieres_Doctors,2026-05-25 11:35:53,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,6360.89,3208,478,REGULAR,350,False,EBP-ENT 2630 Megacash v2,2026-05-25 11:35:54,karun@ebpearls.com.au
+Approved,active,,False,Active,Project approved,663.3799999999999,370,477,REGULAR,349,False,EBP-CMS 622 - Gallery Funaki,2026-05-25 11:35:56,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,1085.7600000000002,449,476,REGULAR,348,False,EBP-CMS 129 - Peds Industrial,2026-05-25 11:35:57,gorakh@ebpearls.com.au
+Approved,active,,False,Active,Project approved,139.59,100,475,REGULAR,347,False,EBP-CMS 2542 Kris and Li Cleaning Services,2026-05-25 11:35:59,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,314.58,174,200,REGULAR,346,False,EBP-CMS 2262 Wine Warehouse v2,2026-05-25 11:36:01,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,262.7699999999999,201,474,REGULAR,345,False,EBP-ENT 2989 Travel App,2026-05-25 11:36:02,ray@ebpearls.com.au
+Approved,active,,False,Active,Project approved,237.0,92,473,REGULAR,344,False,EBP-ENT 2035 Will & Estate Planner,2026-05-25 11:36:04,ray@ebpearls.com.au
+Approved,active,,False,Active,Project approved,95.08,34,472,REGULAR,343,False,EBP-ENT 2276 Real Estate App Branding,2026-05-25 11:36:05,prashant@ebpearls.com.au
+Approved,active,,False,Active,Project approved,417.51,214,471,REGULAR,342,False,EBP-CMS 2223 Owner Inspections v2,2026-05-25 11:36:07,sunil@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Completed,947.6799999999993,561,670,REGULAR,341,False,EBP-CMS 272 - Mondiale VGL,2026-05-25 11:36:09,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,579.3100000000001,332,469,REGULAR,340,False,EBP-CMS 2286 Dosatron v2,2026-05-25 11:36:10,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,0,0,468,REGULAR,339,False,EBP-CMS 2189 Flow Leaders,2026-05-25 11:36:12,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,192.42000000000002,84,467,REGULAR,338,False,EBP-CMS 278 - Sydney Plumbing,2026-05-25 11:36:13,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,20.5,10,466,REGULAR,337,False,EBP-CMS 2251 Dickies Transportation,2026-05-25 11:36:15,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,30.25,9,191,REGULAR,336,False,EBP-ENT 3131 AnyFind Code Audit,2026-05-25 11:36:17,samir@ebpearls.com.au
+Approved,active,,False,Active,Project approved,227.34,144,465,REGULAR,335,False,EBP-CMS 2220  Pest Control Specialists v2,2026-05-25 11:36:18,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,0,0,464,REGULAR,334,False,AG-CMS 1799 ACRF,2026-05-25 11:36:20,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,373.51,164,463,REGULAR,333,False,AG-CMS 1818 Trickstar,2026-05-25 11:36:21,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,894.6999999999996,460,462,REGULAR,332,False,EBP-CMS 2564 Yakkly (Wordpress),2026-05-25 11:36:23,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,2953.800000000002,949,461,REGULAR,331,False,EBP-CMS 2114 - Head On,2026-05-25 11:36:29,gorakh@ebpearls.com.au
+Approved,active,,False,Active,Project approved,4314.999999999998,1968,460,REGULAR,330,False,EBP-ENT 2318 GRC Institute Membership Portal,2026-05-25 11:36:33,ray@ebpearls.com.au
+Approved,active,,False,Active,Project approved,2431.9400000000005,1299,459,REGULAR,329,False,EBP-ENT 2539 EML v2,2026-05-25 11:36:38,nabin@ebpearls.com.au
+Approved,active,,False,Active,Project approved,96.17,23,458,REGULAR,328,False,EBP-ENT 3237 Activfy Code Audit,2026-05-25 11:36:40,samir@ebpearls.com.au
+Approved,active,,False,Active,Project approved,41.33,36,457,REGULAR,327,False,EBP-CMS 2276 EzyCharge,2026-05-25 11:36:45,sunil@ebpearls.com.au
+,,,False,Active,Project approved,0,0,,REGULAR,326,,EBP-ENT 2318 GRC Institute Membership Portal,2026-05-25 11:36:49,
+Approved,active,,False,Active,Project approved,49.6,24,456,REGULAR,323,False,EBP-CMS 2538 CT Freight - Landing Page,2026-05-25 11:36:52,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,1061.49,272,455,REGULAR,322,False,EBP-ENT 1868 Exportia,2026-05-25 11:36:57,gorakh@ebpearls.com.au
+Approved,active,,False,Active,Project approved,318.4499999999998,207,454,REGULAR,321,False,EBP-CMS 2288 Asteri Mason v3,2026-05-25 11:36:58,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,365.99000000000007,193,453,REGULAR,320,False,EBP-CMS 2146 Babylonchain,2026-05-25 11:37:00,sunil@ebpearls.com.au
+Approved,active,,False,Active,Completed,862.25,396,452,REGULAR,319,False,EBP-ENT 2195 NSW Child Protection App,2026-05-25 11:37:02,ray@ebpearls.com.au
+Approved,active,,False,Active,Project approved,7.5,6,451,REGULAR,318,False,EBP-CMS 2019 Bendooley Estate,2026-05-25 11:37:03,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,21.25,19,168,REGULAR,317,False,EBP-CMS 2661 JLI Computers Shopify Theme,2026-05-25 11:37:05,sunil@ebpearls.com.au
+Draft,active,,False,Active,Project approved,4628.179999999999,2232,780,REGULAR,316,False,EBP-ENT 2992 Howdy,2026-05-25 11:37:06,prashant@ebpearls.com.au
+Approved,active,,False,Active,Project approved,1420.12,493,449,REGULAR,315,False,EBP-ENT 1905 V-Insurance,2026-05-25 11:37:08,karun@ebpearls.com.au
+Approved,active,,False,Active,Project approved,5344.070000000001,2752,448,REGULAR,314,False,EBP-ENT 2583 Honeypot,2026-05-25 11:37:09,samir@ebpearls.com.au
+Approved,active,,False,Active,Completed,18743.079999999998,5679,447,REGULAR,313,False,EBP-ENT 2042 Australian Community Media v2,2026-05-25 11:37:14,gorakh@ebpearls.com.au
+Approved,active,,False,Active,Project approved,516.92,206,446,REGULAR,312,False,EBP-ENT 2175 Gigsta,2026-05-25 11:37:19,nabin@ebpearls.com.au
+Approved,active,,False,Active,Project approved,162.17000000000002,59,445,REGULAR,311,False,AG-CMS 1813 Fasta Pasta,2026-05-25 11:37:22,sunil@ebpearls.com.au
+Approved,active,,False,Active,Project approved,137.49,70,444,REGULAR,310,False,EBP-ENT 2378 StoryBook App,2026-05-25 11:37:23,bikash@ebpearls.com.au
+Approved,active,,False,Active,Project approved,7662.949999999999,2567,443,REGULAR,308,False,EBP-ENT 2294 Specialist Protection Group (Android),2026-05-25 11:37:26,narendra@ebpearls.com.au
+Approved,active,,False,Active,Project approved,4557.780000000001,1219,442,REGULAR,307,False,EBP-ENT 2140 One Wear Only Hire,2026-05-25 11:37:30,ray@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,0,0,153,REGULAR,305,True,DevOps,2026-05-25 11:37:34,pradeep@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Wireframe - Approved and Design Started,3543.7200000000003,2165,791,REGULAR,290,False,EBP-CMS 3484 Massage Booker,2026-05-25 11:37:37,sunil@ebpearls.com.au
+,,,False,Active,Done,3,1,,REGULAR,288,,CMS-RFC 3384 EL Toro v2 RFC1,2026-05-25 11:37:41,sunil@ebpearls.com.au
+,,,False,Active,Done,0,0,,REGULAR,287,,CMS-RFC 3381 AWN.net RFC28,2026-05-25 11:37:45,sunil@ebpearls.com.au
+,,,False,Active,Done,0,0,,REGULAR,286,,EBP-ENT 3735 Worker's AI Prototype,2026-05-25 11:37:47,samir@ebpearls.com.au
+Approved,active,,False,Active,Done,37.43000000000001,55,439,REGULAR,284,False,EBP-CMS 2637 Zalane Balance Bike,2026-05-25 11:37:52,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Done,130.67,115,183,REGULAR,283,False,EBP-ENT 3799 Australian Campdraft Association (Wordpress) v3 - POC,2026-05-25 11:37:56,prashant@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Done,0,0,686,REGULAR,281,False,EBP-STAFF 1422 Claros (Staff Leasing)- Andrew Gildea,2026-05-25 11:38:01,karun@ebpearls.com.au
+,,,False,Active,Done,0,0,,REGULAR,277,,AG-CMS 1877  I Code School,2026-05-25 11:38:06,sunil@ebpearls.com.au
+Consider,active,Plan_Consider,False,Active,Development,873.0899999999998,758,437,REGULAR,258,False,EBP-CMS 2621 Chairforce v4,2026-05-25 11:38:08,sunil@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Development,2233.9100000000003,1346,435,REGULAR,256,False,EBP-CMS 2362 Firex v2,2026-05-25 11:38:14,sunil@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,13288.11,5137,119,REGULAR,254,True,EBP-STAFF 643 - Farm Service Management,2026-05-25 11:38:18,prashant@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,1847.0,706,209,REGULAR,243,False,EBP-ENT 3396 YCP (maintenance),2026-05-25 11:38:23,karun@ebpearls.com.au
+Approved,active,Resource_Booking_Only,False,Active,Development,2967.3099999999995,922,433,REGULAR,241,True,EBP-ENT 1924 All Pumps App,2026-05-25 11:38:25,karun@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,1875.25,451,172,REGULAR,236,True,EBP-ENT 2432 ARTIS Code Audit,2026-05-25 11:38:26,karun@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,545.74,348,92,REGULAR,230,True,EBP-ENT 3707 Shedule AI MVP,2026-05-25 11:38:28,gorakh@ebpearls.com.au
+,,,False,Active,Completed,0,0,,REGULAR,227,,Rotech - Maintenance Project,2026-05-25 11:38:30,sunil@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Done,0,0,432,REGULAR,225,False,CMS-RFC 3479 White Bow Gift Registry RFC13,2026-05-25 11:38:31,sunil@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Done,0,0,80,REGULAR,224,True,Personhood,2026-05-25 11:38:33,gorakh@ebpearls.com.au
+Approved,active,,False,Active,Completed,7309.789999999999,3499,431,REGULAR,223,False,Bahah - Support,2026-05-25 11:38:34,gorakh@ebpearls.com.au
+Approved,active,Resource_Booking_Only,False,Active,Completed,3645.99,2042,429,REGULAR,220,True,EBP-ENT 2304 Freight Search,2026-05-25 11:38:36,nabin@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,1632.42,226,67,LEASE,215,True,EBP-STAFF 1451 Coposit Staff Leasing,2026-05-25 11:38:38,narendra@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Done,9035.369999999999,4775,367,REGULAR,211,True,EBP-ENT 471 - Real Estate App (APBR),2026-05-25 11:38:43,prashant@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Development,350.27000000000004,200,769,REGULAR,210,False,EBP-CMS 2675 Pro Invest Website v2,2026-05-25 11:38:49,sunil@ebpearls.com.au
+,,,False,Active,Done,0,0,,LEASE,209,,Crews,2026-05-25 11:38:53,prashant@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Wireframe,137.88,77,321,REGULAR,200,True,EBP-ENT 4001 Brigade (Prototype),2026-05-25 11:38:57,prasanna@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Development,39.0,33,575,REGULAR,199,False,CMS-RFC 3475 Rotech - RFC25 v2,2026-05-25 11:39:01,sunil@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Done,37.0,22,559,REGULAR,192,True,CMS-RFC 3471 Convey Online  RFC14,2026-05-25 11:39:05,sunil@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Done,0,0,562,REGULAR,191,False,CMS-RFC 3470 White Bow Gift Registry RFC12,2026-05-25 11:39:09,sunil@ebpearls.com.au
+Review,inactive,Plan_Review,False,Terminated,Budget Approval and Project Plan,161.01999999999998,67,27,REGULAR,189,False,EBP-ENT 3695 Quantify Wellness MVP v2,2026-05-25 11:39:12,anima@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Development,341.67,171,386,REGULAR,182,True,EBP-ENT 3709 MGI Code Audit,2026-05-25 11:39:15,nabin@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Development,128.56,47,313,REGULAR,181,False,EBP-ENT 3961 SPS Facilities Code Audit,2026-05-25 11:39:17,narendra@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Done,27.75,17,595,,179,False,CMS-RFC 3467 Mondiale VGL RFC6,2026-05-25 11:39:19,sunil@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Done,1732.85,1056,13,REGULAR,176,True,EBP-ENT 2724 GapMash Code Audit,2026-05-25 11:39:20,nabin@ebpearls.com.au
+Approved,active,,False,Active,Development,429.12,178,568,REGULAR,173,False,EBP-ENT 4020 Baztel Code Audit,2026-05-25 11:39:22,ray@ebpearls.com.au
+,,,False,Active,Done,0,0,,REGULAR,172,,EBP-ENT 3544 Stratus Smart Software,2026-05-25 11:39:23,prashant@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Final Budget Approval,2005.17,1157,416,,170,False,EBP-ENT 3339 Caroo RFC57 (Webapp MVP),2026-05-25 11:39:25,narendra@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Final Budget Approval,0,0,110,,169,True,Caroo Maintenace,2026-05-25 11:39:27,narendra@ebpearls.com.au
+InProgress,inactive,,False,Active,Development,0,0,9,,167,False,CMS-RFC 3462 Friends United v2 (Theme Based) RFC2 v3,2026-05-25 11:39:28,sunil@ebpearls.com.au
+,,,False,Active,Done,0,0,,,162,,CMS-RFC 3460 Wyer & Co RFC4,2026-05-25 11:39:30,sunil@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,64.75,36,331,LEASE,159,True,EBP-STAFF 1452 WUNA - Staff Leasing,2026-05-25 11:39:31,rajeshneupane@ebpearls.com.au
+,,,False,Active,Done,0,0,,,136,,CMS-RFC 3446 365mesh RFC4,2026-05-25 11:39:33,sunil@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Budget Approval and Project Plan,988.1800000000002,602,8,REGULAR,132,True,EBP-ENT 3683 Stockman's Wallet,2026-05-25 11:39:35,karun@ebpearls.com.au
+,,,False,Active,Done,0,0,,,128,,ENT-RFC 1823 Metahealth RFC1,2026-05-25 11:39:36,gorakh@ebpearls.com.au
+,,,False,Active,Done,0,0,,REGULAR,126,,CMS-RFC 3445 Quantify Wellness Landing Page RFC2,2026-05-25 11:39:38,sunil@ebpearls.com.au
+,,,False,Active,Done,0,0,,REGULAR,125,,EBP-ENT 3491MeetDelete Prototype,2026-05-25 11:39:40,bikash@ebpearls.com.au
+Approved,active,,False,Active,Done,234.59000000000006,138,412,,115,False,EBP-ENT 3544 Stratus Smart Software Solutions,2026-05-25 11:39:41,prashant@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Live/30-day Support,7638.65,3472,408,REGULAR,112,False,EBP-ENT 3617 Top Teacher - Webapp v2,2026-05-25 11:39:43,gorakh@ebpearls.com.au
+Approved,active,Resource_Booking_Only,False,Active,Done,3575.4599999999996,2326,406,REGULAR,110,True,EBP-ENT 3468 Communication Spectrum MVP,2026-05-25 11:39:44,nabin@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,0,0,63,REGULAR,102,True,Smart Mobile App Development with Agile Resource Augmentation,2026-05-25 11:39:46,narendra@ebpearls.com.au
+Approved,active,,False,Suspended,Done,29.83,40,401,,92,False,EBP-CMS 2636 Metalia Studios,2026-05-25 11:39:48,sunil@ebpearls.com.au
+Approved,active,,False,Active,Done,103.01,71,400,REGULAR,91,False,EBP-CMS 2639 Quantify Wellness Landing Page,2026-05-25 11:39:50,sunil@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Done,757.3499999999997,517,701,,90,False,EBP-CMS 2607 Bendooley Estate v4,2026-05-25 11:39:52,sunil@ebpearls.com.au
+Draft,inactive,,False,Active,Beta Release,1525.08,627,160,REGULAR,85,False,EBP-ENT 3453 WUNA - Code Audit,2026-05-25 11:39:53,anima@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Development,1162.33,832,578,REGULAR,82,False,EBP-CMS 2634 Queensland Compassionate Services,2026-05-25 11:39:55,sunil@ebpearls.com.au
+,,,False,Active,Done,0,0,,,75,,EBP-STAFF 1359 Doubleguard Staff Leasing,2026-05-25 11:39:57,karun@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Development,2499.4800000000005,1498,397,REGULAR,69,False,EBP-ENT 3098 Allied Health Directory,2026-05-25 11:39:59,karun@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Beta Release,8432.050000000005,5485,395,REGULAR,58,False,EBP-ENT 3281 VinoBid (Supabase),2026-05-25 11:40:00,anima@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Live/30-day Support,7381.259999999999,3989,394,REGULAR,57,False,EBP-ENT 3500 Beauty Grail WebApp,2026-05-25 11:40:02,anima@ebpearls.com.au
+Approved,active,,False,Active,Done,186.16000000000003,215,392,,51,False,EBP-CMS 2635 Seymours Group,2026-05-25 11:40:03,sunil@ebpearls.com.au
+,,,False,Active,Done,0,0,,,46,,CMS-RFC 3439 Voiceless RFC10,2026-05-25 11:40:05,sunil@ebpearls.com.au
+,,,False,Active,Done,0,0,,,42,,ENT-RFC 1901 Adventure Shuffle - RFC 1,2026-05-25 11:40:07,anima@ebpearls.com.au
+,,,False,Active,Done,0,0,,,30,,CMS-RFC 3427 EBP-CMS 2639 Quantify Wellness Landing Page RFC1,2026-05-25 11:40:08,sunil@ebpearls.com.au
+,,,False,Active,Done,0,0,,,25,,ENT-RFC 1910 Property Dollar Gamification Prototype RFC1,2026-05-25 11:40:10,rupesh@ebpearls.com.au
+,,,False,Active,Done,0,0,,,14,,EBP-ENT 3841 Coposit Penetration Testing Report,2026-05-25 11:40:11,yangjee@ebpearls.com.au
+,,,False,Active,Done,0,0,,,13,,CMS-RFC 3416 OutcomeX RFC24,2026-05-25 11:40:13,sunil@ebpearls.com.au
+,,,False,Active,Done,0,0,,REGULAR,12,,CMS-RFC 3415 Blue Spinach RFC25,2026-05-25 11:40:14,sunil@ebpearls.com.au
+,,,False,Active,Done,48.91,46,,,11,,EBP-ENT 3672 Nimbus Receipt Prototype,2026-05-25 11:40:16,narendra@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Development,469.75,129,391,REGULAR,10,False,EBP-ENT 3834 Dating App Code Audit v2,2026-05-25 11:40:18,ray@ebpearls.com.au
+,,,False,Active,Done,0,0,,,4,,EBP-ENT 3825 Air Run Prototype,2026-05-25 11:40:19,samir@ebpearls.com.au
+,,,False,Active,Done,0,0,,,2,,ENT-RFC 1896 Copost Pen testing,2026-05-25 11:40:21,yangjee@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,0,0,814,REGULAR,555,True,Gapmash Maintenance,2026-05-25 11:40:22,nabin@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,0,0,813,REGULAR,554,True,MGI Maintenance,2026-05-25 11:40:24,nabin@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,0,0,812,REGULAR,553,True,Freight Search Maintenance,2026-05-25 11:40:26,nabin@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Final Budget Approval,0,0,811,REGULAR,552,True,Communication Spectrum Maintenance,2026-05-25 11:40:27,nabin@ebpearls.com.au
+Draft,inactive,,False,Active,Development,2381.5199999999995,1428,804,REGULAR,550,False,EBP-ENT 3345 Countdown V2 V2,2026-05-25 11:40:29,karun@ebpearls.com.au
+,,,False,Active,Project approved,0,0,,REGULAR,549,,EBP-RFC 3460 Coach Merv RFC1 SRS,2026-05-25 11:40:30,gorakh@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,0,0,801,REGULAR,547,True,Personhood - Maintenance,2026-05-25 11:40:32,gorakh@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,0,0,800,REGULAR,546,True,Top Teacher - Webapp v2 - Maintenance,2026-05-25 11:40:33,gorakh@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,0,0,798,REGULAR,544,True,CT Freight - Client Portal (Webapp Only) - Maintenance,2026-05-25 11:40:35,gorakh@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,0,0,777,REGULAR,543,True,Howdy Maintenance,2026-05-25 11:40:37,prashant@ebpearls.com.au
+InProgress,active,,False,Active,Kick Off Workshop,0,0,775,REGULAR,541,False,EBP-ENT 4211  Jon Lim Revised MVP,2026-05-25 11:40:38,
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,0,0,806,REGULAR,540,True,EBP-ENT 4193 Zenu - Pro-invest Stays Pty Ltd,2026-05-25 11:40:40,gorakh@ebpearls.com.au
+,,,False,Active,Wireframe,0,0,,REGULAR,539,,EBP-RFC 3458 To Be Me - RFC3 (Translation & Localisation),2026-05-25 11:40:41,karun@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Budget Approval and Project Plan,76.0,55,794,REGULAR,536,False,ENT-RFC 2056 Top Teacher RFC12,2026-05-25 11:40:43,gorakh@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Budget Approval and Project Plan,9.0,8,770,REGULAR,535,False,EBP-RFC 3473 Bendooleyestate RFC4,2026-05-25 11:40:44,sunil@ebpearls.com.au
+InProgress,active,,False,Active,Project approved,0,0,796,REGULAR,534,False,EBP-CMS 2699 Salima,2026-05-25 11:40:46,sunil@ebpearls.com.au
+,,,False,Active,Kick Off Workshop,0,0,,REGULAR,533,,Tom Swan,2026-05-25 11:40:48,ray@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Development,3,3,763,REGULAR,532,False,My Leather Doctor - RFC 4 (Resolving Email Storage Limitations),2026-05-25 11:40:49,pradeep@ebpearls.com.au
+Review,active,Plan_Review,False,Active,Wireframe,0,0,816,REGULAR,530,True,Wedmuse (vibe Coded + Custom Coded) MVP,2026-05-25 11:40:51,sweta@ebpearls.com.au
+,,,False,Active,Kick Off Workshop,0,0,,REGULAR,528,,EBP-ENT 4181 Bikemebro,2026-05-25 11:40:52,nabin@ebpearls.com.au
+Draft,inactive,,False,Active,Kick Off Workshop,0,0,751,REGULAR,527,False,EBP-ENT 4180 Nimbus Receipt MVPv2.1,2026-05-25 11:40:54,karun@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Kick Off Workshop,0,0,750,REGULAR,526,True,EBP-ENT 4174 Strategy 1 HR Staff Leasing,2026-05-25 11:40:55,narendra@ebpearls.com.au
+,,,False,Active,Project approved,0,0,,REGULAR,525,,EBP-ENT 3793 A&S Australian Investment - Web App,2026-05-25 11:40:57,karun@ebpearls.com.au
+Approved,active,,False,Active,Final Budget Approval,59.0,27,761,REGULAR,524,False,ACM RFC - Braze Integration,2026-05-25 11:40:59,gorakh@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Development,4.75,1,802,REGULAR,522,False,EBP-ENT 4020 Baztel Code Audit (Phase 2),2026-05-25 11:41:00,ray@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Kick Off Workshop,797.25,248,675,REGULAR,521,True,AI Workflow,2026-05-25 11:41:02,narendra@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Budget Approval and Project Plan,205.0,104,714,REGULAR,520,False,EBP-ENT Howdy RFC,2026-05-25 11:41:03,prashant@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Wireframe - Approved and Design Started,0,0,708,REGULAR,516,True,EBP-CMS 2692 MyComms Website Refresh,2026-05-25 11:41:05,sunil@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Wireframe - Approved and Design Started,0,0,718,REGULAR,514,True,EBP-ENT 4150 Mate Money,2026-05-25 11:41:07,sweta@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Wireframe - Approved and Design Started,0,0,671,REGULAR,513,True,Inferent Analyst,2026-05-25 11:41:08,nabin@ebpearls.com.au
+InProgress,inactive,,False,Active,Wireframe - Approved and Design Started,0,0,687,REGULAR,501,False,EBP-PROTO 1464 Ampd Prototype,2026-05-25 11:41:10,nabin@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,,initiating,620.1399999999999,360,577,REGULAR,488,True,Workforce Tool,2026-05-25 11:41:11,bikash@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Development,898.2799999999999,454,731,REGULAR,485,False,RelloPay CRM,2026-05-25 11:41:13,sweta@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,,initiating,0,0,388,REGULAR,483,True,Squad Lead Task,2026-05-25 11:41:15,bikash@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,0,0,385,REGULAR,482,True,SEST,2026-05-25 11:41:16,
+Review,inactive,Resource_Booking_Only,False,Terminated,Final Budget Approval,0,0,552,LEASE,481,True,EBP-STAFF 1481 Stockman's Wallet Staff Leasing Proposal V4,2026-05-25 11:41:18,karun@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Live/30-day Support,127.25,64,651,REGULAR,480,False,Glucose Management Software (REGAS) New,2026-05-25 11:41:19,prasanna@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Project approved,125.17,56,580,REGULAR,479,False,ENT-RFC 2055 Isaac Server Restructuring RFC,2026-05-25 11:41:21,pradeep@ebpearls.com.au
+,,,False,Active,Design - Approved and SRS Initiated,0,0,,REGULAR,476,,EBP-ENT 3753 FlyBright v2,2026-05-25 11:41:23,sunil@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,0,0,357,REGULAR,469,True,Ebtheme,2026-05-25 11:41:24,bikash@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,4710.429999999999,2949,352,LEASE,462,True,EBP-STAFF 1469 DDEG ERP Staff Leasing,2026-05-25 11:41:26,nabin@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,3013.800000000001,2935,349,REGULAR,461,True,IT Internals,2026-05-25 11:41:27,pradeep@ebpearls.com.au
+Approved,active,Resource_Booking_Only,False,Active,Final Budget Approval,1188.33,387,817,REGULAR,459,True,EB Pearls - Hubspot Website,2026-05-25 11:41:29,bikash@ebpearls.com.au
+,,,False,On Client Hold,Wireframe,0,0,,REGULAR,457,,EBP-ENT 3930 Peoples Voice,2026-05-25 11:41:31,karun@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Budget Approval and Project Plan,1876.7799999999997,871,544,LEASE,453,True,EBP-STAFF 1471 Shedule AI (Nisha) - Staff Leasing Proposal,2026-05-25 11:41:32,gorakh@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,5117.049999999999,3369,222,REGULAR,364,True,PeopleOps Goal,2026-05-25 11:41:34,sanjeena@ebpearls.com.au
+Review,active,Resource_Booking_Only,False,Active,Design - Approved and SRS Initiated,211.56000000000006,139,309,REGULAR,303,True,EBP-ENT 4078 AgentSwipe MVP,2026-05-25 11:41:35,sunil@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,On Client Hold,Wireframe,12.42,9,320,REGULAR,300,True,EBP-ENT 4063 Beare Flooring Prototype,2026-05-25 11:41:37,prasanna@ebpearls.com.au
+,,,False,Active,Project approved,0,0,,REGULAR,295,,Research and Learning not needed,2026-05-25 11:41:39,yangjee@ebpearls.com.au
+Review,active,Resource_Booking_Only,False,Active,Project approved,0,0,143,REGULAR,294,False,Research and Learning New,2026-05-25 11:41:40,yangjee@ebpearls.com.au
+Review,active,Resource_Booking_Only,False,Active,Project approved,0,0,142,REGULAR,293,False,QA OKR Goal Task,2026-05-25 11:41:42,yangjee@ebpearls.com.au
+Draft,inactive,,False,,initiating,0,0,384,REGULAR,274,False,OKR Goal,2026-05-25 11:41:43,
+Review,active,Resource_Booking_Only,False,Active,Project approved,0,0,139,REGULAR,270,False,Senior QA Role,2026-05-25 11:41:45,yangjee@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,0,0,134,REGULAR,269,False,Lead and Support,2026-05-25 11:41:47,bikash@ebpearls.com.au
+Draft,inactive,,False,On Client Hold,Wireframe - Approved and Design Started,0,0,324,REGULAR,263,False,EBP-ENT 4051 Workmate App Prototype,2026-05-25 11:41:48,prasanna@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Wireframe,233.75,108,618,REGULAR,262,False,Starter Kit v5,2026-05-25 11:41:50,sunil@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Wireframe,197.15,79,122,REGULAR,259,True,EBP-ENT 3693 CBMFG Prototype,2026-05-25 11:41:51,ray@ebpearls.com.au
+Approved,active,Plan_Consider,False,On Client Hold,Development,857.7399999999999,546,436,REGULAR,257,False,EBP-CMS 2403 Blkdot Client Portal,2026-05-25 11:41:53,sunil@ebpearls.com.au
+Review,active,Resource_Booking_Only,False,,initiating,25891.490000000045,73505,118,,255,True,Miscellaneous Hours,2026-05-25 11:41:55,
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,0,0,114,REGULAR,253,True,CMS Maintenance,2026-05-25 11:41:56,sunil@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,0,0,112,REGULAR,248,True,Honey Pot Mobile App,2026-05-25 11:41:58,ray@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,0,0,111,REGULAR,245,True,CT Freight (QC App) maintenance,2026-05-25 11:41:59,gorakh@ebpearls.com.au
+Approved,active,Resource_Booking_Only,False,Active,Development,927.74,401,434,REGULAR,242,True,ENT-RFC 1804 Cordouan Health RFC2,2026-05-25 11:42:01,karun@ebpearls.com.au
+Draft,inactive,,False,Active,Project approved,0,0,102,REGULAR,238,False,Cordouan Health ( Maintenance ),2026-05-25 11:42:02,
+Draft,inactive,,False,Active,Project approved,0,0,101,REGULAR,237,False,All Pumps ( Maintenance),2026-05-25 11:42:04,
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,0,0,762,REGULAR,234,True,Portal,2026-05-25 11:42:06,sunil@ebpearls.com.au
+Review,active,Resource_Booking_Only,False,Active,Project approved,4373.970000000001,2531,95,REGULAR,232,True,Ebplanner,2026-05-25 11:42:07,bikash@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,49.5,17,75,REGULAR,221,False,One Wardrobe,2026-05-25 11:42:09,ray@ebpearls.com.au
+Draft,inactive,,False,Suspended,Wireframe - Approved and Design Started,0,0,348,REGULAR,217,False,EBP-ENT 3922 Mustr Racing MVP v3,2026-05-25 11:42:10,anima@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Wireframe - Approved and Design Started,3707.2599999999984,2002,746,REGULAR,216,True,EBP-ENT 3785 Stay Upright Mobile App,2026-05-25 11:42:12,prasanna@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Wireframe - Approved and Design Started,0,0,120,REGULAR,213,True,EBP-ENT 4025 Coach Merv Prototype,2026-05-25 11:42:14,gorakh@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,0,0,58,LEASE,203,True,EBP-ENT 2394 MYBOS v2,2026-05-25 11:42:15,prashant@ebpearls.com.au
+Consider,inactive,Plan_Consider,False,Active,Budget Approval and Project Plan,0,0,781,REGULAR,202,True,EBP-ENT 4007 ToBeMe (Mobile and Webapp) - Tom,2026-05-25 11:42:17,karun@ebpearls.com.au
+Review,active,Plan_Consider,False,Active,Development,944.06,366,593,REGULAR,198,False,CMS-RFC 3472 Estraints RFC11,2026-05-25 11:42:18,sunil@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Development,3368.750000000003,2222,316,REGULAR,193,False,EBP-ENT 3014 Glucose Management Software,2026-05-25 11:42:20,rajeshneupane@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Wireframe,483.18000000000006,242,17,REGULAR,185,False,EBP-ENT 3679 Telehealth App v2,2026-05-25 11:42:22,prashant@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Final Budget Approval,3253.11,1901,748,REGULAR,180,False,EBP-ENT 4000 Australian Campdraft Association (Wordpress) Full Development v2,2026-05-25 11:42:23,prashant@ebpearls.com.au
+InProgress,inactive,,False,Active,Budget Approval and Project Plan,195.9,96,322,REGULAR,174,False,EBP-ENT 4012 Parent Hub,2026-05-25 11:42:25,prashant@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Wireframe,9.75,6,65,REGULAR,166,True,EBP-ENT 4006 Syncra v2,2026-05-25 11:42:26,gorakh@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,On Client Hold,Wireframe,0,0,103,REGULAR,160,True,EBP-ENT 3999 EFS Prototype,2026-05-25 11:42:28,nabin@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Final Budget Approval,0,0,570,LEASE,157,False,EBP-STAFF 1462 EFS Staff Leasing,2026-05-25 11:42:30,bikash@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,2319.09,1021,415,LEASE,153,True,EBP-STAFF 1461 DDEG Staff Leasing,2026-05-25 11:42:31,nabin@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Final Budget Approval,294.74,70,625,REGULAR,148,True,EBP-ENT 3993 My Leather Doctor Code Audit (Phase 1),2026-05-25 11:42:33,prasanna@ebpearls.com.au
+,,,False,Terminated,Budget Approval and Project Plan,0,0,,,147,,CMS-RFC 3435 Ellar Boutique API,2026-05-25 11:42:34,sunil@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Development,1107.000000000001,871,734,REGULAR,143,False,EBP-ENT 3963 Associated Cleaning App,2026-05-25 11:42:36,gorakh@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Wireframe,28.5,20,310,,141,True,EBP-CMS 2655 Wingspan - Theme Based,2026-05-25 11:42:37,sunil@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,On Client Hold,Wireframe,0,0,330,,138,True,EBP-ENT 3918 KKW Trucks,2026-05-25 11:42:39,karun@ebpearls.com.au
+Draft,inactive,,False,On Client Hold,Wireframe - Approved and Design Started,0,0,305,REGULAR,129,False,EBP-ENT 3661 Reasy Prototype,2026-05-25 11:42:41,prashant@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Project approved,0,0,79,REGULAR,127,True,EBP-ENT 2042 Australian Community Media v2 - Maintenance,2026-05-25 11:42:42,gorakh@ebpearls.com.au
+Approved,active,,False,On Client Hold,Budget Approval and Project Plan,1280.1300000000003,745,413,,123,False,EBP-CMS 2530 Reliable Driving School (Re-development) v2,2026-05-25 11:42:44,sunil@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Development,987.12,410,411,REGULAR,114,True,ENT-RFC 1803 AWN.net RFC26 (Client Portal 3.0 including GenAI),2026-05-25 11:42:45,prashant@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Beta Release,720.83,423,410,REGULAR,113,False,EBP-ENT 3401 CT Freight - Client Portal (Webapp Only),2026-05-25 11:42:47,gorakh@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,3671.92,572,405,LEASE,108,True,EBP-STAFF 1353 Pogozo Staff Leasing v2,2026-05-25 11:42:49,nabin@ebpearls.com.au
+Review,active,Resource_Booking_Only,False,Active,Development,2578.1600000000017,1739,404,REGULAR,107,True,EBP-ENT 3345 Countdown v2,2026-05-25 11:42:50,karun@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,2120.19,288,66,LEASE,105,True,EBP-STAFF 1431 Rello - Staff Leasing Agreement,2026-05-25 11:42:52,samir@ebpearls.com.au
+Review,active,Resource_Booking_Only,False,Active,Development,38459.07999999999,6766,403,LEASE,103,True,Tills Payment v2,2026-05-25 11:42:53,narendra@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,1121.98,408,402,LEASE,101,True,EBP-STAFF 1348 Specialist Protection Group Staff Leasing v2,2026-05-25 11:42:55,sweta@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Development,2114.21,1286,157,REGULAR,98,False,EBP-ENT 3573 Honeypot (Webapp),2026-05-25 11:42:57,samir@ebpearls.com.au
+,,,False,Terminated,Wireframe,0,0,,REGULAR,97,,EBP-ENT 3625 Aesthetic Practitioner Platform Prototype,2026-05-25 11:42:58,prashant@ebpearls.com.au
+Consider,active,Plan_Consider,False,Active,Beta Release,8529.640000000001,3977,237,REGULAR,72,False,EBP-ENT 3358 Doubleguard App v1,2026-05-25 11:43:00,karun@ebpearls.com.au
+Review,inactive,Plan_Review,False,Active,Design - Approved and SRS Initiated,2449.6400000000012,1407,556,REGULAR,68,True,EBP-ENT 3812 PEAR v2,2026-05-25 11:43:02,prasanna@ebpearls.com.au
+Approved,active,Plan_Consider,False,Suspended,Final Budget Approval,11143.85,6022,396,REGULAR,60,False,EBP-ENT 2981 TalkNow Telehealth (Mobile + Web App) v2,2026-05-25 11:43:03,karun@ebpearls.com.au
+Draft,inactive,,False,On Client Hold,Design - Approved and SRS Initiated,54.91,51,217,REGULAR,59,False,EBP-ENT 3364 Borroway v3 (Supabase),2026-05-25 11:43:05,gorakh@ebpearls.com.au
+Approved,active,Plan_Review,False,Active,Final Budget Approval,424.75000000000006,297,739,REGULAR,55,False,EBP-CMS 2659 Rogue Dahlia,2026-05-25 11:43:06,sunil@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Development,2959.57,1137,341,LEASE,52,True,EBP-STAFF 1459 Vinobid Staff Lease v2,2026-05-25 11:43:08,rajeshneupane@ebpearls.com.au
+InProgress,inactive,,False,On Internal Hold,Development,5170.300000000002,3124,31,REGULAR,49,False,EBP-ENT 3747 HAPPS,2026-05-25 11:43:09,prasanna@ebpearls.com.au
+Draft,inactive,,False,On Internal Hold,Kick Off Workshop,2.33,6,133,REGULAR,43,False,EBP-ENT 3867 Fashion AI Prototype,2026-05-25 11:43:11,prashant@ebpearls.com.au
+Approved,active,Plan_Consider,False,Active,Development,142.10999999999999,112,810,REGULAR,31,False,EBP-CMS 2592 BatesHolmes,2026-05-25 11:43:13,sunil@ebpearls.com.au
+InProgress,inactive,,False,On Client Hold,Design - Approved and SRS Initiated,13.950000000000001,12,147,REGULAR,26,False,EBP-ENT 3837 Community Alert,2026-05-25 11:43:19,prasanna@ebpearls.com.au
+Approved,active,Resource_Booking_Only,False,Active,Development,1163.2399999999998,969,390,REGULAR,6,True,EBP-ENT 3556 Whiskrs,2026-05-25 11:43:24,nabin@ebpearls.com.au
+Review,inactive,Resource_Booking_Only,False,Active,Design - Approved and SRS Initiated,24.990000000000002,27,86,REGULAR,3,False,EBP-ENT 3827 DDEG Phase 1,2026-05-25 11:43:30,nabin@ebpearls.com.au

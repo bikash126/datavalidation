@@ -14,9 +14,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 20,
-        "totalLoggedHours": 31.25
+        ]
     },
     {
         "id": 529,
@@ -33,9 +31,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 6,
-        "totalLoggedHours": 18.0
+        ]
     },
     {
         "id": 519,
@@ -44,14 +40,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Kick Off Workshop",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 70.0,
-        "projectName": "EBP-PROTO 1467 OptiCoach Prototype",
-        "projectStatus": "Kick Off Workshop",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:50",
-        "total": 30
+        "planning": [
+            {
+                "id": 818,
+                "status": "active",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ]
     },
     {
         "id": 518,
@@ -59,15 +56,8 @@
         "isArchive": false,
         "projecType": "REGULAR",
         "developmentStatus": "Active",
-        "status": "Wireframe",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Opti coach",
-        "projectStatus": "Wireframe",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:52",
-        "total": 0
+        "status": "Done",
+        "planning": []
     },
     {
         "id": 517,
@@ -75,15 +65,16 @@
         "isArchive": false,
         "projecType": "REGULAR",
         "developmentStatus": "Active",
-        "status": "Wireframe - Approved and Design Started",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 54.47,
-        "projectName": "EBP-ENT 4081 King River Outdoors Prototype",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:53",
-        "total": 25
+        "status": "Done",
+        "planning": [
+            {
+                "id": 819,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ]
     },
     {
         "id": 503,
@@ -100,9 +91,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 3,
-        "totalLoggedHours": 3.0
+        ]
     },
     {
         "id": 498,
@@ -119,9 +108,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 1,
-        "totalLoggedHours": 3
+        ]
     },
     {
         "id": 497,
@@ -138,9 +125,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 84,
-        "totalLoggedHours": 205.94
+        ]
     },
     {
         "id": 489,
@@ -157,9 +142,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 5,
-        "totalLoggedHours": 3.0
+        ]
     },
     {
         "id": 484,
@@ -168,14 +151,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Wireframe",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 82.27,
-        "projectName": "EBP-ENT 3694 DIY Tradie (Prototype)",
-        "projectStatus": "Wireframe",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:55",
-        "total": 69
+        "planning": [
+            {
+                "id": 820,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ]
     },
     {
         "id": 466,
@@ -192,9 +176,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 17,
-        "totalLoggedHours": 26.590000000000003
+        ]
     },
     {
         "id": 464,
@@ -211,14 +193,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CMS-RFC 3482 Bannister RFC10",
-        "projectStatus": "Development",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:17:57",
-        "total": 0
+        ]
     },
     {
         "id": 456,
@@ -235,14 +210,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Double Guard App old",
-        "projectStatus": "Completed",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:17:58",
-        "total": 0
+        ]
     },
     {
         "id": 446,
@@ -251,9 +219,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Project approved",
-        "planning": [],
-        "worklogsTotal": 7,
-        "totalLoggedHours": 16.17
+        "planning": []
     },
     {
         "id": 444,
@@ -270,9 +236,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 102,
-        "totalLoggedHours": 167.59999999999997
+        ]
     },
     {
         "id": 443,
@@ -289,9 +253,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 334,
-        "totalLoggedHours": 631.8
+        ]
     },
     {
         "id": 442,
@@ -308,9 +270,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 46,
-        "totalLoggedHours": 51.599999999999994
+        ]
     },
     {
         "id": 441,
@@ -327,9 +287,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 187,
-        "totalLoggedHours": 337.5
+        ]
     },
     {
         "id": 440,
@@ -346,9 +304,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 484,
-        "totalLoggedHours": 1144.5000000000005
+        ]
     },
     {
         "id": 439,
@@ -365,9 +321,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 340,
-        "totalLoggedHours": 748.14
+        ]
     },
     {
         "id": 438,
@@ -384,9 +338,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 16,
-        "totalLoggedHours": 24.5
+        ]
     },
     {
         "id": 437,
@@ -395,14 +347,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Project approved",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-CMS 1795 The Deep Blue",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:00",
-        "total": 0
+        "planning": []
     },
     {
         "id": 436,
@@ -419,9 +364,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 38,
-        "totalLoggedHours": 58.08
+        ]
     },
     {
         "id": 435,
@@ -438,9 +381,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 11,
-        "totalLoggedHours": 6.75
+        ]
     },
     {
         "id": 434,
@@ -457,14 +398,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-CMS 2333 Robert Clerc",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:01",
-        "total": 0
+        ]
     },
     {
         "id": 432,
@@ -481,9 +415,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 764,
-        "totalLoggedHours": 1032.5499999999993
+        ]
     },
     {
         "id": 431,
@@ -500,9 +432,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 150,
-        "totalLoggedHours": 287.2099999999999
+        ]
     },
     {
         "id": 430,
@@ -519,9 +449,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 256,
-        "totalLoggedHours": 375.63999999999993
+        ]
     },
     {
         "id": 429,
@@ -538,9 +466,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 277,
-        "totalLoggedHours": 677.18
+        ]
     },
     {
         "id": 428,
@@ -557,9 +483,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 21,
-        "totalLoggedHours": 37.5
+        ]
     },
     {
         "id": 427,
@@ -576,9 +500,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 113,
-        "totalLoggedHours": 127.75
+        ]
     },
     {
         "id": 426,
@@ -595,9 +517,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 181,
-        "totalLoggedHours": 296.13
+        ]
     },
     {
         "id": 425,
@@ -614,9 +534,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 132,
-        "totalLoggedHours": 167.76000000000002
+        ]
     },
     {
         "id": 424,
@@ -633,9 +551,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 534,
-        "totalLoggedHours": 704.2899999999993
+        ]
     },
     {
         "id": 423,
@@ -652,9 +568,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 91,
-        "totalLoggedHours": 98.08
+        ]
     },
     {
         "id": 422,
@@ -671,9 +585,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 96,
-        "totalLoggedHours": 275.0
+        ]
     },
     {
         "id": 421,
@@ -690,9 +602,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 212,
-        "totalLoggedHours": 344.56999999999994
+        ]
     },
     {
         "id": 420,
@@ -709,9 +619,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 40,
-        "totalLoggedHours": 94.42
+        ]
     },
     {
         "id": 419,
@@ -728,9 +636,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 111,
-        "totalLoggedHours": 199.54999999999998
+        ]
     },
     {
         "id": 418,
@@ -747,9 +653,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 116,
-        "totalLoggedHours": 139.10000000000002
+        ]
     },
     {
         "id": 417,
@@ -766,9 +670,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 260,
-        "totalLoggedHours": 377.37000000000006
+        ]
     },
     {
         "id": 415,
@@ -785,9 +687,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 117,
-        "totalLoggedHours": 342.90999999999997
+        ]
     },
     {
         "id": 414,
@@ -804,9 +704,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 389,
-        "totalLoggedHours": 733.7600000000001
+        ]
     },
     {
         "id": 412,
@@ -823,9 +721,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 236,
-        "totalLoggedHours": 301.1300000000001
+        ]
     },
     {
         "id": 409,
@@ -842,9 +738,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 47,
-        "totalLoggedHours": 77.26
+        ]
     },
     {
         "id": 408,
@@ -861,9 +755,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 18,
-        "totalLoggedHours": 39.41
+        ]
     },
     {
         "id": 407,
@@ -880,9 +772,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 837,
-        "totalLoggedHours": 2025.5599999999993
+        ]
     },
     {
         "id": 406,
@@ -899,9 +789,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 126,
-        "totalLoggedHours": 152.31
+        ]
     },
     {
         "id": 404,
@@ -918,9 +806,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 231,
-        "totalLoggedHours": 581.45
+        ]
     },
     {
         "id": 403,
@@ -937,9 +823,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 76,
-        "totalLoggedHours": 139.42000000000002
+        ]
     },
     {
         "id": 402,
@@ -956,9 +840,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 642,
-        "totalLoggedHours": 945.8499999999996
+        ]
     },
     {
         "id": 401,
@@ -975,9 +857,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 246,
-        "totalLoggedHours": 447.17
+        ]
     },
     {
         "id": 400,
@@ -994,9 +874,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 258,
-        "totalLoggedHours": 550.1800000000001
+        ]
     },
     {
         "id": 399,
@@ -1013,9 +891,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 186,
-        "totalLoggedHours": 344.6299999999998
+        ]
     },
     {
         "id": 398,
@@ -1032,9 +908,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 152,
-        "totalLoggedHours": 291.34000000000003
+        ]
     },
     {
         "id": 397,
@@ -1051,9 +925,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 468,
-        "totalLoggedHours": 898.76
+        ]
     },
     {
         "id": 396,
@@ -1070,9 +942,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 154,
-        "totalLoggedHours": 243.91000000000005
+        ]
     },
     {
         "id": 395,
@@ -1089,9 +959,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 196,
-        "totalLoggedHours": 326.92
+        ]
     },
     {
         "id": 394,
@@ -1108,9 +976,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 366,
-        "totalLoggedHours": 459.9200000000001
+        ]
     },
     {
         "id": 393,
@@ -1127,9 +993,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 44,
-        "totalLoggedHours": 97.99000000000001
+        ]
     },
     {
         "id": 390,
@@ -1146,9 +1010,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 328,
-        "totalLoggedHours": 512.6700000000001
+        ]
     },
     {
         "id": 388,
@@ -1165,14 +1027,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-CMS 2253 Parras Hospitality Websites",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:03",
-        "total": 0
+        ]
     },
     {
         "id": 386,
@@ -1189,9 +1044,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 2070,
-        "totalLoggedHours": 4100.059999999999
+        ]
     },
     {
         "id": 385,
@@ -1208,9 +1061,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 313,
-        "totalLoggedHours": 488.3200000000001
+        ]
     },
     {
         "id": 384,
@@ -1227,9 +1078,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 131,
-        "totalLoggedHours": 159.98000000000005
+        ]
     },
     {
         "id": 383,
@@ -1246,14 +1095,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CMS-RFC 2837 Sydney Collective (Website Trans",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:05",
-        "total": 0
+        ]
     },
     {
         "id": 382,
@@ -1270,9 +1112,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 10,
-        "totalLoggedHours": 7.09
+        ]
     },
     {
         "id": 381,
@@ -1289,9 +1129,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 146,
-        "totalLoggedHours": 225.84999999999997
+        ]
     },
     {
         "id": 380,
@@ -1308,9 +1146,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 1274,
-        "totalLoggedHours": 1875.4799999999996
+        ]
     },
     {
         "id": 379,
@@ -1327,9 +1163,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 331,
-        "totalLoggedHours": 639.32
+        ]
     },
     {
         "id": 378,
@@ -1346,14 +1180,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-CMS 2085 Will & Estate Planner - Branding",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:06",
-        "total": 0
+        ]
     },
     {
         "id": 375,
@@ -1370,9 +1197,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 814,
-        "totalLoggedHours": 1653.440000000003
+        ]
     },
     {
         "id": 374,
@@ -1389,9 +1214,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 4,
-        "totalLoggedHours": 28
+        ]
     },
     {
         "id": 373,
@@ -1408,9 +1231,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 50,
-        "totalLoggedHours": 51.95
+        ]
     },
     {
         "id": 371,
@@ -1427,9 +1248,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 71,
-        "totalLoggedHours": 223.43
+        ]
     },
     {
         "id": 370,
@@ -1446,9 +1265,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 21,
-        "totalLoggedHours": 32.0
+        ]
     },
     {
         "id": 369,
@@ -1465,9 +1282,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 83,
-        "totalLoggedHours": 77.39
+        ]
     },
     {
         "id": 368,
@@ -1484,9 +1299,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 23,
-        "totalLoggedHours": 85.75
+        ]
     },
     {
         "id": 367,
@@ -1503,9 +1316,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 248,
-        "totalLoggedHours": 358.8100000000003
+        ]
     },
     {
         "id": 366,
@@ -1522,9 +1333,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 43,
-        "totalLoggedHours": 56.13000000000001
+        ]
     },
     {
         "id": 365,
@@ -1541,9 +1350,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 102,
-        "totalLoggedHours": 132.70999999999998
+        ]
     },
     {
         "id": 363,
@@ -1567,9 +1374,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 83,
-        "totalLoggedHours": 94.78
+        ]
     },
     {
         "id": 362,
@@ -1586,9 +1391,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 49,
-        "totalLoggedHours": 63.04
+        ]
     },
     {
         "id": 361,
@@ -1605,9 +1408,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 143,
-        "totalLoggedHours": 229.49
+        ]
     },
     {
         "id": 360,
@@ -1624,9 +1425,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 344,
-        "totalLoggedHours": 719.2599999999999
+        ]
     },
     {
         "id": 359,
@@ -1643,9 +1442,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 1426,
-        "totalLoggedHours": 2301.749999999999
+        ]
     },
     {
         "id": 357,
@@ -1662,9 +1459,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 83,
-        "totalLoggedHours": 132.25
+        ]
     },
     {
         "id": 356,
@@ -1681,9 +1476,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 212,
-        "totalLoggedHours": 511.0
+        ]
     },
     {
         "id": 355,
@@ -1700,9 +1493,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 186,
-        "totalLoggedHours": 407.92
+        ]
     },
     {
         "id": 354,
@@ -1719,14 +1510,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-CMS 2568 TrendTrade - Wordpress",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:08",
-        "total": 0
+        ]
     },
     {
         "id": 353,
@@ -1743,9 +1527,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 120,
-        "totalLoggedHours": 277.26
+        ]
     },
     {
         "id": 352,
@@ -1762,9 +1544,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 5034,
-        "totalLoggedHours": 15632.339999999998
+        ]
     },
     {
         "id": 351,
@@ -1781,9 +1561,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 6,
-        "totalLoggedHours": 12.5
+        ]
     },
     {
         "id": 350,
@@ -1800,9 +1578,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 3208,
-        "totalLoggedHours": 6360.89
+        ]
     },
     {
         "id": 349,
@@ -1819,9 +1595,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 370,
-        "totalLoggedHours": 663.3799999999999
+        ]
     },
     {
         "id": 348,
@@ -1838,9 +1612,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 449,
-        "totalLoggedHours": 1085.7600000000002
+        ]
     },
     {
         "id": 347,
@@ -1857,9 +1629,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 100,
-        "totalLoggedHours": 139.59
+        ]
     },
     {
         "id": 346,
@@ -1876,9 +1646,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 174,
-        "totalLoggedHours": 314.58
+        ]
     },
     {
         "id": 345,
@@ -1895,9 +1663,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 201,
-        "totalLoggedHours": 262.7699999999999
+        ]
     },
     {
         "id": 344,
@@ -1914,9 +1680,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 92,
-        "totalLoggedHours": 237.0
+        ]
     },
     {
         "id": 343,
@@ -1933,9 +1697,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 34,
-        "totalLoggedHours": 95.08
+        ]
     },
     {
         "id": 342,
@@ -1952,9 +1714,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 214,
-        "totalLoggedHours": 417.51
+        ]
     },
     {
         "id": 341,
@@ -1978,9 +1738,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 561,
-        "totalLoggedHours": 947.6799999999993
+        ]
     },
     {
         "id": 340,
@@ -1997,9 +1755,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 332,
-        "totalLoggedHours": 579.3100000000001
+        ]
     },
     {
         "id": 339,
@@ -2016,14 +1772,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 191.91,
-        "projectName": "EBP-CMS 2189 Flow Leaders",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:09",
-        "total": 79
+        ]
     },
     {
         "id": 338,
@@ -2040,9 +1789,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 84,
-        "totalLoggedHours": 192.42000000000002
+        ]
     },
     {
         "id": 337,
@@ -2059,9 +1806,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 10,
-        "totalLoggedHours": 20.5
+        ]
     },
     {
         "id": 336,
@@ -2078,9 +1823,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 9,
-        "totalLoggedHours": 30.25
+        ]
     },
     {
         "id": 335,
@@ -2097,9 +1840,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 144,
-        "totalLoggedHours": 227.34
+        ]
     },
     {
         "id": 334,
@@ -2116,14 +1857,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "AG-CMS 1799 ACRF",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:11",
-        "total": 0
+        ]
     },
     {
         "id": 333,
@@ -2140,9 +1874,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 164,
-        "totalLoggedHours": 373.51
+        ]
     },
     {
         "id": 332,
@@ -2159,9 +1891,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 460,
-        "totalLoggedHours": 894.6999999999996
+        ]
     },
     {
         "id": 331,
@@ -2178,9 +1908,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 949,
-        "totalLoggedHours": 2953.800000000002
+        ]
     },
     {
         "id": 330,
@@ -2197,9 +1925,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 1968,
-        "totalLoggedHours": 4314.999999999998
+        ]
     },
     {
         "id": 329,
@@ -2216,9 +1942,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 1299,
-        "totalLoggedHours": 2431.9400000000005
+        ]
     },
     {
         "id": 328,
@@ -2235,9 +1959,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 23,
-        "totalLoggedHours": 96.17
+        ]
     },
     {
         "id": 327,
@@ -2254,9 +1976,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 36,
-        "totalLoggedHours": 41.33
+        ]
     },
     {
         "id": 326,
@@ -2265,14 +1985,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Project approved",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 3.5,
-        "projectName": "EBP-ENT 2318 GRC Institute Membership Portal",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:13",
-        "total": 1
+        "planning": []
     },
     {
         "id": 323,
@@ -2289,9 +2002,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 24,
-        "totalLoggedHours": 49.6
+        ]
     },
     {
         "id": 322,
@@ -2308,9 +2019,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 272,
-        "totalLoggedHours": 1061.49
+        ]
     },
     {
         "id": 321,
@@ -2327,9 +2036,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 207,
-        "totalLoggedHours": 318.4499999999998
+        ]
     },
     {
         "id": 320,
@@ -2346,9 +2053,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 193,
-        "totalLoggedHours": 365.99000000000007
+        ]
     },
     {
         "id": 319,
@@ -2365,9 +2070,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 396,
-        "totalLoggedHours": 862.25
+        ]
     },
     {
         "id": 318,
@@ -2384,9 +2087,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 6,
-        "totalLoggedHours": 7.5
+        ]
     },
     {
         "id": 317,
@@ -2403,9 +2104,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 19,
-        "totalLoggedHours": 21.25
+        ]
     },
     {
         "id": 316,
@@ -2422,9 +2121,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 2232,
-        "totalLoggedHours": 4628.179999999999
+        ]
     },
     {
         "id": 315,
@@ -2441,9 +2138,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 493,
-        "totalLoggedHours": 1420.12
+        ]
     },
     {
         "id": 314,
@@ -2460,9 +2155,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 2752,
-        "totalLoggedHours": 5344.070000000001
+        ]
     },
     {
         "id": 313,
@@ -2479,9 +2172,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 5679,
-        "totalLoggedHours": 18743.079999999998
+        ]
     },
     {
         "id": 312,
@@ -2498,9 +2189,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 206,
-        "totalLoggedHours": 516.92
+        ]
     },
     {
         "id": 311,
@@ -2517,9 +2206,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 59,
-        "totalLoggedHours": 162.17000000000002
+        ]
     },
     {
         "id": 310,
@@ -2536,9 +2223,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 70,
-        "totalLoggedHours": 137.49
+        ]
     },
     {
         "id": 308,
@@ -2555,9 +2240,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 2567,
-        "totalLoggedHours": 7662.949999999999
+        ]
     },
     {
         "id": 307,
@@ -2574,9 +2257,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 1219,
-        "totalLoggedHours": 4557.780000000001
+        ]
     },
     {
         "id": 305,
@@ -2593,14 +2274,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "DevOps",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:14",
-        "total": 0
+        ]
     },
     {
         "id": 290,
@@ -2617,9 +2291,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 2165,
-        "totalLoggedHours": 3543.7200000000003
+        ]
     },
     {
         "id": 288,
@@ -2628,9 +2300,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 1,
-        "totalLoggedHours": 3
+        "planning": []
     },
     {
         "id": 287,
@@ -2639,14 +2309,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CMS-RFC 3381 AWN.net RFC28",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:16",
-        "total": 0
+        "planning": []
     },
     {
         "id": 286,
@@ -2655,14 +2318,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 20.909999999999997,
-        "projectName": "EBP-ENT 3735 Worker's AI Prototype",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:18",
-        "total": 27
+        "planning": [
+            {
+                "id": 821,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ]
     },
     {
         "id": 284,
@@ -2679,9 +2343,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 55,
-        "totalLoggedHours": 37.43000000000001
+        ]
     },
     {
         "id": 283,
@@ -2698,9 +2360,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 115,
-        "totalLoggedHours": 130.67
+        ]
     },
     {
         "id": 281,
@@ -2718,43 +2378,13 @@
                 "requestReviewCategory": "Plan_Consider"
             },
             {
-                "id": 685,
-                "status": "inactive",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Consider"
-            },
-            {
                 "id": 617,
                 "status": "inactive",
                 "planningStatus": "Approved",
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-STAFF 1422 Claros (Staff Leasing)- Andrew Gildea",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:20",
-        "total": 0
-    },
-    {
-        "id": 277,
-        "name": "AG-CMS 1877  I Code School",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "AG-CMS 1877  I Code School",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:21",
-        "total": 0
+        ]
     },
     {
         "id": 258,
@@ -2771,9 +2401,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 758,
-        "totalLoggedHours": 873.0899999999998
+        ]
     },
     {
         "id": 256,
@@ -2790,9 +2418,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 1346,
-        "totalLoggedHours": 2233.9100000000003
+        ]
     },
     {
         "id": 254,
@@ -2809,9 +2435,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 5137,
-        "totalLoggedHours": 13288.11
+        ]
     },
     {
         "id": 243,
@@ -2819,7 +2443,7 @@
         "isArchive": false,
         "projecType": "REGULAR",
         "developmentStatus": "Active",
-        "status": "Project approved",
+        "status": "Done",
         "planning": [
             {
                 "id": 209,
@@ -2835,9 +2459,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 706,
-        "totalLoggedHours": 1847.0
+        ]
     },
     {
         "id": 241,
@@ -2854,9 +2476,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 922,
-        "totalLoggedHours": 2967.3099999999995
+        ]
     },
     {
         "id": 236,
@@ -2873,9 +2493,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 451,
-        "totalLoggedHours": 1875.25
+        ]
     },
     {
         "id": 230,
@@ -2892,9 +2510,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 348,
-        "totalLoggedHours": 545.74
+        ]
     },
     {
         "id": 227,
@@ -2903,14 +2519,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Completed",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Rotech - Maintenance Project",
-        "projectStatus": "Completed",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:23",
-        "total": 0
+        "planning": []
     },
     {
         "id": 225,
@@ -2927,14 +2536,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CMS-RFC 3479 White Bow Gift Registry RFC13",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:24",
-        "total": 0
+        ]
     },
     {
         "id": 224,
@@ -2951,14 +2553,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 2552.3500000000004,
-        "projectName": "Personhood",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:26",
-        "total": 842
+        ]
     },
     {
         "id": 223,
@@ -2982,9 +2577,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 3499,
-        "totalLoggedHours": 7309.789999999999
+        ]
     },
     {
         "id": 220,
@@ -3008,9 +2601,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 2042,
-        "totalLoggedHours": 3645.99
+        ]
     },
     {
         "id": 215,
@@ -3027,9 +2618,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 226,
-        "totalLoggedHours": 1632.42
+        ]
     },
     {
         "id": 211,
@@ -3053,9 +2642,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 4775,
-        "totalLoggedHours": 9035.369999999999
+        ]
     },
     {
         "id": 210,
@@ -3072,9 +2659,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 200,
-        "totalLoggedHours": 350.27000000000004
+        ]
     },
     {
         "id": 209,
@@ -3083,14 +2668,7 @@
         "projecType": "LEASE",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Crews",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:27",
-        "total": 0
+        "planning": []
     },
     {
         "id": 200,
@@ -3107,9 +2685,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 77,
-        "totalLoggedHours": 137.88
+        ]
     },
     {
         "id": 199,
@@ -3126,9 +2702,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 33,
-        "totalLoggedHours": 39.0
+        ]
     },
     {
         "id": 192,
@@ -3145,9 +2719,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 22,
-        "totalLoggedHours": 37.0
+        ]
     },
     {
         "id": 191,
@@ -3164,14 +2736,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 159.25,
-        "projectName": "CMS-RFC 3470 White Bow Gift Registry RFC12",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:29",
-        "total": 50
+        ]
     },
     {
         "id": 189,
@@ -3188,9 +2753,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 67,
-        "totalLoggedHours": 161.01999999999998
+        ]
     },
     {
         "id": 182,
@@ -3207,9 +2770,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 171,
-        "totalLoggedHours": 341.67
+        ]
     },
     {
         "id": 181,
@@ -3226,9 +2787,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 47,
-        "totalLoggedHours": 128.56
+        ]
     },
     {
         "id": 179,
@@ -3245,9 +2804,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 17,
-        "totalLoggedHours": 27.75
+        ]
     },
     {
         "id": 176,
@@ -3264,9 +2821,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 1056,
-        "totalLoggedHours": 1732.85
+        ]
     },
     {
         "id": 173,
@@ -3290,9 +2845,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 178,
-        "totalLoggedHours": 429.12
+        ]
     },
     {
         "id": 172,
@@ -3301,14 +2854,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 3544 Stratus Smart Software",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:31",
-        "total": 0
+        "planning": []
     },
     {
         "id": 170,
@@ -3332,9 +2878,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 1157,
-        "totalLoggedHours": 2005.17
+        ]
     },
     {
         "id": 169,
@@ -3351,14 +2895,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Caroo Maintenace",
-        "projectStatus": "Final Budget Approval",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:32",
-        "total": 0
+        ]
     },
     {
         "id": 167,
@@ -3375,14 +2912,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CMS-RFC 3462 Friends United v2 (Theme Based) RFC2 v3",
-        "projectStatus": "Development",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:34",
-        "total": 0
+        ]
     },
     {
         "id": 162,
@@ -3391,14 +2921,7 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CMS-RFC 3460 Wyer & Co RFC4",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:35",
-        "total": 0
+        "planning": []
     },
     {
         "id": 159,
@@ -3415,9 +2938,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 36,
-        "totalLoggedHours": 64.75
+        ]
     },
     {
         "id": 136,
@@ -3426,14 +2947,7 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CMS-RFC 3446 365mesh RFC4",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:37",
-        "total": 0
+        "planning": []
     },
     {
         "id": 132,
@@ -3450,9 +2964,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 602,
-        "totalLoggedHours": 988.1800000000002
+        ]
     },
     {
         "id": 128,
@@ -3461,14 +2973,7 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "ENT-RFC 1823 Metahealth RFC1",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:39",
-        "total": 0
+        "planning": []
     },
     {
         "id": 126,
@@ -3477,14 +2982,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CMS-RFC 3445 Quantify Wellness Landing Page RFC2",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:40",
-        "total": 0
+        "planning": []
     },
     {
         "id": 125,
@@ -3493,14 +2991,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 85.08,
-        "projectName": "EBP-ENT 3491MeetDelete Prototype",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:42",
-        "total": 67
+        "planning": []
     },
     {
         "id": 115,
@@ -3517,9 +3008,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 138,
-        "totalLoggedHours": 234.59000000000006
+        ]
     },
     {
         "id": 112,
@@ -3550,9 +3039,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 3472,
-        "totalLoggedHours": 7638.65
+        ]
     },
     {
         "id": 110,
@@ -3569,9 +3056,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 2326,
-        "totalLoggedHours": 3575.4599999999996
+        ]
     },
     {
         "id": 102,
@@ -3588,14 +3073,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Smart Mobile App Development with Agile Resource Augmentation",
-        "projectStatus": "Development",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:44",
-        "total": 0
+        ]
     },
     {
         "id": 92,
@@ -3612,9 +3090,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 40,
-        "totalLoggedHours": 29.83
+        ]
     },
     {
         "id": 91,
@@ -3631,9 +3107,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 71,
-        "totalLoggedHours": 103.01
+        ]
     },
     {
         "id": 90,
@@ -3657,9 +3131,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 517,
-        "totalLoggedHours": 757.3499999999997
+        ]
     },
     {
         "id": 85,
@@ -3676,9 +3148,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 627,
-        "totalLoggedHours": 1525.08
+        ]
     },
     {
         "id": 82,
@@ -3695,9 +3165,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 832,
-        "totalLoggedHours": 1162.33
+        ]
     },
     {
         "id": 75,
@@ -3706,14 +3174,7 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-STAFF 1359 Doubleguard Staff Leasing",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:45",
-        "total": 0
+        "planning": []
     },
     {
         "id": 69,
@@ -3721,7 +3182,7 @@
         "isArchive": false,
         "projecType": "REGULAR",
         "developmentStatus": "Active",
-        "status": "Development",
+        "status": "Done",
         "planning": [
             {
                 "id": 397,
@@ -3737,9 +3198,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 1498,
-        "totalLoggedHours": 2499.4800000000005
+        ]
     },
     {
         "id": 58,
@@ -3756,9 +3215,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 5485,
-        "totalLoggedHours": 8432.050000000005
+        ]
     },
     {
         "id": 57,
@@ -3782,9 +3239,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 3989,
-        "totalLoggedHours": 7381.259999999999
+        ]
     },
     {
         "id": 51,
@@ -3801,9 +3256,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 215,
-        "totalLoggedHours": 186.16000000000003
+        ]
     },
     {
         "id": 46,
@@ -3812,30 +3265,7 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CMS-RFC 3439 Voiceless RFC10",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:47",
-        "total": 0
-    },
-    {
-        "id": 42,
-        "name": "ENT-RFC 1901 Adventure Shuffle - RFC 1",
-        "isArchive": false,
-        "projecType": null,
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "ENT-RFC 1901 Adventure Shuffle - RFC 1",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:48",
-        "total": 0
+        "planning": []
     },
     {
         "id": 30,
@@ -3844,14 +3274,7 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CMS-RFC 3427 EBP-CMS 2639 Quantify Wellness Landing Page RFC1",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:50",
-        "total": 0
+        "planning": []
     },
     {
         "id": 25,
@@ -3860,14 +3283,7 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "ENT-RFC 1910 Property Dollar Gamification Prototype RFC1",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:52",
-        "total": 0
+        "planning": []
     },
     {
         "id": 14,
@@ -3876,14 +3292,7 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 3841 Coposit Penetration Testing Report",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:53",
-        "total": 0
+        "planning": []
     },
     {
         "id": 13,
@@ -3892,14 +3301,7 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CMS-RFC 3416 OutcomeX RFC24",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:55",
-        "total": 0
+        "planning": []
     },
     {
         "id": 12,
@@ -3908,14 +3310,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CMS-RFC 3415 Blue Spinach RFC25",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:56",
-        "total": 0
+        "planning": []
     },
     {
         "id": 11,
@@ -3924,9 +3319,7 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 46,
-        "totalLoggedHours": 48.91
+        "planning": []
     },
     {
         "id": 10,
@@ -3943,9 +3336,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 129,
-        "totalLoggedHours": 469.75
+        ]
     },
     {
         "id": 4,
@@ -3954,14 +3345,7 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 103.24,
-        "projectName": "EBP-ENT 3825 Air Run Prototype",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:58",
-        "total": 80
+        "planning": []
     },
     {
         "id": 2,
@@ -3970,14 +3354,7 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "ENT-RFC 1896 Copost Pen testing",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:00",
-        "total": 0
+        "planning": []
     },
     {
         "id": 555,
@@ -3994,14 +3371,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Gapmash Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:01",
-        "total": 0
+        ]
     },
     {
         "id": 554,
@@ -4018,14 +3388,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "MGI Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:03",
-        "total": 0
+        ]
     },
     {
         "id": 553,
@@ -4042,14 +3405,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Freight Search Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:04",
-        "total": 0
+        ]
     },
     {
         "id": 552,
@@ -4066,14 +3422,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Communication Spectrum Maintenance",
-        "projectStatus": "Final Budget Approval",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:06",
-        "total": 0
+        ]
     },
     {
         "id": 550,
@@ -4090,9 +3439,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 1428,
-        "totalLoggedHours": 2381.5199999999995
+        ]
     },
     {
         "id": 549,
@@ -4101,14 +3448,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Project approved",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-RFC 3460 Coach Merv RFC1 SRS",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:08",
-        "total": 0
+        "planning": []
     },
     {
         "id": 547,
@@ -4125,14 +3465,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Personhood - Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:09",
-        "total": 0
+        ]
     },
     {
         "id": 546,
@@ -4149,14 +3482,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Top Teacher - Webapp v2 - Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:11",
-        "total": 0
+        ]
     },
     {
         "id": 544,
@@ -4173,14 +3499,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CT Freight - Client Portal (Webapp Only) - Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:14",
-        "total": 0
+        ]
     },
     {
         "id": 543,
@@ -4197,14 +3516,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Howdy Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:15",
-        "total": 0
+        ]
     },
     {
         "id": 541,
@@ -4221,14 +3533,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 4211  Jon Lim Revised MVP",
-        "projectStatus": "Kick Off Workshop",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:17",
-        "total": 0
+        ]
     },
     {
         "id": 540,
@@ -4245,14 +3550,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 4193 Zenu - Pro-invest Stays Pty Ltd",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:18",
-        "total": 0
+        ]
     },
     {
         "id": 539,
@@ -4261,14 +3559,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Wireframe",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-RFC 3458 To Be Me - RFC3 (Translation & Localisation)",
-        "projectStatus": "Wireframe",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:20",
-        "total": 0
+        "planning": []
     },
     {
         "id": 536,
@@ -4285,9 +3576,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 55,
-        "totalLoggedHours": 76.0
+        ]
     },
     {
         "id": 535,
@@ -4304,9 +3593,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 8,
-        "totalLoggedHours": 9.0
+        ]
     },
     {
         "id": 534,
@@ -4323,14 +3610,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-CMS 2699 Salima",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:22",
-        "total": 0
+        ]
     },
     {
         "id": 533,
@@ -4339,14 +3619,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Kick Off Workshop",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Tom Swan",
-        "projectStatus": "Kick Off Workshop",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:23",
-        "total": 0
+        "planning": []
     },
     {
         "id": 532,
@@ -4363,9 +3636,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 3,
-        "totalLoggedHours": 3
+        ]
     },
     {
         "id": 530,
@@ -4379,17 +3650,10 @@
                 "id": 816,
                 "status": "active",
                 "planningStatus": "Review",
-                "resourceApproved": true,
+                "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Wedmuse (vibe Coded + Custom Coded) MVP",
-        "projectStatus": "Wireframe",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:25",
-        "total": 0
+        ]
     },
     {
         "id": 528,
@@ -4397,15 +3661,8 @@
         "isArchive": false,
         "projecType": "REGULAR",
         "developmentStatus": "Active",
-        "status": "Kick Off Workshop",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 4181 Bikemebro",
-        "projectStatus": "Kick Off Workshop",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:26",
-        "total": 0
+        "status": "Wireframe",
+        "planning": []
     },
     {
         "id": 527,
@@ -4429,14 +3686,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 4180 Nimbus Receipt MVPv2.1",
-        "projectStatus": "Kick Off Workshop",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:28",
-        "total": 0
+        ]
     },
     {
         "id": 526,
@@ -4453,14 +3703,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 4174 Strategy 1 HR Staff Leasing",
-        "projectStatus": "Kick Off Workshop",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:29",
-        "total": 0
+        ]
     },
     {
         "id": 525,
@@ -4469,14 +3712,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Project approved",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 3793 A&S Australian Investment - Web App",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:31",
-        "total": 0
+        "planning": []
     },
     {
         "id": 524,
@@ -4507,9 +3743,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 27,
-        "totalLoggedHours": 59.0
+        ]
     },
     {
         "id": 522,
@@ -4533,9 +3767,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 1,
-        "totalLoggedHours": 4.75
+        ]
     },
     {
         "id": 521,
@@ -4552,9 +3784,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 248,
-        "totalLoggedHours": 797.25
+        ]
     },
     {
         "id": 520,
@@ -4571,9 +3801,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 104,
-        "totalLoggedHours": 205.0
+        ]
     },
     {
         "id": 516,
@@ -4587,17 +3815,10 @@
                 "id": 708,
                 "status": "inactive",
                 "planningStatus": "Review",
-                "resourceApproved": true,
+                "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-CMS 2692 MyComms Website Refresh",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:33",
-        "total": 0
+        ]
     },
     {
         "id": 514,
@@ -4614,14 +3835,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 4150 Mate Money",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:34",
-        "total": 0
+        ]
     },
     {
         "id": 513,
@@ -4638,14 +3852,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Inferent Analyst",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:36",
-        "total": 0
+        ]
     },
     {
         "id": 501,
@@ -4662,14 +3869,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-PROTO 1464 Ampd Prototype",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:38",
-        "total": 0
+        ]
     },
     {
         "id": 488,
@@ -4686,9 +3886,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 360,
-        "totalLoggedHours": 620.1399999999999
+        ]
     },
     {
         "id": 485,
@@ -4705,9 +3903,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 454,
-        "totalLoggedHours": 898.2799999999999
+        ]
     },
     {
         "id": 483,
@@ -4724,14 +3920,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Squad Lead Task",
-        "projectStatus": "initiating",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:39",
-        "total": 0
+        ]
     },
     {
         "id": 482,
@@ -4748,14 +3937,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "SEST",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:41",
-        "total": 0
+        ]
     },
     {
         "id": 481,
@@ -4772,14 +3954,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-STAFF 1481 Stockman's Wallet Staff Leasing Proposal V4",
-        "projectStatus": "Final Budget Approval",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:42",
-        "total": 0
+        ]
     },
     {
         "id": 480,
@@ -4796,9 +3971,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 64,
-        "totalLoggedHours": 127.25
+        ]
     },
     {
         "id": 479,
@@ -4815,9 +3988,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 56,
-        "totalLoggedHours": 125.17
+        ]
     },
     {
         "id": 476,
@@ -4826,14 +3997,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Design - Approved and SRS Initiated",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 3753 FlyBright v2",
-        "projectStatus": "Design - Approved and SRS Initiated",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:44",
-        "total": 0
+        "planning": []
     },
     {
         "id": 469,
@@ -4850,14 +4014,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Ebtheme",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:46",
-        "total": 0
+        ]
     },
     {
         "id": 462,
@@ -4874,9 +4031,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 2949,
-        "totalLoggedHours": 4710.429999999999
+        ]
     },
     {
         "id": 461,
@@ -4893,9 +4048,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 2935,
-        "totalLoggedHours": 3013.800000000001
+        ]
     },
     {
         "id": 459,
@@ -4912,9 +4065,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 387,
-        "totalLoggedHours": 1188.33
+        ]
     },
     {
         "id": 457,
@@ -4923,14 +4074,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "On Client Hold",
         "status": "Wireframe",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 3930 Peoples Voice",
-        "projectStatus": "Wireframe",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:47",
-        "total": 0
+        "planning": []
     },
     {
         "id": 453,
@@ -4947,9 +4091,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 871,
-        "totalLoggedHours": 1876.7799999999997
+        ]
     },
     {
         "id": 364,
@@ -4966,9 +4108,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 3369,
-        "totalLoggedHours": 5117.049999999999
+        ]
     },
     {
         "id": 303,
@@ -4985,9 +4125,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 139,
-        "totalLoggedHours": 211.56000000000006
+        ]
     },
     {
         "id": 300,
@@ -5004,9 +4142,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 9,
-        "totalLoggedHours": 12.42
+        ]
     },
     {
         "id": 295,
@@ -5015,14 +4151,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Project approved",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Research and Learning not needed",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:49",
-        "total": 0
+        "planning": []
     },
     {
         "id": 294,
@@ -5039,14 +4168,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Research and Learning New",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:50",
-        "total": 0
+        ]
     },
     {
         "id": 293,
@@ -5063,14 +4185,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "QA OKR Goal Task",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:52",
-        "total": 0
+        ]
     },
     {
         "id": 274,
@@ -5087,14 +4202,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "OKR Goal",
-        "projectStatus": "initiating",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:53",
-        "total": 0
+        ]
     },
     {
         "id": 270,
@@ -5111,14 +4219,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Senior QA Role",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:55",
-        "total": 0
+        ]
     },
     {
         "id": 269,
@@ -5135,14 +4236,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Lead and Support",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:57",
-        "total": 0
+        ]
     },
     {
         "id": 263,
@@ -5159,14 +4253,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 4051 Workmate App Prototype",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:58",
-        "total": 0
+        ]
     },
     {
         "id": 262,
@@ -5183,9 +4270,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 108,
-        "totalLoggedHours": 233.75
+        ]
     },
     {
         "id": 259,
@@ -5202,9 +4287,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 79,
-        "totalLoggedHours": 197.15
+        ]
     },
     {
         "id": 257,
@@ -5221,9 +4304,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 546,
-        "totalLoggedHours": 857.7399999999999
+        ]
     },
     {
         "id": 255,
@@ -5240,9 +4321,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 73505,
-        "totalLoggedHours": 25891.490000000045
+        ]
     },
     {
         "id": 253,
@@ -5259,14 +4338,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CMS Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:00",
-        "total": 0
+        ]
     },
     {
         "id": 248,
@@ -5283,14 +4355,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Honey Pot Mobile App",
-        "projectStatus": "Development",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:20:02",
-        "total": 0
+        ]
     },
     {
         "id": 245,
@@ -5307,14 +4372,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CT Freight (QC App) maintenance",
-        "projectStatus": "Development",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:03",
-        "total": 0
+        ]
     },
     {
         "id": 242,
@@ -5331,9 +4389,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 401,
-        "totalLoggedHours": 927.74
+        ]
     },
     {
         "id": 238,
@@ -5350,14 +4406,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Cordouan Health ( Maintenance )",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:05",
-        "total": 0
+        ]
     },
     {
         "id": 237,
@@ -5374,14 +4423,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "All Pumps ( Maintenance)",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:06",
-        "total": 0
+        ]
     },
     {
         "id": 234,
@@ -5398,14 +4440,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "Portal",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:08",
-        "total": 0
+        ]
     },
     {
         "id": 232,
@@ -5422,9 +4457,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 2531,
-        "totalLoggedHours": 4373.970000000001
+        ]
     },
     {
         "id": 221,
@@ -5441,9 +4474,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 17,
-        "totalLoggedHours": 49.5
+        ]
     },
     {
         "id": 217,
@@ -5460,14 +4491,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 3922 Mustr Racing MVP v3",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:09",
-        "total": 0
+        ]
     },
     {
         "id": 216,
@@ -5484,9 +4508,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 2002,
-        "totalLoggedHours": 3707.2599999999984
+        ]
     },
     {
         "id": 213,
@@ -5503,14 +4525,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 4025 Coach Merv Prototype",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:11",
-        "total": 0
+        ]
     },
     {
         "id": 203,
@@ -5527,14 +4542,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 2394 MYBOS v2",
-        "projectStatus": "Development",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:13",
-        "total": 0
+        ]
     },
     {
         "id": 202,
@@ -5551,14 +4559,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 4007 ToBeMe (Mobile and Webapp) - Tom",
-        "projectStatus": "Budget Approval and Project Plan",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:14",
-        "total": 0
+        ]
     },
     {
         "id": 198,
@@ -5575,9 +4576,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 366,
-        "totalLoggedHours": 944.06
+        ]
     },
     {
         "id": 193,
@@ -5594,9 +4593,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 2222,
-        "totalLoggedHours": 3368.750000000003
+        ]
     },
     {
         "id": 185,
@@ -5613,28 +4610,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 242,
-        "totalLoggedHours": 483.18000000000006
-    },
-    {
-        "id": 180,
-        "name": "EBP-ENT 4000 Australian Campdraft Association (Wordpress) Full Development v2",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Final Budget Approval",
-        "planning": [
-            {
-                "id": 748,
-                "status": "active",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Consider"
-            }
-        ],
-        "worklogsTotal": 1901,
-        "totalLoggedHours": 3253.11
+        ]
     },
     {
         "id": 174,
@@ -5658,9 +4634,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 96,
-        "totalLoggedHours": 195.9
+        ]
     },
     {
         "id": 166,
@@ -5677,9 +4651,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 6,
-        "totalLoggedHours": 9.75
+        ]
     },
     {
         "id": 160,
@@ -5696,14 +4668,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 3999 EFS Prototype",
-        "projectStatus": "Wireframe",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:16",
-        "total": 0
+        ]
     },
     {
         "id": 157,
@@ -5720,14 +4685,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-STAFF 1462 EFS Staff Leasing",
-        "projectStatus": "Final Budget Approval",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:20:17",
-        "total": 0
+        ]
     },
     {
         "id": 153,
@@ -5744,9 +4702,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 1021,
-        "totalLoggedHours": 2319.09
+        ]
     },
     {
         "id": 148,
@@ -5763,9 +4719,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 70,
-        "totalLoggedHours": 294.74
+        ]
     },
     {
         "id": 147,
@@ -5774,14 +4728,7 @@
         "projecType": null,
         "developmentStatus": "Terminated",
         "status": "Budget Approval and Project Plan",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "CMS-RFC 3435 Ellar Boutique API",
-        "projectStatus": "Budget Approval and Project Plan",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:19",
-        "total": 0
+        "planning": []
     },
     {
         "id": 143,
@@ -5789,7 +4736,7 @@
         "isArchive": false,
         "projecType": "REGULAR",
         "developmentStatus": "Active",
-        "status": "Development",
+        "status": "Beta Release",
         "planning": [
             {
                 "id": 734,
@@ -5798,9 +4745,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 871,
-        "totalLoggedHours": 1107.000000000001
+        ]
     },
     {
         "id": 141,
@@ -5817,9 +4762,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 20,
-        "totalLoggedHours": 28.5
+        ]
     },
     {
         "id": 138,
@@ -5836,14 +4779,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 3918 KKW Trucks",
-        "projectStatus": "Wireframe",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:21",
-        "total": 0
+        ]
     },
     {
         "id": 129,
@@ -5860,14 +4796,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 3661 Reasy Prototype",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:22",
-        "total": 0
+        ]
     },
     {
         "id": 127,
@@ -5884,14 +4813,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 2042 Australian Community Media v2 - Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:24",
-        "total": 0
+        ]
     },
     {
         "id": 123,
@@ -5908,9 +4830,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 745,
-        "totalLoggedHours": 1280.1300000000003
+        ]
     },
     {
         "id": 114,
@@ -5927,9 +4847,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 410,
-        "totalLoggedHours": 987.12
+        ]
     },
     {
         "id": 113,
@@ -5946,9 +4864,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 423,
-        "totalLoggedHours": 720.83
+        ]
     },
     {
         "id": 108,
@@ -5965,9 +4881,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 572,
-        "totalLoggedHours": 3671.92
+        ]
     },
     {
         "id": 107,
@@ -5984,9 +4898,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 1739,
-        "totalLoggedHours": 2578.1600000000017
+        ]
     },
     {
         "id": 105,
@@ -6003,9 +4915,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 288,
-        "totalLoggedHours": 2120.19
+        ]
     },
     {
         "id": 103,
@@ -6022,9 +4932,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 6766,
-        "totalLoggedHours": 38459.07999999999
+        ]
     },
     {
         "id": 101,
@@ -6041,9 +4949,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 408,
-        "totalLoggedHours": 1121.98
+        ]
     },
     {
         "id": 98,
@@ -6060,9 +4966,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 1286,
-        "totalLoggedHours": 2114.21
+        ]
     },
     {
         "id": 97,
@@ -6071,14 +4975,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Terminated",
         "status": "Wireframe",
-        "planning": [],
-        "worklogsTotal": 0,
-        "totalLoggedHours": 0,
-        "projectName": "EBP-ENT 3625 Aesthetic Practitioner Platform Prototype",
-        "projectStatus": "Wireframe",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:25",
-        "total": 0
+        "planning": []
     },
     {
         "id": 72,
@@ -6095,9 +4992,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 3977,
-        "totalLoggedHours": 8529.640000000001
+        ]
     },
     {
         "id": 68,
@@ -6114,9 +5009,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 1407,
-        "totalLoggedHours": 2449.6400000000012
+        ]
     },
     {
         "id": 60,
@@ -6147,9 +5040,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 6022,
-        "totalLoggedHours": 11143.85
+        ]
     },
     {
         "id": 59,
@@ -6166,9 +5057,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 51,
-        "totalLoggedHours": 54.91
+        ]
     },
     {
         "id": 55,
@@ -6176,7 +5065,7 @@
         "isArchive": false,
         "projecType": "REGULAR",
         "developmentStatus": "Active",
-        "status": "Final Budget Approval",
+        "status": "Development",
         "planning": [
             {
                 "id": 739,
@@ -6185,9 +5074,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ],
-        "worklogsTotal": 297,
-        "totalLoggedHours": 424.75000000000006
+        ]
     },
     {
         "id": 52,
@@ -6204,9 +5091,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 1137,
-        "totalLoggedHours": 2959.57
+        ]
     },
     {
         "id": 49,
@@ -6223,9 +5108,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 3124,
-        "totalLoggedHours": 5170.300000000002
+        ]
     },
     {
         "id": 43,
@@ -6242,9 +5125,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ],
-        "worklogsTotal": 6,
-        "totalLoggedHours": 2.33
+        ]
     },
     {
         "id": 31,
@@ -6261,9 +5142,7 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ],
-        "worklogsTotal": 112,
-        "totalLoggedHours": 142.10999999999999
+        ]
     },
     {
         "id": 26,
@@ -6287,9 +5166,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 12,
-        "totalLoggedHours": 13.950000000000001
+        ]
     },
     {
         "id": 6,
@@ -6306,9 +5183,7 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 969,
-        "totalLoggedHours": 1163.2399999999998
+        ]
     },
     {
         "id": 3,
@@ -6325,8 +5200,6 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ],
-        "worklogsTotal": 27,
-        "totalLoggedHours": 24.990000000000002
+        ]
     }
 ]
