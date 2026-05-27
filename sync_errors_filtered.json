@@ -1,0 +1,93 @@
+[
+    {
+        "projectId": 352,
+        "projectName": "EBP-ENT 1999 Intro v2",
+        "projectStatus": "Project approved",
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-27 14:20:58"
+    },
+    {
+        "projectId": 314,
+        "projectName": "EBP-ENT 2583 Honeypot",
+        "projectStatus": "Project approved",
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-27 14:22:04"
+    },
+    {
+        "projectId": 313,
+        "projectName": "EBP-ENT 2042 Australian Community Media v2",
+        "projectStatus": "Completed",
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-27 14:23:06"
+    },
+    {
+        "projectId": 308,
+        "projectName": "EBP-ENT 2294 Specialist Protection Group (Android)",
+        "projectStatus": "Project approved",
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-27 14:24:07"
+    },
+    {
+        "projectId": 254,
+        "projectName": "EBP-STAFF 643 - Farm Service Management",
+        "projectStatus": "Project approved",
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-27 14:25:11"
+    },
+    {
+        "projectId": 223,
+        "projectName": "Bahah - Support",
+        "projectStatus": "Completed",
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-27 14:26:18"
+    },
+    {
+        "projectId": 211,
+        "projectName": "EBP-ENT 471 - Real Estate App (APBR)",
+        "projectStatus": "Done",
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-27 14:27:19"
+    },
+    {
+        "projectId": 58,
+        "projectName": "EBP-ENT 3281 VinoBid (Supabase)",
+        "projectStatus": "Beta Release",
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-27 14:28:38"
+    },
+    {
+        "projectId": 57,
+        "projectName": "EBP-ENT 3500 Beauty Grail WebApp",
+        "projectStatus": "Live/30-day Support",
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-27 14:29:40"
+    },
+    {
+        "projectId": 248,
+        "projectName": "Honey Pot Mobile App",
+        "projectStatus": "Development",
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-27 14:31:43"
+    },
+    {
+        "projectId": 232,
+        "projectName": "Ebplanner",
+        "projectStatus": "Project approved",
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-27 14:32:49"
+    },
+    {
+        "projectId": 108,
+        "projectName": "EBP-STAFF 1353 Pogozo Staff Leasing v2",
+        "projectStatus": "Development",
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-27 14:34:01"
+    },
+    {
+        "projectId": 72,
+        "projectName": "EBP-ENT 3358 Doubleguard App v1",
+        "projectStatus": "Beta Release",
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-27 14:35:10"
+    }
+]

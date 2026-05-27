@@ -1,4 +1,4 @@
-[ 
+[
     {
         "id": 531,
         "name": "CT Freight Webapp - eAdaptor Next",
@@ -14,7 +14,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 529,
@@ -31,7 +39,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 519,
@@ -48,7 +64,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 518,
@@ -57,7 +81,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 517,
@@ -74,7 +106,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 503,
@@ -91,7 +131,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 498,
@@ -108,7 +156,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 497,
@@ -125,7 +181,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 489,
@@ -142,7 +206,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 484,
@@ -159,7 +231,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 466,
@@ -176,7 +256,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 464,
@@ -193,7 +281,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 456,
@@ -210,7 +306,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 446,
@@ -219,7 +323,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Project approved",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 444,
@@ -236,7 +348,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 443,
@@ -253,7 +373,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 442,
@@ -270,7 +398,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 441,
@@ -287,7 +423,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 440,
@@ -304,7 +448,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 439,
@@ -321,7 +473,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 438,
@@ -338,7 +498,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 437,
@@ -347,7 +515,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Project approved",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 436,
@@ -364,7 +540,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 435,
@@ -381,7 +565,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": null,
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 434,
@@ -398,7 +590,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 432,
@@ -415,7 +615,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 431,
@@ -432,7 +640,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 430,
@@ -449,7 +665,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 429,
@@ -466,7 +690,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 428,
@@ -483,7 +715,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 427,
@@ -500,7 +740,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 426,
@@ -517,7 +765,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 425,
@@ -534,7 +790,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 424,
@@ -551,7 +815,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 423,
@@ -568,7 +840,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 422,
@@ -585,7 +865,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 421,
@@ -602,7 +890,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 420,
@@ -619,7 +915,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 419,
@@ -636,7 +940,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 418,
@@ -653,7 +965,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 417,
@@ -670,7 +990,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 415,
@@ -687,7 +1015,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 414,
@@ -704,7 +1040,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 412,
@@ -721,7 +1065,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 409,
@@ -738,7 +1090,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 408,
@@ -755,7 +1115,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 407,
@@ -772,7 +1140,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 406,
@@ -789,7 +1165,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 404,
@@ -806,7 +1190,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 403,
@@ -823,7 +1215,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 402,
@@ -840,7 +1240,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 401,
@@ -857,7 +1265,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "nijen@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 400,
@@ -874,7 +1290,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 399,
@@ -891,7 +1315,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 398,
@@ -908,7 +1340,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 397,
@@ -925,7 +1365,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 396,
@@ -942,7 +1390,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 395,
@@ -959,7 +1415,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 394,
@@ -976,7 +1440,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 393,
@@ -993,7 +1465,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 390,
@@ -1010,7 +1490,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 388,
@@ -1027,7 +1515,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 386,
@@ -1044,7 +1540,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 385,
@@ -1061,7 +1565,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 384,
@@ -1078,7 +1590,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 383,
@@ -1095,7 +1615,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 382,
@@ -1112,7 +1640,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 381,
@@ -1129,7 +1665,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 380,
@@ -1146,7 +1690,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 379,
@@ -1163,7 +1715,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 378,
@@ -1180,7 +1740,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 375,
@@ -1197,7 +1765,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 374,
@@ -1214,7 +1790,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": null,
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 373,
@@ -1231,7 +1815,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 371,
@@ -1248,7 +1840,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 370,
@@ -1265,7 +1865,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 369,
@@ -1282,7 +1890,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 368,
@@ -1299,7 +1915,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 367,
@@ -1316,7 +1940,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 366,
@@ -1333,7 +1965,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 365,
@@ -1350,7 +1990,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 363,
@@ -1374,7 +2022,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 362,
@@ -1391,7 +2047,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 361,
@@ -1408,7 +2072,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 360,
@@ -1425,7 +2097,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 359,
@@ -1442,7 +2122,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 357,
@@ -1459,7 +2147,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 356,
@@ -1476,7 +2172,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 355,
@@ -1493,7 +2197,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 354,
@@ -1510,7 +2222,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 353,
@@ -1527,7 +2247,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 352,
@@ -1544,7 +2272,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 351,
@@ -1561,7 +2297,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 350,
@@ -1578,7 +2322,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 349,
@@ -1595,7 +2347,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 348,
@@ -1612,7 +2372,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 347,
@@ -1629,7 +2397,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 346,
@@ -1646,7 +2422,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 345,
@@ -1663,7 +2447,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 344,
@@ -1680,7 +2472,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 343,
@@ -1697,7 +2497,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 342,
@@ -1714,7 +2522,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 341,
@@ -1730,15 +2546,16 @@
                 "planningStatus": "Approved",
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
-            },
-            {
-                "id": 656,
-                "status": "inactive",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 340,
@@ -1755,7 +2572,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 339,
@@ -1772,7 +2597,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 338,
@@ -1789,7 +2622,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 337,
@@ -1806,7 +2647,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 336,
@@ -1823,7 +2672,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 335,
@@ -1840,7 +2697,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 334,
@@ -1857,7 +2722,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 333,
@@ -1874,7 +2747,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 332,
@@ -1891,7 +2772,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 331,
@@ -1908,7 +2797,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 330,
@@ -1925,7 +2822,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 329,
@@ -1942,7 +2847,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 328,
@@ -1959,7 +2872,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 327,
@@ -1976,7 +2897,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 326,
@@ -1985,7 +2914,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Project approved",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": null,
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 323,
@@ -2002,7 +2939,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 322,
@@ -2019,7 +2964,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 321,
@@ -2036,7 +2989,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 320,
@@ -2053,7 +3014,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 319,
@@ -2070,7 +3039,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 318,
@@ -2087,7 +3064,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 317,
@@ -2104,7 +3089,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 316,
@@ -2121,7 +3114,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 315,
@@ -2138,7 +3139,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 314,
@@ -2155,7 +3164,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 313,
@@ -2172,7 +3189,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 312,
@@ -2189,7 +3214,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 311,
@@ -2206,7 +3239,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 310,
@@ -2223,7 +3264,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 308,
@@ -2240,7 +3289,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 307,
@@ -2257,7 +3314,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 305,
@@ -2274,24 +3339,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
-    },
-    {
-        "id": 290,
-        "name": "EBP-CMS 3484 Massage Booker",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Wireframe - Approved and Design Started",
-        "planning": [
-            {
-                "id": 791,
-                "status": "active",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Consider"
-            }
-        ]
+        ],
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 288,
@@ -2300,7 +3356,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 287,
@@ -2309,7 +3373,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 286,
@@ -2326,7 +3398,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 284,
@@ -2343,7 +3423,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 283,
@@ -2360,31 +3448,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
-    },
-    {
-        "id": 281,
-        "name": "EBP-STAFF 1422 Claros (Staff Leasing)- Andrew Gildea",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [
-            {
-                "id": 686,
-                "status": "active",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Consider"
-            },
-            {
-                "id": 617,
-                "status": "inactive",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Consider"
-            }
-        ]
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 258,
@@ -2401,7 +3473,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 256,
@@ -2418,7 +3498,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 254,
@@ -2435,7 +3523,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 243,
@@ -2451,15 +3547,16 @@
                 "planningStatus": "Draft",
                 "resourceApproved": false,
                 "requestReviewCategory": null
-            },
-            {
-                "id": 108,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 241,
@@ -2476,7 +3573,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 236,
@@ -2493,7 +3598,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 230,
@@ -2510,7 +3623,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 227,
@@ -2519,7 +3640,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Completed",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 225,
@@ -2536,7 +3665,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 224,
@@ -2548,12 +3685,20 @@
         "planning": [
             {
                 "id": 80,
-                "status": "inactive",
+                "status": "active",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 223,
@@ -2577,31 +3722,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
-    },
-    {
-        "id": 220,
-        "name": "EBP-ENT 2304 Freight Search",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Completed",
-        "planning": [
-            {
-                "id": 429,
-                "status": "active",
-                "planningStatus": "Approved",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            },
-            {
-                "id": 430,
-                "status": "active",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 215,
@@ -2618,7 +3747,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 211,
@@ -2642,7 +3779,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 210,
@@ -2659,7 +3804,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 209,
@@ -2668,7 +3821,15 @@
         "projecType": "LEASE",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 200,
@@ -2685,7 +3846,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 199,
@@ -2702,7 +3871,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 192,
@@ -2719,7 +3896,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 191,
@@ -2736,7 +3921,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 189,
@@ -2745,15 +3938,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Terminated",
         "status": "Budget Approval and Project Plan",
-        "planning": [
-            {
-                "id": 27,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Review"
-            }
-        ]
+        "planning": [],
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 182,
@@ -2770,7 +3963,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 181,
@@ -2787,7 +3988,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 179,
@@ -2804,7 +4013,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 176,
@@ -2821,7 +4038,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 173,
@@ -2845,16 +4070,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
-    },
-    {
-        "id": 172,
-        "name": "EBP-ENT 3544 Stratus Smart Software",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": []
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 170,
@@ -2878,7 +4102,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 169,
@@ -2895,7 +4127,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 167,
@@ -2912,7 +4152,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 162,
@@ -2921,7 +4169,15 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 159,
@@ -2938,7 +4194,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "rajeshneupane@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 136,
@@ -2947,7 +4211,15 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 132,
@@ -2964,7 +4236,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 128,
@@ -2973,7 +4253,15 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 126,
@@ -2982,7 +4270,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 125,
@@ -2991,13 +4287,21 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 115,
         "name": "EBP-ENT 3544 Stratus Smart Software Solutions",
         "isArchive": false,
-        "projecType": null,
+        "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
         "planning": [
@@ -3008,7 +4312,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 112,
@@ -3039,7 +4351,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 110,
@@ -3056,7 +4376,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 102,
@@ -3073,7 +4401,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 92,
@@ -3090,7 +4426,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 91,
@@ -3107,7 +4451,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 90,
@@ -3131,7 +4483,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 85,
@@ -3148,7 +4508,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 82,
@@ -3165,7 +4533,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 75,
@@ -3174,7 +4550,23 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [
+            {
+                "id": 831,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 69,
@@ -3198,7 +4590,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 58,
@@ -3215,7 +4615,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 57,
@@ -3239,7 +4647,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 51,
@@ -3256,7 +4672,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 46,
@@ -3265,7 +4689,15 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 30,
@@ -3274,7 +4706,15 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 25,
@@ -3283,7 +4723,15 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 14,
@@ -3292,7 +4740,15 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 13,
@@ -3301,7 +4757,15 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 12,
@@ -3310,7 +4774,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 11,
@@ -3319,7 +4791,15 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 10,
@@ -3336,7 +4816,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 4,
@@ -3345,7 +4833,15 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 2,
@@ -3354,7 +4850,91 @@
         "projecType": null,
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
+    },
+    {
+        "id": 560,
+        "name": "EBP-ENT 3098 Allied Health Directory (maintenance)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": null,
+        "status": "initiating",
+        "planning": [
+            {
+                "id": 832,
+                "status": "inactive",
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
+    },
+    {
+        "id": 559,
+        "name": "EBP-CMS 2687 Empax Centre Website Revamp (Headless)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Kick Off Workshop",
+        "planning": [],
+        "engineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "angharad@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
+    },
+    {
+        "id": 558,
+        "name": "EBP-AUDIT 1228 Tipflo Code Audit - Revised Terms",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Kick Off Workshop",
+        "planning": [],
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
+    },
+    {
+        "id": 557,
+        "name": "EBP-RFC 3455 Bendooleyestate RFC2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Kick Off Workshop",
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 555,
@@ -3371,7 +4951,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 554,
@@ -3388,7 +4976,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 553,
@@ -3405,7 +5001,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 552,
@@ -3422,7 +5026,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 550,
@@ -3434,12 +5046,20 @@
         "planning": [
             {
                 "id": 804,
-                "status": "inactive",
+                "status": "active",
                 "planningStatus": "Draft",
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 549,
@@ -3448,7 +5068,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Project approved",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "angharad@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 547,
@@ -3465,7 +5093,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 546,
@@ -3482,7 +5118,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 544,
@@ -3499,7 +5143,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "gorakh@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 543,
@@ -3516,7 +5168,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "angharad@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 541,
@@ -3533,7 +5193,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 540,
@@ -3541,7 +5209,7 @@
         "isArchive": false,
         "projecType": "REGULAR",
         "developmentStatus": "Active",
-        "status": "Project approved",
+        "status": "Wireframe",
         "planning": [
             {
                 "id": 806,
@@ -3550,7 +5218,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "angharad@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 539,
@@ -3559,7 +5235,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Wireframe",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 536,
@@ -3576,7 +5260,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 535,
@@ -3587,13 +5279,21 @@
         "status": "Budget Approval and Project Plan",
         "planning": [
             {
-                "id": 770,
+                "id": 828,
                 "status": "active",
                 "planningStatus": "Approved",
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 534,
@@ -3610,7 +5310,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 533,
@@ -3618,8 +5326,16 @@
         "isArchive": false,
         "projecType": "REGULAR",
         "developmentStatus": "Active",
-        "status": "Kick Off Workshop",
-        "planning": []
+        "status": "Wireframe",
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 532,
@@ -3636,7 +5352,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 530,
@@ -3647,13 +5371,21 @@
         "status": "Wireframe",
         "planning": [
             {
-                "id": 816,
+                "id": 838,
                 "status": "active",
-                "planningStatus": "Review",
-                "resourceApproved": false,
+                "planningStatus": "Approved",
+                "resourceApproved": true,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sweta@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 528,
@@ -3662,7 +5394,23 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Wireframe",
-        "planning": []
+        "planning": [
+            {
+                "id": 823,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 527,
@@ -3686,7 +5434,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 526,
@@ -3703,7 +5459,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 525,
@@ -3712,7 +5476,23 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Project approved",
-        "planning": []
+        "planning": [
+            {
+                "id": 833,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "engineeringManagerEmail": "sweta@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 524,
@@ -3728,22 +5508,16 @@
                 "planningStatus": "Approved",
                 "resourceApproved": false,
                 "requestReviewCategory": null
-            },
-            {
-                "id": 760,
-                "status": "inactive",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            },
-            {
-                "id": 759,
-                "status": "inactive",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 522,
@@ -3759,15 +5533,16 @@
                 "planningStatus": "Approved",
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
-            },
-            {
-                "id": 711,
-                "status": "inactive",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 521,
@@ -3784,7 +5559,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "narendra@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 520,
@@ -3801,7 +5584,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 516,
@@ -3815,10 +5606,18 @@
                 "id": 708,
                 "status": "inactive",
                 "planningStatus": "Review",
-                "resourceApproved": false,
+                "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 514,
@@ -3835,7 +5634,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sweta@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 513,
@@ -3852,7 +5659,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 501,
@@ -3869,7 +5684,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 488,
@@ -3886,7 +5709,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 485,
@@ -3903,7 +5734,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sweta@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 483,
@@ -3920,7 +5759,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 482,
@@ -3937,7 +5784,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": null,
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 481,
@@ -3954,7 +5809,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 480,
@@ -3971,7 +5834,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 479,
@@ -3988,7 +5859,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 476,
@@ -3997,7 +5876,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Design - Approved and SRS Initiated",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 469,
@@ -4014,7 +5901,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 462,
@@ -4031,7 +5926,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 461,
@@ -4048,7 +5951,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "pradeep@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 459,
@@ -4065,7 +5976,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 457,
@@ -4074,7 +5993,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "On Client Hold",
         "status": "Wireframe",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 453,
@@ -4082,16 +6009,24 @@
         "isArchive": false,
         "projecType": "LEASE",
         "developmentStatus": "Active",
-        "status": "Budget Approval and Project Plan",
+        "status": "Development",
         "planning": [
             {
                 "id": 544,
-                "status": "inactive",
+                "status": "active",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 364,
@@ -4108,7 +6043,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sanjeena@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 303,
@@ -4125,7 +6068,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 300,
@@ -4142,7 +6093,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 295,
@@ -4151,7 +6110,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Project approved",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 294,
@@ -4168,7 +6135,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 293,
@@ -4185,7 +6160,40 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
+    },
+    {
+        "id": 290,
+        "name": "EBP-CMS 3484 Massage Booker",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe - Approved and Design Started",
+        "planning": [
+            {
+                "id": 836,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 274,
@@ -4202,7 +6210,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": null,
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 270,
@@ -4219,7 +6235,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 269,
@@ -4236,7 +6260,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "ebsaja2@gmail.com",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 263,
@@ -4253,7 +6285,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 262,
@@ -4270,7 +6310,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 259,
@@ -4287,7 +6335,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 257,
@@ -4304,7 +6360,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 255,
@@ -4321,7 +6385,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": null,
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 253,
@@ -4338,7 +6410,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 248,
@@ -4355,7 +6435,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 245,
@@ -4372,7 +6460,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 242,
@@ -4389,7 +6485,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 238,
@@ -4406,7 +6510,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": null,
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 237,
@@ -4423,7 +6535,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": null,
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 234,
@@ -4440,7 +6560,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": null,
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 232,
@@ -4457,24 +6585,40 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 221,
-        "name": "One Wardrobe",
+        "name": "One Wardrobe(Maintenance)",
         "isArchive": false,
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Development",
         "planning": [
             {
-                "id": 75,
+                "id": 824,
                 "status": "inactive",
-                "planningStatus": "Review",
+                "planningStatus": "InProgress",
                 "resourceApproved": false,
-                "requestReviewCategory": "Resource_Booking_Only"
+                "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 217,
@@ -4491,7 +6635,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 216,
@@ -4508,7 +6660,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 213,
@@ -4525,7 +6685,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 203,
@@ -4542,7 +6710,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 202,
@@ -4559,7 +6735,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 198,
@@ -4576,7 +6760,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 193,
@@ -4593,7 +6785,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "rajeshneupane@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 185,
@@ -4610,7 +6810,40 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
+    },
+    {
+        "id": 180,
+        "name": "EBP-ENT 4000 Australian Campdraft Association (Wordpress) Full Development v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 748,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 174,
@@ -4634,7 +6867,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 166,
@@ -4651,7 +6892,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 160,
@@ -4668,7 +6917,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 157,
@@ -4685,7 +6942,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "bikash@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 153,
@@ -4702,7 +6967,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 148,
@@ -4719,7 +6992,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 147,
@@ -4728,7 +7009,15 @@
         "projecType": null,
         "developmentStatus": "Terminated",
         "status": "Budget Approval and Project Plan",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 143,
@@ -4739,13 +7028,21 @@
         "status": "Beta Release",
         "planning": [
             {
-                "id": 734,
+                "id": 827,
                 "status": "active",
                 "planningStatus": "Approved",
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 141,
@@ -4762,7 +7059,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 138,
@@ -4779,7 +7084,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 129,
@@ -4796,7 +7109,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 127,
@@ -4813,7 +7134,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 123,
@@ -4830,7 +7159,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 114,
@@ -4847,7 +7184,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 113,
@@ -4864,7 +7209,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 108,
@@ -4881,7 +7234,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 107,
@@ -4898,7 +7259,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 105,
@@ -4915,7 +7284,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 103,
@@ -4932,7 +7309,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 101,
@@ -4949,7 +7334,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sweta@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 98,
@@ -4966,7 +7359,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "samir@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 97,
@@ -4975,7 +7376,15 @@
         "projecType": "REGULAR",
         "developmentStatus": "Terminated",
         "status": "Wireframe",
-        "planning": []
+        "planning": [],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 72,
@@ -4992,7 +7401,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 68,
@@ -5003,13 +7420,21 @@
         "status": "Design - Approved and SRS Initiated",
         "planning": [
             {
-                "id": 556,
-                "status": "inactive",
-                "planningStatus": "Review",
+                "id": 826,
+                "status": "active",
+                "planningStatus": "Approved",
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Review"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 60,
@@ -5025,22 +7450,16 @@
                 "planningStatus": "Approved",
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
-            },
-            {
-                "id": 125,
-                "status": "inactive",
-                "planningStatus": "InProgress",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            },
-            {
-                "id": 116,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 59,
@@ -5057,7 +7476,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 55,
@@ -5068,13 +7495,21 @@
         "status": "Development",
         "planning": [
             {
-                "id": 739,
+                "id": 830,
                 "status": "active",
                 "planningStatus": "Approved",
                 "resourceApproved": false,
-                "requestReviewCategory": "Plan_Review"
+                "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "karun@ebpearls.com.au",
+        "accountManager": "eoin@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 52,
@@ -5091,7 +7526,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "rajeshneupane@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "prasanna@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 49,
@@ -5108,7 +7551,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 43,
@@ -5125,7 +7576,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prashant@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "binisha@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 31,
@@ -5142,7 +7601,15 @@
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Consider"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 26,
@@ -5166,7 +7633,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 6,
@@ -5183,7 +7658,15 @@
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     },
     {
         "id": 3,
@@ -5194,12 +7677,20 @@
         "status": "Design - Approved and SRS Initiated",
         "planning": [
             {
-                "id": 86,
-                "status": "inactive",
-                "planningStatus": "Review",
+                "id": 837,
+                "status": "active",
+                "planningStatus": "Approved",
                 "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
-        ]
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": null
     }
 ]

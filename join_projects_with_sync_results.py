@@ -32,6 +32,6 @@ def join_projects_with_sync_results(json_file1, json_file2, output_file="joined_
 
 # Example usage:
 if __name__ == "__main__":
-    join_projects_with_sync_results("combined_projects.json", "engineering_emails.json")
+    join_projects_with_sync_results("sync_results2.json", "engineering_emails.json")
 import json
 

@@ -1,0 +1,455 @@
+[
+    {
+        "id": 363,
+        "name": "EBP-CMS 2513 EL Toro v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [
+            {
+                "id": 489,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 488,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ]
+    },
+    {
+        "id": 281,
+        "name": "EBP-STAFF 1422 Claros (Staff Leasing)- Andrew Gildea",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 686,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            },
+            {
+                "id": 617,
+                "status": "inactive",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ]
+    },
+    {
+        "id": 243,
+        "name": "EBP-ENT 3396 YCP (maintenance)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 209,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 108,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "name": "Bahah - Support",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Completed",
+        "planning": [
+            {
+                "id": 431,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 77,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "name": "EBP-ENT 2304 Freight Search",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Completed",
+        "planning": [
+            {
+                "id": 429,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            },
+            {
+                "id": 430,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "name": "EBP-ENT 471 - Real Estate App (APBR)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 367,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            },
+            {
+                "id": 117,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "name": "EBP-ENT 4020 Baztel Code Audit",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 568,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 418,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "name": "EBP-ENT 3339 Caroo RFC57 (Webapp MVP)",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 416,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            },
+            {
+                "id": 149,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "name": "EBP-ENT 3617 Top Teacher - Webapp v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Live/30-day Support",
+        "planning": [
+            {
+                "id": 408,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 409,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 407,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "name": "EBP-CMS 2607 Bendooley Estate v4",
+        "isArchive": false,
+        "projecType": null,
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 701,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 700,
+                "status": "inactive",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "name": "EBP-ENT 3098 Allied Health Directory",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Done",
+        "planning": [
+            {
+                "id": 397,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 84,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "name": "EBP-ENT 3500 Beauty Grail WebApp",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Live/30-day Support",
+        "planning": [
+            {
+                "id": 394,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 365,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ]
+    },
+    {
+        "id": 527,
+        "name": "EBP-ENT 4180 Nimbus Receipt MVPv2.1",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Kick Off Workshop",
+        "planning": [
+            {
+                "id": 751,
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 744,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ]
+    },
+    {
+        "id": 524,
+        "name": "ACM RFC - Braze Integration",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 761,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 760,
+                "status": "inactive",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 759,
+                "status": "inactive",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ]
+    },
+    {
+        "id": 522,
+        "name": "EBP-ENT 4020 Baztel Code Audit (Phase 2)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 802,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 711,
+                "status": "inactive",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "name": "EBP-ENT 4012 Parent Hub",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Budget Approval and Project Plan",
+        "planning": [
+            {
+                "id": 322,
+                "status": "inactive",
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 60,
+                "status": "active",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "EBP-ENT 2981 TalkNow Telehealth (Mobile + Web App) v2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Suspended",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 396,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            },
+            {
+                "id": 125,
+                "status": "inactive",
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 116,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "EBP-ENT 3837 Community Alert",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "On Client Hold",
+        "status": "Design - Approved and SRS Initiated",
+        "planning": [
+            {
+                "id": 147,
+                "status": "inactive",
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            },
+            {
+                "id": 29,
+                "status": "inactive",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ]
+    }
+]

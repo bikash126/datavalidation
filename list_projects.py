@@ -1,3 +1,4 @@
+
 import json
 import time
 import requests
@@ -40,7 +41,44 @@ query ListProjectPlanning($projectId: Int!) {
     }
 }
 """
+PROJECT_DETAIL_QUERY = """
+query GetProjectByID($getProjectId: Int!) {
+    getProject(id: $getProjectId) {
+        engineeringManagerEmail
+        seniorEngineeringManagerEmail
+        accountManager
+        name
+        id
+        status
+        projType
+        codaDocId
+        jiraProjectKey
+        jiraProjectName
+        hubSpotProjectLink
+        codaRetroDocId
+    }
+}
+"""
 
+def fetch_project_detail(project_id):
+        """Fetch project details (including engineeringManagerEmail) for a given project id."""
+        payload = {
+                "operationName": "GetProjectByID",
+                "variables": {"getProjectId": int(project_id)},
+                "query": PROJECT_DETAIL_QUERY
+        }
+        try:
+                response = requests.post(URL, json=payload, headers=HEADERS)
+                response.raise_for_status()
+                res_data = response.json()
+                if "errors" in res_data:
+                        print(f"❌ GraphQL Error for project {project_id}: {res_data['errors']}")
+                        return {}
+                return res_data.get("data", {}).get("getProject", {})
+        except Exception as e:
+                print(f"💥 Network error fetching project detail for {project_id}: {e}")
+                return {}
+        
 def fetch_projects(filter_params):
     """Helper to query the API for a specific filter payload"""
     payload = {
@@ -145,7 +183,16 @@ def main():
         project_id = project.get("id")
         if project_id and project_id not in combined_dict:
             planning = fetch_project_planning(project_id)
-      
+            # Fetch project detail for email info
+            detail = fetch_project_detail(project_id)
+            engineering_manager_email = detail.get("engineeringManagerEmail")
+            senior_engineering_manager_email = detail.get("seniorEngineeringManagerEmail")
+            account_manager = detail.get("accountManager")
+            coda_doc_id = detail.get("codaDocId")
+            jira_project_key = detail.get("jiraProjectKey")
+            jira_project_name = detail.get("jiraProjectName")
+            hubspot_project_link = detail.get("hubSpotProjectLink")
+            coda_retro_doc_id = detail.get("codaRetroDocId")
             combined_dict[project_id] = {
                 "id": project_id,
                 "name": project.get("name"),
@@ -153,9 +200,16 @@ def main():
                 "projecType": project.get("projType"),
                 "developmentStatus": project.get("developmentStatus"),
                 "status": project.get("status"),
-                "planning": planning
+                "planning": planning,
+                "engineeringManagerEmail": engineering_manager_email,
+                "seniorEngineeringManagerEmail": senior_engineering_manager_email,
+                "accountManager": account_manager,
+                "codaDocId": coda_doc_id,
+                "codaRetroDocId": coda_retro_doc_id,
+                "jiraProjectKey": jira_project_key,
+                "jiraProjectName": jira_project_name,
+                "hubSpotProjectLink": hubspot_project_link
             }
-            
     final_unique_list = list(combined_dict.values())
     
     # --- WRITE DATA OUT TO FILE ---

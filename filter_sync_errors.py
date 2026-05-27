@@ -1,6 +1,6 @@
 import json
 
-INPUT_FILE = "sync_results1.json"
+INPUT_FILE = "sync_results2.json"
 OUTPUT_FILE = "sync_errors.json"
 
 def filter_errors(input_file, output_file):
