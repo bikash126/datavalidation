@@ -1,744 +1,2207 @@
 [
     {
-        "projectId": 519,
-        "projectName": "EBP-PROTO 1467 OptiCoach Prototype",
-        "projectStatus": "Kick Off Workshop",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:18"
+        "id": 531,
+        "name": "CT Freight Webapp - eAdaptor Next",
+        "status": null,
+        "sync_message": 50,
+        "timestamp": "2026-05-28 11:12:00"
     },
     {
-        "projectId": 518,
-        "projectName": "Opti coach",
-        "projectStatus": "Wireframe",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:20"
+        "id": 529,
+        "name": "EBP-RFC 3446 Kapstream RFC1",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:12:03"
     },
     {
-        "projectId": 517,
-        "projectName": "EBP-ENT 4081 King River Outdoors Prototype",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:22"
+        "id": 519,
+        "name": "EBP-PROTO 1467 OptiCoach Prototype",
+        "status": null,
+        "sync_message": 30,
+        "timestamp": "2026-05-28 11:12:08"
     },
     {
-        "projectId": 484,
-        "projectName": "EBP-ENT 3694 DIY Tradie (Prototype)",
-        "projectStatus": "Wireframe",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:23"
+        "id": 518,
+        "name": "Opti coach",
+        "status": null,
+        "sync_message": 30,
+        "timestamp": "2026-05-28 11:12:11"
     },
     {
-        "projectId": 464,
-        "projectName": "CMS-RFC 3482 Bannister RFC10",
-        "projectStatus": "Development",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:17:25"
+        "id": 517,
+        "name": "EBP-ENT 4081 King River Outdoors Prototype",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:12:14"
     },
     {
-        "projectId": 456,
-        "projectName": "Double Guard App old",
-        "projectStatus": "Completed",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:17:27"
+        "id": 503,
+        "name": " Jackson Ranch RFC17",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:12:18"
     },
     {
-        "projectId": 437,
-        "projectName": "EBP-CMS 1795 The Deep Blue",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:28"
+        "id": 498,
+        "name": " St.Jude's RFC1 v2",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:12:21"
     },
     {
-        "projectId": 434,
-        "projectName": "EBP-CMS 2333 Robert Clerc",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:30"
+        "id": 497,
+        "name": " WUNA RFC10",
+        "status": null,
+        "sync_message": 62,
+        "timestamp": "2026-05-28 11:12:28"
     },
     {
-        "projectId": 388,
-        "projectName": "EBP-CMS 2253 Parras Hospitality Websites",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:31"
+        "id": 489,
+        "name": "Castle and Things",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:12:31"
     },
     {
-        "projectId": 519,
-        "projectName": "EBP-PROTO 1467 OptiCoach Prototype",
-        "projectStatus": "Kick Off Workshop",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:50"
+        "id": 484,
+        "name": "EBP-ENT 3694 DIY Tradie (Prototype)",
+        "status": null,
+        "sync_message": 30,
+        "timestamp": "2026-05-28 11:12:42"
     },
     {
-        "projectId": 518,
-        "projectName": "Opti coach",
-        "projectStatus": "Wireframe",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:52"
+        "id": 466,
+        "name": "EBP-ENT 4090 Isaac DevOps Audit",
+        "status": null,
+        "sync_message": 68,
+        "timestamp": "2026-05-28 11:12:47"
     },
     {
-        "projectId": 517,
-        "projectName": "EBP-ENT 4081 King River Outdoors Prototype",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:53"
+        "id": 464,
+        "name": "CMS-RFC 3482 Bannister RFC10",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:12:48"
     },
     {
-        "projectId": 484,
-        "projectName": "EBP-ENT 3694 DIY Tradie (Prototype)",
-        "projectStatus": "Wireframe",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:17:55"
+        "id": 456,
+        "name": "Double Guard App old",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:12:50"
     },
     {
-        "projectId": 464,
-        "projectName": "CMS-RFC 3482 Bannister RFC10",
-        "projectStatus": "Development",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:17:57"
+        "id": 446,
+        "name": "EBP-CMS 2474 365mesh",
+        "status": null,
+        "sync_message": 48,
+        "timestamp": "2026-05-28 11:13:11"
     },
     {
-        "projectId": 456,
-        "projectName": "Double Guard App old",
-        "projectStatus": "Completed",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:17:58"
+        "id": 444,
+        "name": "EBP-ENT 2756 Production Software",
+        "status": null,
+        "sync_message": 33,
+        "timestamp": "2026-05-28 11:13:33"
     },
     {
-        "projectId": 437,
-        "projectName": "EBP-CMS 1795 The Deep Blue",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:00"
+        "id": 443,
+        "name": "EBP-CMS 2351 Africa Marketplace (Shopify Them",
+        "status": null,
+        "sync_message": 40,
+        "timestamp": "2026-05-28 11:13:53"
     },
     {
-        "projectId": 434,
-        "projectName": "EBP-CMS 2333 Robert Clerc",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:01"
+        "id": 442,
+        "name": "EBP-CMS 2316 Bracton Group",
+        "status": null,
+        "sync_message": 38,
+        "timestamp": "2026-05-28 11:13:58"
     },
     {
-        "projectId": 388,
-        "projectName": "EBP-CMS 2253 Parras Hospitality Websites",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:03"
+        "id": 441,
+        "name": "EBP-CMS 2590 Express Glass",
+        "status": null,
+        "sync_message": 62,
+        "timestamp": "2026-05-28 11:14:07"
     },
     {
-        "projectId": 383,
-        "projectName": "CMS-RFC 2837 Sydney Collective (Website Trans",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:05"
+        "id": 440,
+        "name": "EBP-CMS 2205 Online Pharmacy Agency v2",
+        "status": null,
+        "sync_message": 50,
+        "timestamp": "2026-05-28 11:14:23"
     },
     {
-        "projectId": 378,
-        "projectName": "EBP-CMS 2085 Will & Estate Planner - Branding",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:06"
+        "id": 439,
+        "name": "EBP-CMS 1795 The Deep Blue",
+        "status": null,
+        "sync_message": 28,
+        "timestamp": "2026-05-28 11:14:50"
     },
     {
-        "projectId": 354,
-        "projectName": "EBP-CMS 2568 TrendTrade - Wordpress",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:08"
+        "id": 438,
+        "name": "EBP-ENT 2544 OORT RFC1 (App Landing Page)",
+        "status": null,
+        "sync_message": 78,
+        "timestamp": "2026-05-28 11:14:55"
     },
     {
-        "projectId": 339,
-        "projectName": "EBP-CMS 2189 Flow Leaders",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:09"
+        "id": 437,
+        "name": "EBP-CMS 1795 The Deep Blue",
+        "status": null,
+        "sync_message": 28,
+        "timestamp": "2026-05-28 11:15:20"
     },
     {
-        "projectId": 334,
-        "projectName": "AG-CMS 1799 ACRF",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:11"
+        "id": 436,
+        "name": "EBP-CMS 2336 Black Jet Website v2",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:15:23"
     },
     {
-        "projectId": 326,
-        "projectName": "EBP-ENT 2318 GRC Institute Membership Portal",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:13"
+        "id": 435,
+        "name": "EBP-ENT 3645 Homemaker Investment App",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:15:27"
     },
     {
-        "projectId": 305,
-        "projectName": "DevOps",
-        "projectStatus": "Project approved",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:14"
+        "id": 434,
+        "name": "EBP-CMS 2333 Robert Clerc",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:15:30"
     },
     {
-        "projectId": 287,
-        "projectName": "CMS-RFC 3381 AWN.net RFC28",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:16"
+        "id": 432,
+        "name": "EBP-ENT 2864 Quatt",
+        "status": null,
+        "sync_message": 35,
+        "timestamp": "2026-05-28 11:16:18"
     },
     {
-        "projectId": 286,
-        "projectName": "EBP-ENT 3735 Worker's AI Prototype",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:18"
+        "id": 431,
+        "name": "EBP-CMS 2481 TDS Website without Woocommerce",
+        "status": null,
+        "sync_message": 45,
+        "timestamp": "2026-05-28 11:16:26"
     },
     {
-        "projectId": 281,
-        "projectName": "EBP-STAFF 1422 Claros (Staff Leasing)- Andrew Gildea",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:20"
+        "id": 430,
+        "name": "EBP-CMS 2475 Environmental Group Australia v2",
+        "status": null,
+        "sync_message": 36,
+        "timestamp": "2026-05-28 11:16:43"
     },
     {
-        "projectId": 277,
-        "projectName": "AG-CMS 1877  I Code School",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:21"
+        "id": 429,
+        "name": "Prep10",
+        "status": null,
+        "sync_message": 41,
+        "timestamp": "2026-05-28 11:16:55"
     },
     {
-        "projectId": 227,
-        "projectName": "Rotech - Maintenance Project",
-        "projectStatus": "Completed",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:23"
+        "id": 428,
+        "name": "Rotech",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:16:59"
     },
     {
-        "projectId": 225,
-        "projectName": "CMS-RFC 3479 White Bow Gift Registry RFC13",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:24"
+        "id": 427,
+        "name": "EBP-CMS 2533 Friends United v2 (Theme Based)",
+        "status": null,
+        "sync_message": 52,
+        "timestamp": "2026-05-28 11:17:09"
     },
     {
-        "projectId": 224,
-        "projectName": "Personhood",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:26"
+        "id": 426,
+        "name": "EBP-CMS 2571 Glide Online Travel Clinic",
+        "status": null,
+        "sync_message": 38,
+        "timestamp": "2026-05-28 11:17:17"
     },
     {
-        "projectId": 209,
-        "projectName": "Crews",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:27"
+        "id": 425,
+        "name": "EBP-CMS 2456 Australian Alkaloids Trading",
+        "status": null,
+        "sync_message": 49,
+        "timestamp": "2026-05-28 11:17:27"
     },
     {
-        "projectId": 191,
-        "projectName": "CMS-RFC 3470 White Bow Gift Registry RFC12",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:29"
+        "id": 424,
+        "name": "EBP-CMS 2395 Ferocious Feed v2",
+        "status": null,
+        "sync_message": 36,
+        "timestamp": "2026-05-28 11:18:03"
     },
     {
-        "projectId": 172,
-        "projectName": "EBP-ENT 3544 Stratus Smart Software",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:31"
+        "id": 423,
+        "name": "EBP - CMS Howdy Website",
+        "status": null,
+        "sync_message": 53,
+        "timestamp": "2026-05-28 11:18:10"
     },
     {
-        "projectId": 169,
-        "projectName": "Caroo Maintenace",
-        "projectStatus": "Final Budget Approval",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:32"
+        "id": 422,
+        "name": "EBP-CMS 2211 ASENO",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:18:16"
     },
     {
-        "projectId": 167,
-        "projectName": "CMS-RFC 3462 Friends United v2 (Theme Based) RFC2 v3",
-        "projectStatus": "Development",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:34"
+        "id": 421,
+        "name": "EBP-CMS 2601 Exportia v2",
+        "status": null,
+        "sync_message": 52,
+        "timestamp": "2026-05-28 11:18:30"
     },
     {
-        "projectId": 162,
-        "projectName": "CMS-RFC 3460 Wyer & Co RFC4",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:35"
+        "id": 420,
+        "name": "EBP-CMS 2479 Prismo Website",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:18:34"
     },
     {
-        "projectId": 136,
-        "projectName": "CMS-RFC 3446 365mesh RFC4",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:37"
+        "id": 419,
+        "name": "EBP-CMS 2361 Double Guard (Templated Pages)",
+        "status": null,
+        "sync_message": 74,
+        "timestamp": "2026-05-28 11:18:45"
     },
     {
-        "projectId": 128,
-        "projectName": "ENT-RFC 1823 Metahealth RFC1",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:39"
+        "id": 418,
+        "name": "EBP-ENT 3178 Figrun v2",
+        "status": null,
+        "sync_message": 37,
+        "timestamp": "2026-05-28 11:18:57"
     },
     {
-        "projectId": 126,
-        "projectName": "CMS-RFC 3445 Quantify Wellness Landing Page RFC2",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:40"
+        "id": 417,
+        "name": "EBP-CMS 2397 My Guardian",
+        "status": null,
+        "sync_message": 43,
+        "timestamp": "2026-05-28 11:19:24"
     },
     {
-        "projectId": 125,
-        "projectName": "EBP-ENT 3491MeetDelete Prototype",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:42"
+        "id": 415,
+        "name": "EBP-CMS 2172 Power Sync",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:19:28"
     },
     {
-        "projectId": 102,
-        "projectName": "Smart Mobile App Development with Agile Resource Augmentation",
-        "projectStatus": "Development",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:44"
+        "id": 414,
+        "name": "EBP-CMS 2293 Aesthetic practitioner Platform",
+        "status": null,
+        "sync_message": 38,
+        "timestamp": "2026-05-28 11:19:40"
     },
     {
-        "projectId": 75,
-        "projectName": "EBP-STAFF 1359 Doubleguard Staff Leasing",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:45"
+        "id": 412,
+        "name": "EBP-CMS 2436 Wyer & Co",
+        "status": null,
+        "sync_message": 47,
+        "timestamp": "2026-05-28 11:19:49"
     },
     {
-        "projectId": 46,
-        "projectName": "CMS-RFC 3439 Voiceless RFC10",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:47"
+        "id": 409,
+        "name": "EBP-CMS 2359 Aydin Co Picture Framing (Shopify Template) v2",
+        "status": null,
+        "sync_message": 48,
+        "timestamp": "2026-05-28 11:19:54"
     },
     {
-        "projectId": 42,
-        "projectName": "ENT-RFC 1901 Adventure Shuffle - RFC 1",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:48"
+        "id": 408,
+        "name": "EBP-CMS 2329 Honey Pot Landing Page",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:19:59"
     },
     {
-        "projectId": 30,
-        "projectName": "CMS-RFC 3427 EBP-CMS 2639 Quantify Wellness Landing Page RFC1",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:50"
+        "id": 407,
+        "name": "EBP-CMS 2120 Coerver",
+        "status": null,
+        "sync_message": 35,
+        "timestamp": "2026-05-28 11:20:39"
     },
     {
-        "projectId": 25,
-        "projectName": "ENT-RFC 1910 Property Dollar Gamification Prototype RFC1",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:52"
+        "id": 406,
+        "name": "CMS-Talk Now Telehealth",
+        "status": null,
+        "sync_message": 45,
+        "timestamp": "2026-05-28 11:20:54"
     },
     {
-        "projectId": 14,
-        "projectName": "EBP-ENT 3841 Coposit Penetration Testing Report",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:53"
+        "id": 404,
+        "name": "AG-CMS 1823 Safe Work",
+        "status": null,
+        "sync_message": 55,
+        "timestamp": "2026-05-28 11:21:06"
     },
     {
-        "projectId": 13,
-        "projectName": "CMS-RFC 3416 OutcomeX RFC24",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:55"
+        "id": 403,
+        "name": "EBP-ENT 3069 Exquisite Giveaways",
+        "status": null,
+        "sync_message": 68,
+        "timestamp": "2026-05-28 11:21:13"
     },
     {
-        "projectId": 12,
-        "projectName": "CMS-RFC 3415 Blue Spinach RFC25",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:18:56"
+        "id": 402,
+        "name": "AG-CMS 1846 Metz Website",
+        "status": null,
+        "sync_message": 48,
+        "timestamp": "2026-05-28 11:21:41"
     },
     {
-        "projectId": 4,
-        "projectName": "EBP-ENT 3825 Air Run Prototype",
-        "projectStatus": "Done",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:18:58"
+        "id": 401,
+        "name": "EBP-CMS 2295 TrueCover",
+        "status": null,
+        "sync_message": 61,
+        "timestamp": "2026-05-28 11:21:51"
     },
     {
-        "projectId": 2,
-        "projectName": "ENT-RFC 1896 Copost Pen testing",
-        "projectStatus": "Done",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:00"
+        "id": 400,
+        "name": "AG-CMS 1773 Transference Healing",
+        "status": null,
+        "sync_message": 51,
+        "timestamp": "2026-05-28 11:21:57"
     },
     {
-        "projectId": 555,
-        "projectName": "Gapmash Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:01"
+        "id": 399,
+        "name": "EBP - CMS  Pogozo Website",
+        "status": null,
+        "sync_message": 44,
+        "timestamp": "2026-05-28 11:22:12"
     },
     {
-        "projectId": 554,
-        "projectName": "MGI Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:03"
+        "id": 398,
+        "name": "EBP-CMS 2260  You Choose Pets (Landing Page)",
+        "status": null,
+        "sync_message": 52,
+        "timestamp": "2026-05-28 11:22:21"
     },
     {
-        "projectId": 553,
-        "projectName": "Freight Search Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:04"
+        "id": 397,
+        "name": "Kathford Project",
+        "status": null,
+        "sync_message": 41,
+        "timestamp": "2026-05-28 11:22:38"
     },
     {
-        "projectId": 552,
-        "projectName": "Communication Spectrum Maintenance",
-        "projectStatus": "Final Budget Approval",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:06"
+        "id": 396,
+        "name": "Bloomfield Care",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:22:41"
     },
     {
-        "projectId": 549,
-        "projectName": "EBP-RFC 3460 Coach Merv RFC1 SRS",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:08"
+        "id": 395,
+        "name": "EBP-CMS 2388 Leora.ai v2",
+        "status": null,
+        "sync_message": 37,
+        "timestamp": "2026-05-28 11:22:47"
     },
     {
-        "projectId": 547,
-        "projectName": "Personhood - Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:09"
+        "id": 394,
+        "name": "EBP-CMS 2335 CommandAuto",
+        "status": null,
+        "sync_message": 38,
+        "timestamp": "2026-05-28 11:23:14"
     },
     {
-        "projectId": 546,
-        "projectName": "Top Teacher - Webapp v2 - Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:11"
+        "id": 393,
+        "name": "EBP-CMS 1878 Estraints",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:23:16"
     },
     {
-        "projectId": 544,
-        "projectName": "CT Freight - Client Portal (Webapp Only) - Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:14"
+        "id": 390,
+        "name": "EBP-CMS 2280 Lewis Hotels Group",
+        "status": null,
+        "sync_message": 38,
+        "timestamp": "2026-05-28 11:23:32"
     },
     {
-        "projectId": 543,
-        "projectName": "Howdy Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:15"
+        "id": 388,
+        "name": "EBP-CMS 2253 Parras Hospitality Websites",
+        "status": null,
+        "sync_message": 84,
+        "timestamp": "2026-05-28 11:23:39"
     },
     {
-        "projectId": 541,
-        "projectName": "EBP-ENT 4211  Jon Lim Revised MVP",
-        "projectStatus": "Kick Off Workshop",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:17"
+        "id": 386,
+        "name": "EBP-ENT 2922 Shrynk(Yooli)",
+        "status": null,
+        "sync_message": 34,
+        "timestamp": "2026-05-28 11:24:25"
     },
     {
-        "projectId": 540,
-        "projectName": "EBP-ENT 4193 Zenu - Pro-invest Stays Pty Ltd",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:18"
+        "id": 385,
+        "name": "EBP-CMS 2334 Mothers Polish",
+        "status": null,
+        "sync_message": 41,
+        "timestamp": "2026-05-28 11:24:48"
     },
     {
-        "projectId": 539,
-        "projectName": "EBP-RFC 3458 To Be Me - RFC3 (Translation & Localisation)",
-        "projectStatus": "Wireframe",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:20"
+        "id": 384,
+        "name": "EBP-CMS 2331 The Art of Voice Australia",
+        "status": null,
+        "sync_message": 47,
+        "timestamp": "2026-05-28 11:24:54"
     },
     {
-        "projectId": 534,
-        "projectName": "EBP-CMS 2699 Salima",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:22"
+        "id": 383,
+        "name": "CMS-RFC 2837 Sydney Collective (Website Trans",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'No scrum board found for project: SYDCOL', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'No scrum board found for project: SYDCOL', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:24:56"
     },
     {
-        "projectId": 533,
-        "projectName": "Tom Swan",
-        "projectStatus": "Kick Off Workshop",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:23"
+        "id": 382,
+        "name": "EBP-ENT 2797 Reliable Driving School Code Audit",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:24:59"
     },
     {
-        "projectId": 530,
-        "projectName": "Wedmuse (vibe Coded + Custom Coded) MVP",
-        "projectStatus": "Wireframe",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:25"
+        "id": 381,
+        "name": "EBP-CMS 2366 Skeiny v2",
+        "status": null,
+        "sync_message": 39,
+        "timestamp": "2026-05-28 11:25:04"
     },
     {
-        "projectId": 528,
-        "projectName": "EBP-ENT 4181 Bikemebro",
-        "projectStatus": "Kick Off Workshop",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:26"
+        "id": 380,
+        "name": "EBP-CMS 2383 MotorOne (Phase 1)",
+        "status": null,
+        "sync_message": 39,
+        "timestamp": "2026-05-28 11:25:51"
     },
     {
-        "projectId": 527,
-        "projectName": "EBP-ENT 4180 Nimbus Receipt MVPv2.1",
-        "projectStatus": "Kick Off Workshop",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:28"
+        "id": 379,
+        "name": "EBP-CMS 2552 AFRIGAR",
+        "status": null,
+        "sync_message": 47,
+        "timestamp": "2026-05-28 11:25:58"
     },
     {
-        "projectId": 526,
-        "projectName": "EBP-ENT 4174 Strategy 1 HR Staff Leasing",
-        "projectStatus": "Kick Off Workshop",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:29"
+        "id": 378,
+        "name": "EBP-CMS 2085 Will & Estate Planner - Branding",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:26:00"
     },
     {
-        "projectId": 525,
-        "projectName": "EBP-ENT 3793 A&S Australian Investment - Web App",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:31"
+        "id": 375,
+        "name": "EBP-CMS 2041 Muzikboxx WordPress",
+        "status": null,
+        "sync_message": 55,
+        "timestamp": "2026-05-28 11:26:24"
     },
     {
-        "projectId": 516,
-        "projectName": "EBP-CMS 2692 MyComms Website Refresh",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:33"
+        "id": 374,
+        "name": "Club Culture Australia",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:26:26"
     },
     {
-        "projectId": 514,
-        "projectName": "EBP-ENT 4150 Mate Money",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:34"
+        "id": 373,
+        "name": "EBP-CMS 2468 BAHAH Landing Page",
+        "status": null,
+        "sync_message": 57,
+        "timestamp": "2026-05-28 11:26:33"
     },
     {
-        "projectId": 513,
-        "projectName": "Inferent Analyst",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:36"
+        "id": 371,
+        "name": "EBP-CMS 1851 Achieved Music",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'No scrum board found for project: ACHIEVED01', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'No scrum board found for project: ACHIEVED01', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:26:35"
     },
     {
-        "projectId": 501,
-        "projectName": "EBP-PROTO 1464 Ampd Prototype",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:38"
+        "id": 370,
+        "name": "EBP-STAFF 1436 Indigenous Futures Foundation - Staff Lease",
+        "status": null,
+        "sync_message": 30,
+        "timestamp": "2026-05-28 11:26:39"
     },
     {
-        "projectId": 483,
-        "projectName": "Squad Lead Task",
-        "projectStatus": "initiating",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:39"
+        "id": 369,
+        "name": "EBP-ENT 3558 PawPal",
+        "status": null,
+        "sync_message": 43,
+        "timestamp": "2026-05-28 11:26:50"
     },
     {
-        "projectId": 482,
-        "projectName": "SEST",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:41"
+        "id": 368,
+        "name": "EBP-ENT 3521 School Stream - Code Audit",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:26:55"
     },
     {
-        "projectId": 481,
-        "projectName": "EBP-STAFF 1481 Stockman's Wallet Staff Leasing Proposal V4",
-        "projectStatus": "Final Budget Approval",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:42"
+        "id": 367,
+        "name": "EBP-CMS 2474 365mesh",
+        "status": null,
+        "sync_message": 48,
+        "timestamp": "2026-05-28 11:27:22"
     },
     {
-        "projectId": 476,
-        "projectName": "EBP-ENT 3753 FlyBright v2",
-        "projectStatus": "Design - Approved and SRS Initiated",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:44"
+        "id": 366,
+        "name": "EBP-CMS 2535 Pure Oz Shopify Template",
+        "status": null,
+        "sync_message": 40,
+        "timestamp": "2026-05-28 11:27:31"
     },
     {
-        "projectId": 469,
-        "projectName": "Ebtheme",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:46"
+        "id": 365,
+        "name": "Communication Spectrum/ My Comms Website",
+        "status": null,
+        "sync_message": 51,
+        "timestamp": "2026-05-28 11:27:40"
     },
     {
-        "projectId": 457,
-        "projectName": "EBP-ENT 3930 Peoples Voice",
-        "projectStatus": "Wireframe",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:47"
+        "id": 363,
+        "name": "EBP-CMS 2513 EL Toro v2",
+        "status": null,
+        "sync_message": 59,
+        "timestamp": "2026-05-28 11:27:49"
     },
     {
-        "projectId": 295,
-        "projectName": "Research and Learning not needed",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:49"
+        "id": 362,
+        "name": "EBP-CMS 2540 Di Nuovo",
+        "status": null,
+        "sync_message": 63,
+        "timestamp": "2026-05-28 11:27:54"
     },
     {
-        "projectId": 294,
-        "projectName": "Research and Learning New",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:50"
+        "id": 361,
+        "name": "EBP-CMS 2473 Flip Pay (Website)",
+        "status": null,
+        "sync_message": 45,
+        "timestamp": "2026-05-28 11:28:10"
     },
     {
-        "projectId": 293,
-        "projectName": "QA OKR Goal Task",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:52"
+        "id": 360,
+        "name": "EBP-ENT 3224 TopTeacher Code Audit",
+        "status": null,
+        "sync_message": 44,
+        "timestamp": "2026-05-28 11:28:26"
     },
     {
-        "projectId": 274,
-        "projectName": "OKR Goal",
-        "projectStatus": "initiating",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:53"
+        "id": 359,
+        "name": "EBP-ENT 2685 Peacock Pages",
+        "status": null,
+        "sync_message": 47,
+        "timestamp": "2026-05-28 11:29:03"
     },
     {
-        "projectId": 270,
-        "projectName": "Senior QA Role",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:55"
+        "id": 357,
+        "name": "EBP-ENT 3084 Launch Pro (Legal Project)",
+        "status": null,
+        "sync_message": 34,
+        "timestamp": "2026-05-28 11:29:17"
     },
     {
-        "projectId": 269,
-        "projectName": "Lead and Support",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:57"
+        "id": 356,
+        "name": "Meta Health",
+        "status": null,
+        "sync_message": 50,
+        "timestamp": "2026-05-28 11:29:26"
     },
     {
-        "projectId": 263,
-        "projectName": "EBP-ENT 4051 Workmate App Prototype",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:19:58"
+        "id": 355,
+        "name": "EBP-CMS 2529 Leora Health",
+        "status": null,
+        "sync_message": 48,
+        "timestamp": "2026-05-28 11:29:41"
     },
     {
-        "projectId": 253,
-        "projectName": "CMS Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:00"
+        "id": 354,
+        "name": "EBP-CMS 2568 TrendTrade - Wordpress",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:29:45"
     },
     {
-        "projectId": 248,
-        "projectName": "Honey Pot Mobile App",
-        "projectStatus": "Development",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:20:02"
+        "id": 353,
+        "name": "AG-CMS 1817 Early Trade",
+        "status": null,
+        "sync_message": 30,
+        "timestamp": "2026-05-28 11:29:51"
     },
     {
-        "projectId": 245,
-        "projectName": "CT Freight (QC App) maintenance",
-        "projectStatus": "Development",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:03"
+        "id": 352,
+        "name": "EBP-ENT 1999 Intro v2",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 11:30:53"
     },
     {
-        "projectId": 238,
-        "projectName": "Cordouan Health ( Maintenance )",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:05"
+        "id": 351,
+        "name": "AG-CMS 695 - Medecins Sans Frontieres_Doctors",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'No scrum board found for project: AC6MSFWB', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'No scrum board found for project: AC6MSFWB', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:30:55"
     },
     {
-        "projectId": 237,
-        "projectName": "All Pumps ( Maintenance)",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:06"
+        "id": 350,
+        "name": "EBP-ENT 2630 Megacash v2",
+        "status": null,
+        "sync_message": 40,
+        "timestamp": "2026-05-28 11:31:44"
     },
     {
-        "projectId": 234,
-        "projectName": "Portal",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:08"
+        "id": 349,
+        "name": "EBP-CMS 622 - Gallery Funaki",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:31:47"
     },
     {
-        "projectId": 217,
-        "projectName": "EBP-ENT 3922 Mustr Racing MVP v3",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:09"
+        "id": 348,
+        "name": "EBP-CMS 129 - Peds Industrial",
+        "status": null,
+        "sync_message": 40,
+        "timestamp": "2026-05-28 11:32:12"
     },
     {
-        "projectId": 213,
-        "projectName": "EBP-ENT 4025 Coach Merv Prototype",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:11"
+        "id": 347,
+        "name": "EBP-CMS 2542 Kris and Li Cleaning Services",
+        "status": null,
+        "sync_message": 42,
+        "timestamp": "2026-05-28 11:32:23"
     },
     {
-        "projectId": 203,
-        "projectName": "EBP-ENT 2394 MYBOS v2",
-        "projectStatus": "Development",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:13"
+        "id": 346,
+        "name": "EBP-CMS 2262 Wine Warehouse v2",
+        "status": null,
+        "sync_message": 46,
+        "timestamp": "2026-05-28 11:32:31"
     },
     {
-        "projectId": 202,
-        "projectName": "EBP-ENT 4007 ToBeMe (Mobile and Webapp) - Tom",
-        "projectStatus": "Budget Approval and Project Plan",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:14"
+        "id": 345,
+        "name": "EBP-ENT 2989 Travel App",
+        "status": null,
+        "sync_message": 38,
+        "timestamp": "2026-05-28 11:32:50"
     },
     {
-        "projectId": 160,
-        "projectName": "EBP-ENT 3999 EFS Prototype",
-        "projectStatus": "Wireframe",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:16"
+        "id": 344,
+        "name": "EBP-ENT 2035 Will & Estate Planner",
+        "status": null,
+        "sync_message": 31,
+        "timestamp": "2026-05-28 11:32:58"
     },
     {
-        "projectId": 157,
-        "projectName": "EBP-STAFF 1462 EFS Staff Leasing",
-        "projectStatus": "Final Budget Approval",
-        "sync_message": "Syncing worklog for project added to queue",
-        "timestamp": "2026-05-25 08:20:17"
+        "id": 343,
+        "name": "EBP-ENT 2276 Real Estate App Branding",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:33:01"
     },
     {
-        "projectId": 147,
-        "projectName": "CMS-RFC 3435 Ellar Boutique API",
-        "projectStatus": "Budget Approval and Project Plan",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:19"
+        "id": 342,
+        "name": "EBP-CMS 2223 Owner Inspections v2",
+        "status": null,
+        "sync_message": 62,
+        "timestamp": "2026-05-28 11:33:12"
     },
     {
-        "projectId": 138,
-        "projectName": "EBP-ENT 3918 KKW Trucks",
-        "projectStatus": "Wireframe",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:21"
+        "id": 341,
+        "name": "EBP-CMS 272 - Mondiale VGL",
+        "status": null,
+        "sync_message": 37,
+        "timestamp": "2026-05-28 11:33:28"
     },
     {
-        "projectId": 129,
-        "projectName": "EBP-ENT 3661 Reasy Prototype",
-        "projectStatus": "Wireframe - Approved and Design Started",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:22"
+        "id": 340,
+        "name": "EBP-CMS 2286 Dosatron v2",
+        "status": null,
+        "sync_message": 67,
+        "timestamp": "2026-05-28 11:33:42"
     },
     {
-        "projectId": 127,
-        "projectName": "EBP-ENT 2042 Australian Community Media v2 - Maintenance",
-        "projectStatus": "Project approved",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:24"
+        "id": 339,
+        "name": "EBP-CMS 2189 Flow Leaders",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:33:45"
     },
     {
-        "projectId": 97,
-        "projectName": "EBP-ENT 3625 Aesthetic Practitioner Platform Prototype",
-        "projectStatus": "Wireframe",
-        "sync_message": "GraphQL Error: [{'message': 'Jira Project key not found', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira Project key not found', 'error': 'Bad Request'}}}]",
-        "timestamp": "2026-05-25 08:20:25"
+        "id": 338,
+        "name": "EBP-CMS 278 - Sydney Plumbing",
+        "status": null,
+        "sync_message": 42,
+        "timestamp": "2026-05-28 11:33:51"
+    },
+    {
+        "id": 337,
+        "name": "EBP-CMS 2251 Dickies Transportation",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:33:53"
+    },
+    {
+        "id": 336,
+        "name": "EBP-ENT 3131 AnyFind Code Audit",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:33:56"
+    },
+    {
+        "id": 335,
+        "name": "EBP-CMS 2220  Pest Control Specialists v2",
+        "status": null,
+        "sync_message": 60,
+        "timestamp": "2026-05-28 11:34:04"
+    },
+    {
+        "id": 334,
+        "name": "AG-CMS 1799 ACRF",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:34:06"
+    },
+    {
+        "id": 333,
+        "name": "AG-CMS 1818 Trickstar",
+        "status": null,
+        "sync_message": 58,
+        "timestamp": "2026-05-28 11:34:14"
+    },
+    {
+        "id": 332,
+        "name": "EBP-CMS 2564 Yakkly (Wordpress)",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 11:35:16"
+    },
+    {
+        "id": 331,
+        "name": "EBP-CMS 2114 - Head On",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 11:36:17"
+    },
+    {
+        "id": 330,
+        "name": "EBP-ENT 2318 GRC Institute Membership Portal",
+        "status": null,
+        "sync_message": 46,
+        "timestamp": "2026-05-28 11:37:19"
+    },
+    {
+        "id": 329,
+        "name": "EBP-ENT 2539 EML v2",
+        "status": null,
+        "sync_message": 37,
+        "timestamp": "2026-05-28 11:37:51"
+    },
+    {
+        "id": 328,
+        "name": "EBP-ENT 3237 Activfy Code Audit",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:37:55"
+    },
+    {
+        "id": 327,
+        "name": "EBP-CMS 2276 EzyCharge",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:37:57"
+    },
+    {
+        "id": 326,
+        "name": "EBP-ENT 2318 GRC Institute Membership Portal",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 11:38:59"
+    },
+    {
+        "id": 323,
+        "name": "EBP-CMS 2538 CT Freight - Landing Page",
+        "status": null,
+        "sync_message": 42,
+        "timestamp": "2026-05-28 11:39:06"
+    },
+    {
+        "id": 322,
+        "name": "EBP-ENT 1868 Exportia",
+        "status": null,
+        "sync_message": 57,
+        "timestamp": "2026-05-28 11:39:22"
+    },
+    {
+        "id": 321,
+        "name": "EBP-CMS 2288 Asteri Mason v3",
+        "status": null,
+        "sync_message": 73,
+        "timestamp": "2026-05-28 11:39:30"
+    },
+    {
+        "id": 320,
+        "name": "EBP-CMS 2146 Babylonchain",
+        "status": null,
+        "sync_message": 50,
+        "timestamp": "2026-05-28 11:39:39"
+    },
+    {
+        "id": 319,
+        "name": "EBP-ENT 2195 NSW Child Protection App",
+        "status": null,
+        "sync_message": 55,
+        "timestamp": "2026-05-28 11:39:48"
+    },
+    {
+        "id": 318,
+        "name": "EBP-CMS 2019 Bendooley Estate",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'No scrum board found for project: BENDOOLEYC', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'No scrum board found for project: BENDOOLEYC', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:39:50"
+    },
+    {
+        "id": 317,
+        "name": "EBP-CMS 2661 JLI Computers Shopify Theme",
+        "status": null,
+        "sync_message": 54,
+        "timestamp": "2026-05-28 11:39:57"
+    },
+    {
+        "id": 316,
+        "name": "EBP-ENT 2992 Howdy",
+        "status": null,
+        "sync_message": 46,
+        "timestamp": "2026-05-28 11:40:53"
+    },
+    {
+        "id": 315,
+        "name": "EBP-ENT 1905 V-Insurance",
+        "status": null,
+        "sync_message": 45,
+        "timestamp": "2026-05-28 11:41:11"
+    },
+    {
+        "id": 314,
+        "name": "EBP-ENT 2583 Honeypot",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 11:42:13"
+    },
+    {
+        "id": 313,
+        "name": "EBP-ENT 2042 Australian Community Media v2",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 11:43:15"
+    },
+    {
+        "id": 312,
+        "name": "EBP-ENT 2175 Gigsta",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:43:22"
+    },
+    {
+        "id": 311,
+        "name": "AG-CMS 1813 Fasta Pasta",
+        "status": null,
+        "sync_message": 48,
+        "timestamp": "2026-05-28 11:43:35"
+    },
+    {
+        "id": 310,
+        "name": "EBP-ENT 2378 StoryBook App",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:43:38"
+    },
+    {
+        "id": 308,
+        "name": "EBP-ENT 2294 Specialist Protection Group (Android)",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 11:44:39"
+    },
+    {
+        "id": 307,
+        "name": "EBP-ENT 2140 One Wear Only Hire",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 11:45:41"
+    },
+    {
+        "id": 305,
+        "name": "DevOps",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'No scrum board found for project: DO', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'No scrum board found for project: DO', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:45:48"
+    },
+    {
+        "id": 288,
+        "name": "CMS-RFC 3384 EL Toro v2 RFC1",
+        "status": null,
+        "sync_message": 59,
+        "timestamp": "2026-05-28 11:46:16"
+    },
+    {
+        "id": 287,
+        "name": "CMS-RFC 3381 AWN.net RFC28",
+        "status": null,
+        "sync_message": 41,
+        "timestamp": "2026-05-28 11:46:31"
+    },
+    {
+        "id": 286,
+        "name": "EBP-ENT 3735 Worker's AI Prototype",
+        "status": null,
+        "sync_message": 42,
+        "timestamp": "2026-05-28 11:46:38"
+    },
+    {
+        "id": 284,
+        "name": "EBP-CMS 2637 Zalane Balance Bike",
+        "status": null,
+        "sync_message": 52,
+        "timestamp": "2026-05-28 11:46:46"
+    },
+    {
+        "id": 283,
+        "name": "EBP-ENT 3799 Australian Campdraft Association (Wordpress) v3 - POC",
+        "status": null,
+        "sync_message": 47,
+        "timestamp": "2026-05-28 11:47:00"
+    },
+    {
+        "id": 258,
+        "name": "EBP-CMS 2621 Chairforce v4",
+        "status": null,
+        "sync_message": 41,
+        "timestamp": "2026-05-28 11:47:26"
+    },
+    {
+        "id": 256,
+        "name": "EBP-CMS 2362 Firex v2",
+        "status": null,
+        "sync_message": 33,
+        "timestamp": "2026-05-28 11:48:28"
+    },
+    {
+        "id": 254,
+        "name": "EBP-STAFF 643 - Farm Service Management",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 11:49:30"
+    },
+    {
+        "id": 243,
+        "name": "EBP-ENT 3396 YCP (maintenance)",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:49:33"
+    },
+    {
+        "id": 241,
+        "name": "EBP-ENT 1924 All Pumps App",
+        "status": null,
+        "sync_message": 57,
+        "timestamp": "2026-05-28 11:50:10"
+    },
+    {
+        "id": 236,
+        "name": "EBP-ENT 2432 ARTIS Code Audit",
+        "status": null,
+        "sync_message": 53,
+        "timestamp": "2026-05-28 11:50:30"
+    },
+    {
+        "id": 230,
+        "name": "EBP-ENT 3707 Shedule AI MVP",
+        "status": null,
+        "sync_message": 35,
+        "timestamp": "2026-05-28 11:51:15"
+    },
+    {
+        "id": 227,
+        "name": "Rotech - Maintenance Project",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:51:17"
+    },
+    {
+        "id": 225,
+        "name": "CMS-RFC 3479 White Bow Gift Registry RFC13",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:51:19"
+    },
+    {
+        "id": 224,
+        "name": "Personhood",
+        "status": null,
+        "sync_message": 46,
+        "timestamp": "2026-05-28 11:51:35"
+    },
+    {
+        "id": 223,
+        "name": "Bahah - Support",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 11:52:37"
+    },
+    {
+        "id": 215,
+        "name": "EBP-STAFF 1451 Coposit Staff Leasing",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:52:40"
+    },
+    {
+        "id": 211,
+        "name": "EBP-ENT 471 - Real Estate App (APBR)",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 11:53:42"
+    },
+    {
+        "id": 210,
+        "name": "EBP-CMS 2675 Pro Invest Website v2",
+        "status": null,
+        "sync_message": 69,
+        "timestamp": "2026-05-28 11:54:09"
+    },
+    {
+        "id": 209,
+        "name": "Crews",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 11:55:11"
+    },
+    {
+        "id": 200,
+        "name": "EBP-ENT 4001 Brigade (Prototype)",
+        "status": null,
+        "sync_message": 40,
+        "timestamp": "2026-05-28 11:55:20"
+    },
+    {
+        "id": 199,
+        "name": "CMS-RFC 3475 Rotech - RFC25 v2",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:55:29"
+    },
+    {
+        "id": 192,
+        "name": "CMS-RFC 3471 Convey Online  RFC14",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:55:39"
+    },
+    {
+        "id": 191,
+        "name": "CMS-RFC 3470 White Bow Gift Registry RFC12",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:55:42"
+    },
+    {
+        "id": 189,
+        "name": "EBP-ENT 3695 Quantify Wellness MVP v2",
+        "status": null,
+        "sync_message": 44,
+        "timestamp": "2026-05-28 11:56:01"
+    },
+    {
+        "id": 182,
+        "name": "EBP-ENT 3709 MGI Code Audit",
+        "status": null,
+        "sync_message": 38,
+        "timestamp": "2026-05-28 11:56:08"
+    },
+    {
+        "id": 181,
+        "name": "EBP-ENT 3961 SPS Facilities Code Audit",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:56:12"
+    },
+    {
+        "id": 179,
+        "name": "CMS-RFC 3467 Mondiale VGL RFC6",
+        "status": null,
+        "sync_message": 37,
+        "timestamp": "2026-05-28 11:56:33"
+    },
+    {
+        "id": 176,
+        "name": "EBP-ENT 2724 GapMash Code Audit",
+        "status": null,
+        "sync_message": 53,
+        "timestamp": "2026-05-28 11:57:03"
+    },
+    {
+        "id": 173,
+        "name": "EBP-ENT 4020 Baztel Code Audit",
+        "status": null,
+        "sync_message": 67,
+        "timestamp": "2026-05-28 11:57:15"
+    },
+    {
+        "id": 170,
+        "name": "EBP-ENT 3339 Caroo RFC57 (Webapp MVP)",
+        "status": null,
+        "sync_message": 36,
+        "timestamp": "2026-05-28 11:57:37"
+    },
+    {
+        "id": 169,
+        "name": "Caroo Maintenace",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:57:40"
+    },
+    {
+        "id": 167,
+        "name": "CMS-RFC 3462 Friends United v2 (Theme Based) RFC2 v3",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:57:41"
+    },
+    {
+        "id": 162,
+        "name": "CMS-RFC 3460 Wyer & Co RFC4",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:57:43"
+    },
+    {
+        "id": 159,
+        "name": "EBP-STAFF 1452 WUNA - Staff Leasing",
+        "status": null,
+        "sync_message": 24,
+        "timestamp": "2026-05-28 11:57:50"
+    },
+    {
+        "id": 136,
+        "name": "CMS-RFC 3446 365mesh RFC4",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:57:51"
+    },
+    {
+        "id": 132,
+        "name": "EBP-ENT 3683 Stockman's Wallet",
+        "status": null,
+        "sync_message": 40,
+        "timestamp": "2026-05-28 11:58:21"
+    },
+    {
+        "id": 128,
+        "name": "ENT-RFC 1823 Metahealth RFC1",
+        "status": null,
+        "sync_message": 50,
+        "timestamp": "2026-05-28 11:58:33"
+    },
+    {
+        "id": 126,
+        "name": "CMS-RFC 3445 Quantify Wellness Landing Page RFC2",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 11:58:35"
+    },
+    {
+        "id": 125,
+        "name": "EBP-ENT 3491MeetDelete Prototype",
+        "status": null,
+        "sync_message": 44,
+        "timestamp": "2026-05-28 11:59:28"
+    },
+    {
+        "id": 115,
+        "name": "EBP-ENT 3544 Stratus Smart Software Solutions",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 11:59:32"
+    },
+    {
+        "id": 112,
+        "name": "EBP-ENT 3617 Top Teacher - Webapp v2",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:00:34"
+    },
+    {
+        "id": 110,
+        "name": "EBP-ENT 3468 Communication Spectrum MVP",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:01:35"
+    },
+    {
+        "id": 102,
+        "name": "Smart Mobile App Development with Agile Resource Augmentation",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:01:38"
+    },
+    {
+        "id": 92,
+        "name": "EBP-CMS 2636 Metalia Studios",
+        "status": null,
+        "sync_message": 58,
+        "timestamp": "2026-05-28 12:01:44"
+    },
+    {
+        "id": 91,
+        "name": "EBP-CMS 2639 Quantify Wellness Landing Page",
+        "status": null,
+        "sync_message": 64,
+        "timestamp": "2026-05-28 12:01:59"
+    },
+    {
+        "id": 90,
+        "name": "EBP-CMS 2607 Bendooley Estate v4",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:03:01"
+    },
+    {
+        "id": 85,
+        "name": "EBP-ENT 3453 WUNA - Code Audit",
+        "status": null,
+        "sync_message": 41,
+        "timestamp": "2026-05-28 12:03:13"
+    },
+    {
+        "id": 82,
+        "name": "EBP-CMS 2634 Queensland Compassionate Services",
+        "status": null,
+        "sync_message": 41,
+        "timestamp": "2026-05-28 12:03:54"
+    },
+    {
+        "id": 75,
+        "name": "EBP-STAFF 1359 Doubleguard Staff Leasing",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:04:56"
+    },
+    {
+        "id": 69,
+        "name": "EBP-ENT 3098 Allied Health Directory",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:05:57"
+    },
+    {
+        "id": 58,
+        "name": "EBP-ENT 3281 VinoBid (Supabase)",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:06:59"
+    },
+    {
+        "id": 57,
+        "name": "EBP-ENT 3500 Beauty Grail WebApp",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:08:01"
+    },
+    {
+        "id": 51,
+        "name": "EBP-CMS 2635 Seymours Group",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:09:02"
+    },
+    {
+        "id": 46,
+        "name": "CMS-RFC 3439 Voiceless RFC10",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:09:08"
+    },
+    {
+        "id": 30,
+        "name": "CMS-RFC 3427 EBP-CMS 2639 Quantify Wellness Landing Page RFC1",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:09:14"
+    },
+    {
+        "id": 25,
+        "name": "ENT-RFC 1910 Property Dollar Gamification Prototype RFC1",
+        "status": null,
+        "sync_message": 53,
+        "timestamp": "2026-05-28 12:09:32"
+    },
+    {
+        "id": 14,
+        "name": "EBP-ENT 3841 Coposit Penetration Testing Report",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:09:34"
+    },
+    {
+        "id": 13,
+        "name": "CMS-RFC 3416 OutcomeX RFC24",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:09:36"
+    },
+    {
+        "id": 12,
+        "name": "CMS-RFC 3415 Blue Spinach RFC25",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:09:38"
+    },
+    {
+        "id": 11,
+        "name": "EBP-ENT 3672 Nimbus Receipt Prototype",
+        "status": null,
+        "sync_message": 50,
+        "timestamp": "2026-05-28 12:09:50"
+    },
+    {
+        "id": 10,
+        "name": "EBP-ENT 3834 Dating App Code Audit v2",
+        "status": null,
+        "sync_message": 62,
+        "timestamp": "2026-05-28 12:10:01"
+    },
+    {
+        "id": 4,
+        "name": "EBP-ENT 3825 Air Run Prototype",
+        "status": null,
+        "sync_message": 56,
+        "timestamp": "2026-05-28 12:10:11"
+    },
+    {
+        "id": 2,
+        "name": "ENT-RFC 1896 Copost Pen testing",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:10:13"
+    },
+    {
+        "id": 560,
+        "name": "EBP-ENT 3098 Allied Health Directory (maintenance)",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:10:14"
+    },
+    {
+        "id": 559,
+        "name": "EBP-CMS 2687 Empax Centre Website Revamp (Headless)",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:10:17"
+    },
+    {
+        "id": 558,
+        "name": "EBP-AUDIT 1228 Tipflo Code Audit - Revised Terms",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:10:21"
+    },
+    {
+        "id": 557,
+        "name": "EBP-RFC 3455 Bendooleyestate RFC2",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:10:22"
+    },
+    {
+        "id": 555,
+        "name": "Gapmash Maintenance",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:10:24"
+    },
+    {
+        "id": 554,
+        "name": "MGI Maintenance",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:10:26"
+    },
+    {
+        "id": 553,
+        "name": "Freight Search Maintenance",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:10:27"
+    },
+    {
+        "id": 552,
+        "name": "Communication Spectrum Maintenance",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:10:29"
+    },
+    {
+        "id": 550,
+        "name": "EBP-ENT 3345 Countdown V2 V2",
+        "status": null,
+        "sync_message": 41,
+        "timestamp": "2026-05-28 12:10:50"
+    },
+    {
+        "id": 549,
+        "name": "EBP-RFC 3460 Coach Merv RFC1 SRS",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:10:51"
+    },
+    {
+        "id": 547,
+        "name": "Personhood - Maintenance",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:10:53"
+    },
+    {
+        "id": 546,
+        "name": "Top Teacher - Webapp v2 - Maintenance",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:10:55"
+    },
+    {
+        "id": 544,
+        "name": "CT Freight - Client Portal (Webapp Only) - Maintenance",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:10:57"
+    },
+    {
+        "id": 543,
+        "name": "Howdy Maintenance",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:10:59"
+    },
+    {
+        "id": 541,
+        "name": "EBP-ENT 4211  Jon Lim Revised MVP",
+        "status": null,
+        "sync_message": 30,
+        "timestamp": "2026-05-28 12:11:03"
+    },
+    {
+        "id": 540,
+        "name": "EBP-ENT 4193 Zenu - Pro-invest Stays Pty Ltd",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:11:06"
+    },
+    {
+        "id": 539,
+        "name": "EBP-RFC 3458 To Be Me - RFC3 (Translation & Localisation)",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:11:07"
+    },
+    {
+        "id": 536,
+        "name": "ENT-RFC 2056 Top Teacher RFC12",
+        "status": null,
+        "sync_message": 48,
+        "timestamp": "2026-05-28 12:11:12"
+    },
+    {
+        "id": 535,
+        "name": "EBP-RFC 3473 Bendooleyestate RFC4",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:11:15"
+    },
+    {
+        "id": 534,
+        "name": "EBP-CMS 2699 Salima",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:11:18"
+    },
+    {
+        "id": 533,
+        "name": "Tom Swan",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:11:21"
+    },
+    {
+        "id": 532,
+        "name": "My Leather Doctor - RFC 4 (Resolving Email Storage Limitations)",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:11:36"
+    },
+    {
+        "id": 530,
+        "name": "Wedmuse (vibe Coded + Custom Coded) MVP",
+        "status": null,
+        "sync_message": 35,
+        "timestamp": "2026-05-28 12:11:53"
+    },
+    {
+        "id": 528,
+        "name": "EBP-ENT 4181 Bikemebro",
+        "status": null,
+        "sync_message": 30,
+        "timestamp": "2026-05-28 12:11:57"
+    },
+    {
+        "id": 527,
+        "name": "EBP-ENT 4180 Nimbus Receipt MVPv2.1",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:12:00"
+    },
+    {
+        "id": 526,
+        "name": "EBP-ENT 4174 Strategy 1 HR Staff Leasing",
+        "status": null,
+        "sync_message": 30,
+        "timestamp": "2026-05-28 12:12:04"
+    },
+    {
+        "id": 525,
+        "name": "EBP-ENT 3793 A&S Australian Investment - Web App",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:12:07"
+    },
+    {
+        "id": 524,
+        "name": "ACM RFC - Braze Integration",
+        "status": null,
+        "sync_message": 57,
+        "timestamp": "2026-05-28 12:12:13"
+    },
+    {
+        "id": 522,
+        "name": "EBP-ENT 4020 Baztel Code Audit (Phase 2)",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:13:14"
+    },
+    {
+        "id": 521,
+        "name": "AI Workflow",
+        "status": null,
+        "sync_message": 34,
+        "timestamp": "2026-05-28 12:13:31"
+    },
+    {
+        "id": 520,
+        "name": "EBP-ENT Howdy RFC",
+        "status": null,
+        "sync_message": 58,
+        "timestamp": "2026-05-28 12:13:36"
+    },
+    {
+        "id": 516,
+        "name": "EBP-CMS 2692 MyComms Website Refresh",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:13:39"
+    },
+    {
+        "id": 514,
+        "name": "EBP-ENT 4150 Mate Money",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:13:42"
+    },
+    {
+        "id": 513,
+        "name": "Inferent Analyst",
+        "status": null,
+        "sync_message": 30,
+        "timestamp": "2026-05-28 12:13:45"
+    },
+    {
+        "id": 501,
+        "name": "EBP-PROTO 1464 Ampd Prototype",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:13:49"
+    },
+    {
+        "id": 488,
+        "name": "Workforce Tool",
+        "status": null,
+        "sync_message": 50,
+        "timestamp": "2026-05-28 12:13:57"
+    },
+    {
+        "id": 485,
+        "name": "RelloPay CRM",
+        "status": null,
+        "sync_message": 43,
+        "timestamp": "2026-05-28 12:14:07"
+    },
+    {
+        "id": 483,
+        "name": "Squad Lead Task",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:14:09"
+    },
+    {
+        "id": 482,
+        "name": "SEST",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:14:11"
+    },
+    {
+        "id": 481,
+        "name": "EBP-STAFF 1481 Stockman's Wallet Staff Leasing Proposal V4",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:14:13"
+    },
+    {
+        "id": 480,
+        "name": "Glucose Management Software (REGAS) New",
+        "status": null,
+        "sync_message": 58,
+        "timestamp": "2026-05-28 12:14:17"
+    },
+    {
+        "id": 479,
+        "name": "ENT-RFC 2055 Isaac Server Restructuring RFC",
+        "status": null,
+        "sync_message": 66,
+        "timestamp": "2026-05-28 12:14:21"
+    },
+    {
+        "id": 476,
+        "name": "EBP-ENT 3753 FlyBright v2",
+        "status": null,
+        "sync_message": 30,
+        "timestamp": "2026-05-28 12:14:24"
+    },
+    {
+        "id": 469,
+        "name": "Ebtheme",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:14:26"
+    },
+    {
+        "id": 462,
+        "name": "EBP-STAFF 1469 DDEG ERP Staff Leasing",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:15:27"
+    },
+    {
+        "id": 461,
+        "name": "IT Internals",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'No scrum board found for project: ITS', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'No scrum board found for project: ITS', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:15:30"
+    },
+    {
+        "id": 459,
+        "name": "EB Pearls - Hubspot Website",
+        "status": null,
+        "sync_message": 59,
+        "timestamp": "2026-05-28 12:15:39"
+    },
+    {
+        "id": 457,
+        "name": "EBP-ENT 3930 Peoples Voice",
+        "status": null,
+        "sync_message": 33,
+        "timestamp": "2026-05-28 12:15:49"
+    },
+    {
+        "id": 453,
+        "name": "EBP-STAFF 1471 Shedule AI (Nisha) - Staff Leasing Proposal",
+        "status": null,
+        "sync_message": 48,
+        "timestamp": "2026-05-28 12:16:04"
+    },
+    {
+        "id": 364,
+        "name": "PeopleOps Goal",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:17:06"
+    },
+    {
+        "id": 303,
+        "name": "EBP-ENT 4078 AgentSwipe MVP",
+        "status": null,
+        "sync_message": 34,
+        "timestamp": "2026-05-28 12:17:36"
+    },
+    {
+        "id": 300,
+        "name": "EBP-ENT 4063 Beare Flooring Prototype",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:17:55"
+    },
+    {
+        "id": 295,
+        "name": "Research and Learning not needed",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:18:04"
+    },
+    {
+        "id": 294,
+        "name": "Research and Learning New",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:18:12"
+    },
+    {
+        "id": 293,
+        "name": "QA OKR Goal Task",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:18:22"
+    },
+    {
+        "id": 290,
+        "name": "EBP-CMS 3484 Massage Booker",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:19:23"
+    },
+    {
+        "id": 274,
+        "name": "OKR Goal",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:19:25"
+    },
+    {
+        "id": 270,
+        "name": "Senior QA Role",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:19:27"
+    },
+    {
+        "id": 269,
+        "name": "Lead and Support",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:19:30"
+    },
+    {
+        "id": 263,
+        "name": "EBP-ENT 4051 Workmate App Prototype",
+        "status": null,
+        "sync_message": 36,
+        "timestamp": "2026-05-28 12:20:27"
+    },
+    {
+        "id": 262,
+        "name": "Starter Kit v5",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:21:28"
+    },
+    {
+        "id": 259,
+        "name": "EBP-ENT 3693 CBMFG Prototype",
+        "status": null,
+        "sync_message": 40,
+        "timestamp": "2026-05-28 12:22:09"
+    },
+    {
+        "id": 257,
+        "name": "EBP-CMS 2403 Blkdot Client Portal",
+        "status": null,
+        "sync_message": 39,
+        "timestamp": "2026-05-28 12:22:42"
+    },
+    {
+        "id": 255,
+        "name": "Miscellaneous Hours",
+        "status": null,
+        "sync_message": 42,
+        "timestamp": "2026-05-28 12:23:20"
+    },
+    {
+        "id": 253,
+        "name": "CMS Maintenance",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:23:21"
+    },
+    {
+        "id": 248,
+        "name": "Honey Pot Mobile App",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:24:23"
+    },
+    {
+        "id": 245,
+        "name": "CT Freight (QC App) maintenance",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:24:27"
+    },
+    {
+        "id": 242,
+        "name": "ENT-RFC 1804 Cordouan Health RFC2",
+        "status": null,
+        "sync_message": 45,
+        "timestamp": "2026-05-28 12:24:35"
+    },
+    {
+        "id": 238,
+        "name": "Cordouan Health ( Maintenance )",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:24:37"
+    },
+    {
+        "id": 237,
+        "name": "All Pumps ( Maintenance)",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:24:39"
+    },
+    {
+        "id": 234,
+        "name": "Portal",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:25:40"
+    },
+    {
+        "id": 232,
+        "name": "Ebplanner",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:26:42"
+    },
+    {
+        "id": 221,
+        "name": "One Wardrobe(Maintenance)",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:26:44"
+    },
+    {
+        "id": 217,
+        "name": "EBP-ENT 3922 Mustr Racing MVP v3",
+        "status": null,
+        "sync_message": 46,
+        "timestamp": "2026-05-28 12:26:54"
+    },
+    {
+        "id": 216,
+        "name": "EBP-ENT 3785 Stay Upright Mobile App",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:27:56"
+    },
+    {
+        "id": 213,
+        "name": "EBP-ENT 4025 Coach Merv Prototype",
+        "status": null,
+        "sync_message": 34,
+        "timestamp": "2026-05-28 12:28:07"
+    },
+    {
+        "id": 203,
+        "name": "EBP-ENT 2394 MYBOS v2",
+        "status": null,
+        "sync_message": 85,
+        "timestamp": "2026-05-28 12:28:12"
+    },
+    {
+        "id": 202,
+        "name": "EBP-ENT 4007 ToBeMe (Mobile and Webapp) - Tom",
+        "status": null,
+        "sync_message": 38,
+        "timestamp": "2026-05-28 12:28:20"
+    },
+    {
+        "id": 198,
+        "name": "CMS-RFC 3472 Estraints RFC11",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'No scrum board found for project: STRNTS', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'No scrum board found for project: STRNTS', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:28:22"
+    },
+    {
+        "id": 193,
+        "name": "EBP-ENT 3014 Glucose Management Software",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:29:24"
+    },
+    {
+        "id": 185,
+        "name": "EBP-ENT 3679 Telehealth App v2",
+        "status": null,
+        "sync_message": 35,
+        "timestamp": "2026-05-28 12:29:38"
+    },
+    {
+        "id": 180,
+        "name": "EBP-ENT 4000 Australian Campdraft Association (Wordpress) Full Development v2",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:29:39"
+    },
+    {
+        "id": 174,
+        "name": "EBP-ENT 4012 Parent Hub",
+        "status": null,
+        "sync_message": 38,
+        "timestamp": "2026-05-28 12:30:02"
+    },
+    {
+        "id": 166,
+        "name": "EBP-ENT 4006 Syncra v2",
+        "status": null,
+        "sync_message": 34,
+        "timestamp": "2026-05-28 12:30:12"
+    },
+    {
+        "id": 160,
+        "name": "EBP-ENT 3999 EFS Prototype",
+        "status": null,
+        "sync_message": 30,
+        "timestamp": "2026-05-28 12:30:16"
+    },
+    {
+        "id": 157,
+        "name": "EBP-STAFF 1462 EFS Staff Leasing",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:30:19"
+    },
+    {
+        "id": 153,
+        "name": "EBP-STAFF 1461 DDEG Staff Leasing",
+        "status": null,
+        "sync_message": 49,
+        "timestamp": "2026-05-28 12:30:41"
+    },
+    {
+        "id": 148,
+        "name": "EBP-ENT 3993 My Leather Doctor Code Audit (Phase 1)",
+        "status": null,
+        "sync_message": 76,
+        "timestamp": "2026-05-28 12:30:46"
+    },
+    {
+        "id": 147,
+        "name": "CMS-RFC 3435 Ellar Boutique API",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:30:49"
+    },
+    {
+        "id": 143,
+        "name": "EBP-ENT 3963 Associated Cleaning App",
+        "status": null,
+        "sync_message": 41,
+        "timestamp": "2026-05-28 12:31:14"
+    },
+    {
+        "id": 141,
+        "name": "EBP-CMS 2655 Wingspan - Theme Based",
+        "status": null,
+        "sync_message": 67,
+        "timestamp": "2026-05-28 12:31:18"
+    },
+    {
+        "id": 138,
+        "name": "EBP-ENT 3918 KKW Trucks",
+        "status": null,
+        "sync_message": 30,
+        "timestamp": "2026-05-28 12:31:30"
+    },
+    {
+        "id": 129,
+        "name": "EBP-ENT 3661 Reasy Prototype",
+        "status": null,
+        "sync_message": 39,
+        "timestamp": "2026-05-28 12:31:41"
+    },
+    {
+        "id": 127,
+        "name": "EBP-ENT 2042 Australian Community Media v2 - Maintenance",
+        "status": null,
+        "sync_message": "GraphQL Error: [{'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'extensions': {'code': 'BAD_REQUEST', 'response': {'statusCode': 400, 'message': 'Jira API error 400: {\"errorMessages\":[\"No project could be found with key \\'null\\'.\"],\"errors\":{}}', 'error': 'Bad Request'}}}]",
+        "timestamp": "2026-05-28 12:31:43"
+    },
+    {
+        "id": 123,
+        "name": "EBP-CMS 2530 Reliable Driving School (Re-development) v2",
+        "status": null,
+        "sync_message": 38,
+        "timestamp": "2026-05-28 12:32:27"
+    },
+    {
+        "id": 114,
+        "name": "ENT-RFC 1803 AWN.net RFC26 (Client Portal 3.0 including GenAI)",
+        "status": null,
+        "sync_message": 41,
+        "timestamp": "2026-05-28 12:32:41"
+    },
+    {
+        "id": 113,
+        "name": "EBP-ENT 3401 CT Freight - Client Portal (Webapp Only)",
+        "status": null,
+        "sync_message": 47,
+        "timestamp": "2026-05-28 12:33:19"
+    },
+    {
+        "id": 108,
+        "name": "EBP-STAFF 1353 Pogozo Staff Leasing v2",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:34:21"
+    },
+    {
+        "id": 107,
+        "name": "EBP-ENT 3345 Countdown v2",
+        "status": null,
+        "sync_message": 33,
+        "timestamp": "2026-05-28 12:35:01"
+    },
+    {
+        "id": 105,
+        "name": "EBP-STAFF 1431 Rello - Staff Leasing Agreement",
+        "status": null,
+        "sync_message": 0,
+        "timestamp": "2026-05-28 12:35:04"
+    },
+    {
+        "id": 103,
+        "name": "Tills Payment v2",
+        "status": null,
+        "sync_message": 31,
+        "timestamp": "2026-05-28 12:35:13"
+    },
+    {
+        "id": 101,
+        "name": "EBP-STAFF 1348 Specialist Protection Group Staff Leasing v2",
+        "status": null,
+        "sync_message": 33,
+        "timestamp": "2026-05-28 12:36:08"
+    },
+    {
+        "id": 98,
+        "name": "EBP-ENT 3573 Honeypot (Webapp)",
+        "status": null,
+        "sync_message": 50,
+        "timestamp": "2026-05-28 12:36:43"
+    },
+    {
+        "id": 97,
+        "name": "EBP-ENT 3625 Aesthetic Practitioner Platform Prototype",
+        "status": null,
+        "sync_message": 31,
+        "timestamp": "2026-05-28 12:36:50"
+    },
+    {
+        "id": 72,
+        "name": "EBP-ENT 3358 Doubleguard App v1",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:37:52"
+    },
+    {
+        "id": 68,
+        "name": "EBP-ENT 3812 PEAR v2",
+        "status": null,
+        "sync_message": 31,
+        "timestamp": "2026-05-28 12:38:44"
+    },
+    {
+        "id": 60,
+        "name": "EBP-ENT 2981 TalkNow Telehealth (Mobile + Web App) v2",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:39:45"
+    },
+    {
+        "id": 59,
+        "name": "EBP-ENT 3364 Borroway v3 (Supabase)",
+        "status": null,
+        "sync_message": 47,
+        "timestamp": "2026-05-28 12:39:54"
+    },
+    {
+        "id": 55,
+        "name": "EBP-CMS 2659 Rogue Dahlia",
+        "status": null,
+        "sync_message": 39,
+        "timestamp": "2026-05-28 12:40:15"
+    },
+    {
+        "id": 52,
+        "name": "EBP-STAFF 1459 Vinobid Staff Lease v2",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:41:16"
+    },
+    {
+        "id": 49,
+        "name": "EBP-ENT 3747 HAPPS",
+        "status": null,
+        "sync_message": "HTTP Request Error: 504 Server Error: Gateway Time-out for url: https://ebplanner-api.ebpearls.com/api",
+        "timestamp": "2026-05-28 12:42:18"
+    },
+    {
+        "id": 43,
+        "name": "EBP-ENT 3867 Fashion AI Prototype",
+        "status": null,
+        "sync_message": 36,
+        "timestamp": "2026-05-28 12:42:32"
+    },
+    {
+        "id": 31,
+        "name": "EBP-CMS 2592 BatesHolmes",
+        "status": null,
+        "sync_message": 50,
+        "timestamp": "2026-05-28 12:42:45"
+    },
+    {
+        "id": 26,
+        "name": "EBP-ENT 3837 Community Alert",
+        "status": null,
+        "sync_message": 40,
+        "timestamp": "2026-05-28 12:43:01"
+    },
+    {
+        "id": 6,
+        "name": "EBP-ENT 3556 Whiskrs",
+        "status": null,
+        "sync_message": 45,
+        "timestamp": "2026-05-28 12:43:28"
+    },
+    {
+        "id": 3,
+        "name": "EBP-ENT 3827 DDEG Phase 1",
+        "status": null,
+        "sync_message": 39,
+        "timestamp": "2026-05-28 12:43:52"
     }
 ]

@@ -91,7 +91,7 @@ def fetch_project_worklogs(project_id):
     return {"projectId": project_id, "error": str(last_error)}
 
 def main():
-    with open("projects_with_zero_hours.json", "r") as f:
+    with open("combined_projects1_withJira.json", "r") as f:
         projects = json.load(f)
     results = []
     for project in projects:

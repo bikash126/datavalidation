@@ -1,55 +1,5 @@
 [
     {
-        "id": 566,
-        "name": "Zenu - Website",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [
-            {
-                "id": 854,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51896378189"
-    },
-    {
-        "id": 565,
-        "name": "Massage Booker - Maintenance Booking",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Completed",
-        "planning": [
-            {
-                "id": 852,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338276388"
-    },
-    {
         "id": 531,
         "name": "CT Freight Webapp - eAdaptor Next",
         "isArchive": false,
@@ -72,7 +22,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "CFWEN",
         "jiraProjectName": "CT Freight Webapp - eAdaptor Next",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59674553998"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59674553998",
+        "worklogsTotal": 20,
+        "totalLoggedHours": 31.25
     },
     {
         "id": 529,
@@ -97,7 +49,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ER3KR",
         "jiraProjectName": "EBP-RFC 3446 Kapstream RFC1",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59545419906"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59545419906",
+        "worklogsTotal": 6,
+        "totalLoggedHours": 18.0
     },
     {
         "id": 524,
@@ -122,7 +76,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ARBSI",
         "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59081993770"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59081993770",
+        "worklogsTotal": 34,
+        "totalLoggedHours": 83.0
     },
     {
         "id": 522,
@@ -147,7 +103,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4BCA",
         "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58888843400"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58888843400",
+        "worklogsTotal": 190,
+        "totalLoggedHours": 452.37
     },
     {
         "id": 519,
@@ -172,7 +130,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EP1OP",
         "jiraProjectName": "EBP-PROTO 1467 OptiCoach Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58029876848"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58029876848",
+        "worklogsTotal": 36,
+        "totalLoggedHours": 76.75
     },
     {
         "id": 518,
@@ -197,7 +157,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EP1OP",
         "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58029876848"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58029876848",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 517,
@@ -222,7 +184,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4KROP",
         "jiraProjectName": "EBP-ENT 4081 King River Outdoors Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/56611640999"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/56611640999",
+        "worklogsTotal": 24,
+        "totalLoggedHours": 52.47
     },
     {
         "id": 503,
@@ -247,7 +211,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ECJRR",
         "jiraProjectName": "EBP CMS - Jackson Ranch RFC17",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58011555367"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58011555367",
+        "worklogsTotal": 3,
+        "totalLoggedHours": 3.0
     },
     {
         "id": 498,
@@ -272,7 +238,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "SJRV",
         "jiraProjectName": " St.Jude's RFC1 v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/57960425097"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/57960425097",
+        "worklogsTotal": 1,
+        "totalLoggedHours": 3
     },
     {
         "id": 497,
@@ -297,7 +265,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "WN",
         "jiraProjectName": "WUNA New",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/57946322232"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/57946322232",
+        "worklogsTotal": 97,
+        "totalLoggedHours": 245.89
     },
     {
         "id": 489,
@@ -322,7 +292,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ER3CT",
         "jiraProjectName": "EBP-RFC 3404 Castle and Things",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/57531705626"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/57531705626",
+        "worklogsTotal": 5,
+        "totalLoggedHours": 3.0
     },
     {
         "id": 484,
@@ -347,7 +319,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3DTP",
         "jiraProjectName": "EBP-ENT 3694 DIY Tradie (Prototype)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53298140444"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53298140444",
+        "worklogsTotal": 69,
+        "totalLoggedHours": 82.27
     },
     {
         "id": 466,
@@ -372,57 +346,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4IDA",
         "jiraProjectName": "EBP-ENT 4090 Isaac DevOps Audit",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/55081792290"
-    },
-    {
-        "id": 464,
-        "name": "CMS-RFC 3482 Bannister RFC10",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Development",
-        "planning": [
-            {
-                "id": 546,
-                "status": "active",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Review"
-            }
-        ],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "sabrina@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/55297533092"
-    },
-    {
-        "id": 456,
-        "name": "Double Guard App old",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Completed",
-        "planning": [
-            {
-                "id": 308,
-                "status": "inactive",
-                "planningStatus": "Draft",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
-        "engineeringManagerEmail": "karun@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54740312071"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/55081792290",
+        "worklogsTotal": 17,
+        "totalLoggedHours": 26.59
     },
     {
         "id": 446,
@@ -439,7 +365,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC23",
         "jiraProjectName": "EBP-CMS 2474 365mesh",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319930989"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319930989",
+        "worklogsTotal": 7,
+        "totalLoggedHours": 16.17
     },
     {
         "id": 444,
@@ -464,7 +392,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE2PS",
         "jiraProjectName": "EBP-ENT 2756 Production Software",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388347699"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388347699",
+        "worklogsTotal": 102,
+        "totalLoggedHours": 167.6
     },
     {
         "id": 443,
@@ -489,7 +419,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2AMS",
         "jiraProjectName": "EBP-CMS 2351 Africa Marketplace (Shopify Theme)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386748764"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386748764",
+        "worklogsTotal": 334,
+        "totalLoggedHours": 631.8
     },
     {
         "id": 442,
@@ -514,7 +446,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "BRACTON",
         "jiraProjectName": "EBP-CMS 2316 Bracton Group",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54390187549"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54390187549",
+        "worklogsTotal": 46,
+        "totalLoggedHours": 51.599999999999994
     },
     {
         "id": 441,
@@ -539,7 +473,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2EG",
         "jiraProjectName": "EBP-CMS 2590 Express Glass",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388625849"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388625849",
+        "worklogsTotal": 184,
+        "totalLoggedHours": 333.0
     },
     {
         "id": 440,
@@ -564,7 +500,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "PHARMACYV2",
         "jiraProjectName": "  EBP-CMS 2205 Online Pharmacy AgencyV2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386789498"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386789498",
+        "worklogsTotal": 484,
+        "totalLoggedHours": 1144.5
     },
     {
         "id": 439,
@@ -589,7 +527,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "TDB",
         "jiraProjectName": "EBP-CMS 1795 The Deep Blue v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54376223154"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54376223154",
+        "worklogsTotal": 340,
+        "totalLoggedHours": 748.14
     },
     {
         "id": 438,
@@ -614,7 +554,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "OLP",
         "jiraProjectName": "OORT Landing Page ",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386789493"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386789493",
+        "worklogsTotal": 16,
+        "totalLoggedHours": 24.5
     },
     {
         "id": 437,
@@ -631,7 +573,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "TDB",
         "jiraProjectName": "EBP-CMS 1795 The Deep Blue v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54376223154"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54376223154",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 436,
@@ -656,7 +600,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2BJWV",
         "jiraProjectName": "EBP-CMS 2336 Black Jet Website v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54390289978"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54390289978",
+        "worklogsTotal": 38,
+        "totalLoggedHours": 58.08
     },
     {
         "id": 435,
@@ -681,7 +627,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3HIA",
         "jiraProjectName": "EBP-ENT 3645 Homemaker Investment App",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386748673"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386748673",
+        "worklogsTotal": 11,
+        "totalLoggedHours": 6.75
     },
     {
         "id": 434,
@@ -706,7 +654,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2RC",
         "jiraProjectName": "EBP-CMS 2333 Robert Clerc",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338310419"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338310419",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 432,
@@ -731,7 +681,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "QUATT",
         "jiraProjectName": "EBP-ENT 2864 Quatt",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347293447"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347293447",
+        "worklogsTotal": 764,
+        "totalLoggedHours": 1032.55
     },
     {
         "id": 431,
@@ -756,7 +708,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2TWWW",
         "jiraProjectName": "EBP-CMS 2481 TDS Website without Woocommerce",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347293493"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347293493",
+        "worklogsTotal": 150,
+        "totalLoggedHours": 287.21
     },
     {
         "id": 430,
@@ -781,7 +735,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ENVIRONMNT",
         "jiraProjectName": "EBP-CMS 2475 Environmental Group Australia v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54390187334"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54390187334",
+        "worklogsTotal": 256,
+        "totalLoggedHours": 375.64
     },
     {
         "id": 429,
@@ -806,7 +762,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "PREP10V2",
         "jiraProjectName": "Prep 10 V2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347293481"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347293481",
+        "worklogsTotal": 277,
+        "totalLoggedHours": 677.18
     },
     {
         "id": 428,
@@ -831,7 +789,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ES2R",
         "jiraProjectName": "EBP-SEO 2283 Rotech SEO",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388347418"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388347418",
+        "worklogsTotal": 13,
+        "totalLoggedHours": 19.0
     },
     {
         "id": 427,
@@ -856,7 +816,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2FUVTB",
         "jiraProjectName": "EBP-CMS 2533 Friends United v2 (Theme Based)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54390187316"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54390187316",
+        "worklogsTotal": 113,
+        "totalLoggedHours": 127.75
     },
     {
         "id": 426,
@@ -881,7 +843,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2GOTC",
         "jiraProjectName": "EBP-CMS 2571 Glide Online Travel Clinic",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54390187284"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54390187284",
+        "worklogsTotal": 180,
+        "totalLoggedHours": 295.88
     },
     {
         "id": 425,
@@ -906,7 +870,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2AAT",
         "jiraProjectName": "EBP-CMS 2456 Australian Alkaloids Trading",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386748491"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386748491",
+        "worklogsTotal": 132,
+        "totalLoggedHours": 167.76
     },
     {
         "id": 424,
@@ -931,7 +897,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2FFV",
         "jiraProjectName": "EBP-CMS 2395 Ferocious Feed v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386473228"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386473228",
+        "worklogsTotal": 533,
+        "totalLoggedHours": 703.79
     },
     {
         "id": 423,
@@ -956,7 +924,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ECHW",
         "jiraProjectName": "EBP - CMS Howdy Website",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386748472"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386748472",
+        "worklogsTotal": 91,
+        "totalLoggedHours": 98.08
     },
     {
         "id": 422,
@@ -981,7 +951,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ASENO",
         "jiraProjectName": "EBP-CMS 2211 ASENO",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386748446"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386748446",
+        "worklogsTotal": 96,
+        "totalLoggedHours": 275.0
     },
     {
         "id": 421,
@@ -1006,7 +978,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2EV",
         "jiraProjectName": "EBP-CMS 2601 Exportia v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388347240"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388347240",
+        "worklogsTotal": 210,
+        "totalLoggedHours": 341.57
     },
     {
         "id": 420,
@@ -1031,7 +1005,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2PW",
         "jiraProjectName": "EBP-CMS 2479 Prismo Website",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386789230"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386789230",
+        "worklogsTotal": 40,
+        "totalLoggedHours": 94.42
     },
     {
         "id": 419,
@@ -1056,7 +1032,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2DGTP",
         "jiraProjectName": "EBP-CMS 2361 Double Guard (Templated Pages)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386473061"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386473061",
+        "worklogsTotal": 111,
+        "totalLoggedHours": 199.55
     },
     {
         "id": 418,
@@ -1081,7 +1059,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "FIGRUN",
         "jiraProjectName": "EBP-ENT 3178 Figrun v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388285700"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388285700",
+        "worklogsTotal": 116,
+        "totalLoggedHours": 139.1
     },
     {
         "id": 417,
@@ -1106,7 +1086,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2MG",
         "jiraProjectName": "EBP-CMS 2397 My Guardian",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386473047"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386473047",
+        "worklogsTotal": 260,
+        "totalLoggedHours": 377.36999999999995
     },
     {
         "id": 415,
@@ -1131,7 +1113,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "POWERSYNC",
         "jiraProjectName": "EBP-CMS 2172 Power Sync",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388189529"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388189529",
+        "worklogsTotal": 117,
+        "totalLoggedHours": 342.90999999999997
     },
     {
         "id": 414,
@@ -1156,7 +1140,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "AESTHETIC",
         "jiraProjectName": "EBP-CMS 2293 Aesthetic practitioner Platform",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386477658"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386477658",
+        "worklogsTotal": 389,
+        "totalLoggedHours": 733.76
     },
     {
         "id": 412,
@@ -1181,7 +1167,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2WC",
         "jiraProjectName": "EBP-CMS 2436 Wyer & Co",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388285599"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388285599",
+        "worklogsTotal": 236,
+        "totalLoggedHours": 301.13
     },
     {
         "id": 409,
@@ -1206,7 +1194,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "AYDIN",
         "jiraProjectName": "EBP-CMS 2359 Aydin Co Picture Framing (Shopify Template) v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54387771247"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54387771247",
+        "worklogsTotal": 47,
+        "totalLoggedHours": 77.26
     },
     {
         "id": 408,
@@ -1231,7 +1221,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2HPLPV",
         "jiraProjectName": "EBP-CMS 2343 Honey Pot Landing Page v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388285571"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388285571",
+        "worklogsTotal": 18,
+        "totalLoggedHours": 39.41
     },
     {
         "id": 407,
@@ -1256,7 +1248,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "COERVER",
         "jiraProjectName": "EBP-CMS 2120 Coerver",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54387771242"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54387771242",
+        "worklogsTotal": 837,
+        "totalLoggedHours": 2025.56
     },
     {
         "id": 406,
@@ -1281,7 +1275,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "CTNT",
         "jiraProjectName": "CMS-Talk Now Telehealth",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54376222807"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54376222807",
+        "worklogsTotal": 126,
+        "totalLoggedHours": 152.31
     },
     {
         "id": 404,
@@ -1306,7 +1302,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "AC1SW",
         "jiraProjectName": "AG-CMS 1823 Safe Work",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388189463"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388189463",
+        "worklogsTotal": 231,
+        "totalLoggedHours": 581.4499999999999
     },
     {
         "id": 403,
@@ -1331,7 +1329,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3EG",
         "jiraProjectName": "EBP-ENT 3069 Exquisite Giveaways",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386477656"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386477656",
+        "worklogsTotal": 76,
+        "totalLoggedHours": 139.42
     },
     {
         "id": 402,
@@ -1356,7 +1356,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "AC1MW",
         "jiraProjectName": "AG-CMS 1846 Metz Website",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54387849323"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54387849323",
+        "worklogsTotal": 646,
+        "totalLoggedHours": 954.6
     },
     {
         "id": 401,
@@ -1381,7 +1383,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "TRUECOVER",
         "jiraProjectName": "EBP-CMS 2295 TrueCover",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54376222742"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54376222742",
+        "worklogsTotal": 246,
+        "totalLoggedHours": 447.1700000000001
     },
     {
         "id": 400,
@@ -1406,7 +1410,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "TRANSFER",
         "jiraProjectName": "AG-CMS 1773 Transference Healing",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386581645"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386581645",
+        "worklogsTotal": 258,
+        "totalLoggedHours": 550.18
     },
     {
         "id": 399,
@@ -1431,7 +1437,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "PC",
         "jiraProjectName": "EBP - CMS  Pogozo Website",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347293012"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347293012",
+        "worklogsTotal": 186,
+        "totalLoggedHours": 344.63
     },
     {
         "id": 398,
@@ -1456,7 +1464,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "YCPWEBSITE",
         "jiraProjectName": "EBP-CMS 2260 You Choose Pets (Landing Page)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347292843"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347292843",
+        "worklogsTotal": 152,
+        "totalLoggedHours": 291.34000000000003
     },
     {
         "id": 397,
@@ -1481,7 +1491,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "KP",
         "jiraProjectName": "Kathford Project",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386477459"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386477459",
+        "worklogsTotal": 465,
+        "totalLoggedHours": 884.51
     },
     {
         "id": 396,
@@ -1506,7 +1518,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "BLOOMFIELD",
         "jiraProjectName": "EBP-CMS 2128 Bloomfield Care",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54376222280"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54376222280",
+        "worklogsTotal": 154,
+        "totalLoggedHours": 243.91000000000003
     },
     {
         "id": 395,
@@ -1531,7 +1545,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "LEORA",
         "jiraProjectName": "EBP-CMS 2388 Leora.ai v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386472748"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386472748",
+        "worklogsTotal": 196,
+        "totalLoggedHours": 326.92
     },
     {
         "id": 394,
@@ -1556,7 +1572,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "COMMAND",
         "jiraProjectName": "EBP-CMS 2335 CommandAuto",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54387849219"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54387849219",
+        "worklogsTotal": 365,
+        "totalLoggedHours": 459.17
     },
     {
         "id": 393,
@@ -1581,7 +1599,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ESTRAINTS",
         "jiraProjectName": "EBP-CMS 1878 Estraints",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54387577163"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54387577163",
+        "worklogsTotal": 44,
+        "totalLoggedHours": 97.99
     },
     {
         "id": 390,
@@ -1606,7 +1626,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "LEWIS",
         "jiraProjectName": "EBP-CMS 2280 Lewis Hotels Group",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386581579"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386581579",
+        "worklogsTotal": 328,
+        "totalLoggedHours": 512.6700000000001
     },
     {
         "id": 388,
@@ -1631,7 +1653,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "PARRAS",
         "jiraProjectName": "EBP-CMS 2253 Parras Hospitality Websites",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386472612"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386472612",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 386,
@@ -1656,7 +1680,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE2S",
         "jiraProjectName": "EBP-ENT 2922 Shrynk(Yooli)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54387849033"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54387849033",
+        "worklogsTotal": 2070,
+        "totalLoggedHours": 4100.06
     },
     {
         "id": 385,
@@ -1681,7 +1707,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2MP",
         "jiraProjectName": "EBP-CMS 2334 Mothers Polish",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347292766"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347292766",
+        "worklogsTotal": 313,
+        "totalLoggedHours": 488.32
     },
     {
         "id": 384,
@@ -1706,7 +1734,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ARTOFVOICE",
         "jiraProjectName": "EBP-CMS 2331 The Art of Voice Australia",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347292738"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347292738",
+        "worklogsTotal": 131,
+        "totalLoggedHours": 159.98000000000002
     },
     {
         "id": 383,
@@ -1731,7 +1761,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "SYDCOL",
         "jiraProjectName": "CMS-RFC 1214 Sydney Collective Multisites",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347292740"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347292740",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 382,
@@ -1756,7 +1788,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE2RDSCA",
         "jiraProjectName": "EBP-ENT 2797 Reliable Driving School Code Audit",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386033032"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386033032",
+        "worklogsTotal": 10,
+        "totalLoggedHours": 7.09
     },
     {
         "id": 381,
@@ -1781,7 +1815,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2SV",
         "jiraProjectName": "EBP-CMS 2366 Skeiny v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54387577117"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54387577117",
+        "worklogsTotal": 146,
+        "totalLoggedHours": 225.85000000000002
     },
     {
         "id": 380,
@@ -1806,7 +1842,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2MP1",
         "jiraProjectName": "EBP-CMS 2383 MotorOne (Phase 1)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347292695"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347292695",
+        "worklogsTotal": 1274,
+        "totalLoggedHours": 1875.48
     },
     {
         "id": 379,
@@ -1831,7 +1869,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2A",
         "jiraProjectName": "EBP-CMS 2552 AFRIGAR",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54385873741"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54385873741",
+        "worklogsTotal": 331,
+        "totalLoggedHours": 639.32
     },
     {
         "id": 378,
@@ -1856,7 +1896,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "WILLESTATE",
         "jiraProjectName": "EBP-CMS 2085 Will & Estate Planner - Branding",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386051435"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54386051435",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 375,
@@ -1881,7 +1923,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "MUZIKBOX",
         "jiraProjectName": "EBP-CMS 2041 Muzikboxx Wordpress",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54385873677"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54385873677",
+        "worklogsTotal": 814,
+        "totalLoggedHours": 1653.4399999999998
     },
     {
         "id": 374,
@@ -1906,7 +1950,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE2CCA",
         "jiraProjectName": "EBP-ENT 2495 Club Culture Australia",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54384245283"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54384245283",
+        "worklogsTotal": 4,
+        "totalLoggedHours": 28
     },
     {
         "id": 373,
@@ -1931,7 +1977,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2BLP",
         "jiraProjectName": "EBP-CMS 2468 BAHAH Landing Page",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54385873511"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54385873511",
+        "worklogsTotal": 50,
+        "totalLoggedHours": 51.95
     },
     {
         "id": 371,
@@ -1956,7 +2004,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ACHIEVED01",
         "jiraProjectName": "EBP-CMS 1851 Achieved Music",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54385873492"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54385873492",
+        "worklogsTotal": 71,
+        "totalLoggedHours": 223.43
     },
     {
         "id": 370,
@@ -1981,7 +2031,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ES1IFFL",
         "jiraProjectName": "EBP-STAFF 1436 Indigenous Futures Foundation - Staff Lease",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54383354677"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54383354677",
+        "worklogsTotal": 21,
+        "totalLoggedHours": 32.0
     },
     {
         "id": 369,
@@ -2006,7 +2058,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "PAWPAL",
         "jiraProjectName": "EBP-ENT 3558 PawPal",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54378947210"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54378947210",
+        "worklogsTotal": 83,
+        "totalLoggedHours": 77.39
     },
     {
         "id": 368,
@@ -2031,7 +2085,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3SSCA",
         "jiraProjectName": "EBP-ENT 3521 School Stream - Code Audit",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54376952601"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54376952601",
+        "worklogsTotal": 23,
+        "totalLoggedHours": 85.75
     },
     {
         "id": 367,
@@ -2056,7 +2112,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC23",
         "jiraProjectName": "EBP-CMS 2474 365mesh",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319930989"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319930989",
+        "worklogsTotal": 248,
+        "totalLoggedHours": 358.81
     },
     {
         "id": 366,
@@ -2081,7 +2139,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2POST",
         "jiraProjectName": "EBP-CMS 2535 Pure Oz Shopify Template",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319930704"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319930704",
+        "worklogsTotal": 43,
+        "totalLoggedHours": 56.13
     },
     {
         "id": 365,
@@ -2106,7 +2166,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "CSMCW",
         "jiraProjectName": "Communication Spectrum/ My Comms Website",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347288649"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54347288649",
+        "worklogsTotal": 102,
+        "totalLoggedHours": 132.71
     },
     {
         "id": 363,
@@ -2138,7 +2200,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2ETV",
         "jiraProjectName": "EBP-CMS 2513 EL Toro v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54367165488"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54367165488",
+        "worklogsTotal": 83,
+        "totalLoggedHours": 94.78
     },
     {
         "id": 362,
@@ -2163,7 +2227,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2DN",
         "jiraProjectName": "EBP-CMS 2540 Di Nuovo",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54367165284"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54367165284",
+        "worklogsTotal": 49,
+        "totalLoggedHours": 63.04
     },
     {
         "id": 361,
@@ -2188,7 +2254,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "FLIPPAY",
         "jiraProjectName": "EBP-CMS 2473 Flip Pay (Website)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319930372"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319930372",
+        "worklogsTotal": 139,
+        "totalLoggedHours": 225.49
     },
     {
         "id": 360,
@@ -2213,7 +2281,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3TCA",
         "jiraProjectName": "EBP-ENT 3224 TopTeacher",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54366521634"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54366521634",
+        "worklogsTotal": 344,
+        "totalLoggedHours": 719.26
     },
     {
         "id": 359,
@@ -2238,7 +2308,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE2PP",
         "jiraProjectName": "EBP-ENT 2685 Peacock Pages",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54366957351"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54366957351",
+        "worklogsTotal": 1429,
+        "totalLoggedHours": 2311.9999999999995
     },
     {
         "id": 357,
@@ -2263,7 +2335,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3LPLP",
         "jiraProjectName": "EBP-ENT 3084 Launch Pro (Legal Project)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54362051493"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54362051493",
+        "worklogsTotal": 83,
+        "totalLoggedHours": 132.25
     },
     {
         "id": 356,
@@ -2288,7 +2362,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3MCA",
         "jiraProjectName": "EBP-ENT 3582 Metahealth",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54366521146"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54366521146",
+        "worklogsTotal": 212,
+        "totalLoggedHours": 511.0
     },
     {
         "id": 355,
@@ -2313,7 +2389,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2LH",
         "jiraProjectName": "EBP-CMS 2529 Leora Health",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54366957067"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54366957067",
+        "worklogsTotal": 186,
+        "totalLoggedHours": 407.92
     },
     {
         "id": 354,
@@ -2338,7 +2416,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2TW",
         "jiraProjectName": "EBP-CMS 2568 TrendTrade - Wordpress",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54365312817"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54365312817",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 353,
@@ -2363,7 +2443,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "AC1ET",
         "jiraProjectName": "AG-CMS 1817 Early Trade",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54340823204"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54340823204",
+        "worklogsTotal": 120,
+        "totalLoggedHours": 277.26
     },
     {
         "id": 352,
@@ -2388,7 +2470,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "INTRO",
         "jiraProjectName": "EBP-ENT 1999 Intro v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54340269977"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54340269977",
+        "worklogsTotal": 5034,
+        "totalLoggedHours": 15632.34
     },
     {
         "id": 351,
@@ -2413,7 +2497,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "AC6MSFWB",
         "jiraProjectName": "AG-CMS 695 - Medecins Sans Frontieres/Doctors Without Borders",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338346586"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338346586",
+        "worklogsTotal": 6,
+        "totalLoggedHours": 12.5
     },
     {
         "id": 350,
@@ -2438,7 +2524,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE2MV",
         "jiraProjectName": "EBP-ENT 2630 Megacash v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338345870"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338345870",
+        "worklogsTotal": 3207,
+        "totalLoggedHours": 6360.39
     },
     {
         "id": 349,
@@ -2463,7 +2551,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "GALLERY",
         "jiraProjectName": "EBP-CMS 622 - Gallery Funaki",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338327714"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338327714",
+        "worklogsTotal": 370,
+        "totalLoggedHours": 663.38
     },
     {
         "id": 348,
@@ -2488,7 +2578,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "PEDS",
         "jiraProjectName": "EBP-CMS 129 - Peds Industrial",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338346321"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338346321",
+        "worklogsTotal": 449,
+        "totalLoggedHours": 1085.76
     },
     {
         "id": 347,
@@ -2513,7 +2605,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2KLCS",
         "jiraProjectName": "EBP-CMS 2542 Kris and Li Cleaning Services",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319899927"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319899927",
+        "worklogsTotal": 100,
+        "totalLoggedHours": 139.59
     },
     {
         "id": 346,
@@ -2538,7 +2632,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "WINEWARE",
         "jiraProjectName": "EBP-CMS 2262 Wine Warehouse v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338319978"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338319978",
+        "worklogsTotal": 174,
+        "totalLoggedHours": 314.58
     },
     {
         "id": 345,
@@ -2563,7 +2659,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE2TA",
         "jiraProjectName": "EBP-ENT 2989 Travel App",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54340345864"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54340345864",
+        "worklogsTotal": 201,
+        "totalLoggedHours": 262.77
     },
     {
         "id": 344,
@@ -2588,7 +2686,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "WILL",
         "jiraProjectName": "EBP-ENT 2035 Will & Estate Planner ",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338327418"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338327418",
+        "worklogsTotal": 92,
+        "totalLoggedHours": 237.0
     },
     {
         "id": 343,
@@ -2613,7 +2713,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "REALESTATE",
         "jiraProjectName": "EBP-ENT 1913 Real Estate App Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338319786"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338319786",
+        "worklogsTotal": 34,
+        "totalLoggedHours": 95.08
     },
     {
         "id": 342,
@@ -2638,7 +2740,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "OWNERV2",
         "jiraProjectName": "EBP-CMS 2223  Owner Inspections v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54223786529"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54223786529",
+        "worklogsTotal": 214,
+        "totalLoggedHours": 417.51
     },
     {
         "id": 341,
@@ -2663,7 +2767,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "MONDIALE",
         "jiraProjectName": "EBP-CMS 272 Mondiale VGL",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54223786513"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54223786513",
+        "worklogsTotal": 563,
+        "totalLoggedHours": 948.68
     },
     {
         "id": 340,
@@ -2688,7 +2794,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "DOSATRON",
         "jiraProjectName": "EBP-CMS 2286 Dosatron v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338345559"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338345559",
+        "worklogsTotal": 332,
+        "totalLoggedHours": 579.3100000000001
     },
     {
         "id": 339,
@@ -2713,7 +2821,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "FLOWLEADER",
         "jiraProjectName": "EBP-CMS 2189 Flow Leader",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338346079"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338346079",
+        "worklogsTotal": 79,
+        "totalLoggedHours": 191.91
     },
     {
         "id": 338,
@@ -2738,7 +2848,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "SYDPLUMBIN",
         "jiraProjectName": "EBP-CMS 278 - Sydney Plumbing",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338346072"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338346072",
+        "worklogsTotal": 84,
+        "totalLoggedHours": 192.42000000000002
     },
     {
         "id": 337,
@@ -2763,7 +2875,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2DT",
         "jiraProjectName": "EBP-CMS 2251 Dickies Transportation",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338310667"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338310667",
+        "worklogsTotal": 10,
+        "totalLoggedHours": 20.5
     },
     {
         "id": 336,
@@ -2788,7 +2902,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3ACA",
         "jiraProjectName": "EBP-ENT 3131 AnyFind Code Audit",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338327421"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338327421",
+        "worklogsTotal": 9,
+        "totalLoggedHours": 30.25
     },
     {
         "id": 335,
@@ -2813,7 +2929,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "PESTV2",
         "jiraProjectName": "EBP-CMS 2220  Pest Control Specialists v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338602091"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338602091",
+        "worklogsTotal": 144,
+        "totalLoggedHours": 227.34000000000003
     },
     {
         "id": 334,
@@ -2838,7 +2956,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "AC1A",
         "jiraProjectName": "AG-CMS 1799 ACRF",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338319683"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338319683",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 333,
@@ -2863,7 +2983,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "AC1T",
         "jiraProjectName": "AG-CMS 1818 Tickstar",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338319664"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338319664",
+        "worklogsTotal": 18,
+        "totalLoggedHours": 50.92
     },
     {
         "id": 332,
@@ -2888,7 +3010,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2YW",
         "jiraProjectName": "EBP-CMS 2564 Yakkly (Wordpress)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338327379"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338327379",
+        "worklogsTotal": 460,
+        "totalLoggedHours": 894.7
     },
     {
         "id": 331,
@@ -2913,7 +3037,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "HEADON",
         "jiraProjectName": "EBP-CMS 2114 - Head On",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54223786510"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54223786510",
+        "worklogsTotal": 1051,
+        "totalLoggedHours": 3124.04
     },
     {
         "id": 330,
@@ -2938,7 +3064,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "GRCI",
         "jiraProjectName": "EBP-ENT 2318 GRC Institute Membership Portal v4",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338276496"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338276496",
+        "worklogsTotal": 1967,
+        "totalLoggedHours": 4311.5
     },
     {
         "id": 329,
@@ -2963,7 +3091,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EMLV2",
         "jiraProjectName": "EBP-ENT 2539 EML V2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338602075"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338602075",
+        "worklogsTotal": 1299,
+        "totalLoggedHours": 2431.9399999999996
     },
     {
         "id": 328,
@@ -2988,7 +3118,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EBP",
         "jiraProjectName": "EBP-ENT 3237 Activfy Code Audit",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338346041"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338346041",
+        "worklogsTotal": 23,
+        "totalLoggedHours": 96.17
     },
     {
         "id": 327,
@@ -3013,7 +3145,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EZY",
         "jiraProjectName": "EBP-CMS 2276 EzyCharge",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338310542"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338310542",
+        "worklogsTotal": 36,
+        "totalLoggedHours": 41.33
     },
     {
         "id": 326,
@@ -3030,7 +3164,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "GRCI",
         "jiraProjectName": "EBP-ENT 2318 GRC Institute Membership Portal v4",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338276496"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338276496",
+        "worklogsTotal": 1,
+        "totalLoggedHours": 3.5
     },
     {
         "id": 323,
@@ -3055,7 +3191,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2CFLP",
         "jiraProjectName": "EBP-CMS 2538 CT Freight - Landing Page",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54340265770"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54340265770",
+        "worklogsTotal": 24,
+        "totalLoggedHours": 49.6
     },
     {
         "id": 322,
@@ -3080,7 +3218,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EXP",
         "jiraProjectName": "EBP-ENT 1868 Exportia",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319899460"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319899460",
+        "worklogsTotal": 272,
+        "totalLoggedHours": 1061.49
     },
     {
         "id": 321,
@@ -3105,7 +3245,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "MASON",
         "jiraProjectName": "EBP-CMS 2288 Asteri Mason v3",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338265232"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338265232",
+        "worklogsTotal": 207,
+        "totalLoggedHours": 318.45
     },
     {
         "id": 320,
@@ -3130,7 +3272,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "BABYLON",
         "jiraProjectName": "EBP-CMS 2146 Babylonchain",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54340265639"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54340265639",
+        "worklogsTotal": 193,
+        "totalLoggedHours": 365.99
     },
     {
         "id": 319,
@@ -3155,7 +3299,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "NSWC",
         "jiraProjectName": "NSW Child Protection Client",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338265204"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338265204",
+        "worklogsTotal": 396,
+        "totalLoggedHours": 862.25
     },
     {
         "id": 318,
@@ -3180,7 +3326,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "BENDOOLEYC",
         "jiraProjectName": "Bendooley Estate Larder Client",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338264881"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338264881",
+        "worklogsTotal": 6,
+        "totalLoggedHours": 7.5
     },
     {
         "id": 317,
@@ -3205,7 +3353,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2JCST",
         "jiraProjectName": "EBP-CMS 2661 JLI Computers Shopify Theme",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338168368"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338168368",
+        "worklogsTotal": 19,
+        "totalLoggedHours": 21.25
     },
     {
         "id": 316,
@@ -3230,7 +3380,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "HOW",
         "jiraProjectName": "EBP-ENT 2992 Howdy",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338168383"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338168383",
+        "worklogsTotal": 2232,
+        "totalLoggedHours": 4631.43
     },
     {
         "id": 315,
@@ -3255,7 +3407,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE1VI",
         "jiraProjectName": "EBP-ENT 1905 V-Insurance",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338607918"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338607918",
+        "worklogsTotal": 493,
+        "totalLoggedHours": 1420.1200000000001
     },
     {
         "id": 314,
@@ -3280,7 +3434,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "HONEYPOT",
         "jiraProjectName": "EBP-ENT 2583 Honeypot",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338166117"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338166117",
+        "worklogsTotal": 2749,
+        "totalLoggedHours": 5341.57
     },
     {
         "id": 313,
@@ -3305,7 +3461,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "AUSCOM",
         "jiraProjectName": "EBP-ENT 2042 Australian Community Media v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338607900"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338607900",
+        "worklogsTotal": 5679,
+        "totalLoggedHours": 18743.079999999998
     },
     {
         "id": 312,
@@ -3330,7 +3488,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "GIGSTA",
         "jiraProjectName": "EBP-ENT 2175 Gigsta",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319898950"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319898950",
+        "worklogsTotal": 206,
+        "totalLoggedHours": 516.92
     },
     {
         "id": 311,
@@ -3355,7 +3515,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "AC1FP",
         "jiraProjectName": "AG-CMS 1813 Fasta Pasta",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319898956"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54319898956",
+        "worklogsTotal": 59,
+        "totalLoggedHours": 162.17000000000002
     },
     {
         "id": 310,
@@ -3380,7 +3542,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "STORYBOOK",
         "jiraProjectName": "EBP-ENT 2378 StoryBookApp",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54223785804"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54223785804",
+        "worklogsTotal": 70,
+        "totalLoggedHours": 137.49
     },
     {
         "id": 308,
@@ -3405,7 +3569,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "SPG",
         "jiraProjectName": "EBP-ENT 2063 Specialist Protection Group v3",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338071087"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338071087",
+        "worklogsTotal": 2567,
+        "totalLoggedHours": 7662.95
     },
     {
         "id": 307,
@@ -3430,7 +3596,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ONEWEAR",
         "jiraProjectName": "EBP-ENT 2140 One Wear Only Hire",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338137401"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338137401",
+        "worklogsTotal": 1236,
+        "totalLoggedHours": 4607.280000000001
     },
     {
         "id": 305,
@@ -3455,7 +3623,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "DO",
         "jiraProjectName": "DevOps Team",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54290692620"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54290692620",
+        "worklogsTotal": 1725,
+        "totalLoggedHours": 1709.18
     },
     {
         "id": 290,
@@ -3480,7 +3650,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3MBV",
         "jiraProjectName": "EBP-ENT 3198 Massage Booker v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53414830886"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53414830886",
+        "worklogsTotal": 18,
+        "totalLoggedHours": 32.25
     },
     {
         "id": 288,
@@ -3497,7 +3669,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2ETV",
         "jiraProjectName": "EBP-CMS 2513 EL Toro v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/35395637324"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/35395637324",
+        "worklogsTotal": 1,
+        "totalLoggedHours": 3
     },
     {
         "id": 287,
@@ -3514,7 +3688,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ER1ANRCP30",
         "jiraProjectName": "ENT-RFC 1803 AWN.net RFC26 (Client Portal 3.0 including GenAI)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/35420412944"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/35420412944",
+        "worklogsTotal": 82,
+        "totalLoggedHours": 343.21
     },
     {
         "id": 286,
@@ -3539,7 +3715,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3WAP",
         "jiraProjectName": "EBP-ENT 3735 Worker's AI Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/38437652104"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/38437652104",
+        "worklogsTotal": 27,
+        "totalLoggedHours": 20.91
     },
     {
         "id": 284,
@@ -3564,7 +3742,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2ZBB",
         "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/37410600082"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/37410600082",
+        "worklogsTotal": 55,
+        "totalLoggedHours": 37.43
     },
     {
         "id": 283,
@@ -3589,7 +3769,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3ACAWVP",
         "jiraProjectName": "EBP-ENT 3799 Australian Campdraft Association (Wordpress) v3 - POC",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39573138836"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39573138836",
+        "worklogsTotal": 112,
+        "totalLoggedHours": 124.92
     },
     {
         "id": 258,
@@ -3614,7 +3796,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2CV",
         "jiraProjectName": "EBP-CMS 2621 Chairforce v4",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52556960343"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52556960343",
+        "worklogsTotal": 759,
+        "totalLoggedHours": 874.09
     },
     {
         "id": 256,
@@ -3639,7 +3823,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "FIREX",
         "jiraProjectName": "EBP-CMS 2362 Firex v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52556960340"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52556960340",
+        "worklogsTotal": 1346,
+        "totalLoggedHours": 2233.91
     },
     {
         "id": 254,
@@ -3664,32 +3850,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "FSMC",
         "jiraProjectName": "EBP-STAFF 643 - Farm Service Management",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52884729479"
-    },
-    {
-        "id": 243,
-        "name": "EBP-ENT 3396 YCP (maintenance)",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [
-            {
-                "id": 209,
-                "status": "inactive",
-                "planningStatus": "Draft",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
-        "engineeringManagerEmail": "karun@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "eoin@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": "EBP-ENT 3396 YCP",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52817174191"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52884729479",
+        "worklogsTotal": 5137,
+        "totalLoggedHours": 13288.109999999999
     },
     {
         "id": 242,
@@ -3714,7 +3877,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ER1CHR",
         "jiraProjectName": "ENT-RFC 1804 Cordouan Health RFC2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44037928016"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44037928016",
+        "worklogsTotal": 417,
+        "totalLoggedHours": 969.7399999999999
     },
     {
         "id": 241,
@@ -3739,7 +3904,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ALLPUMPS",
         "jiraProjectName": "EBP-ENT 1924 All Pumps App",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52556927354"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52556927354",
+        "worklogsTotal": 922,
+        "totalLoggedHours": 2967.3099999999995
     },
     {
         "id": 236,
@@ -3764,7 +3931,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE2ACA",
         "jiraProjectName": "EBP-ENT 2432 ARTIS Code Audit",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52556927252"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52556927252",
+        "worklogsTotal": 451,
+        "totalLoggedHours": 1875.25
     },
     {
         "id": 230,
@@ -3789,49 +3958,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3SAM",
         "jiraProjectName": "EBP-ENT 3707 Shedule AI MVP",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/37094845708"
-    },
-    {
-        "id": 227,
-        "name": "Rotech - Maintenance Project",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Completed",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54388347418"
-    },
-    {
-        "id": 225,
-        "name": "CMS-RFC 3479 White Bow Gift Registry RFC13",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [
-            {
-                "id": 432,
-                "status": "active",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Consider"
-            }
-        ],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51984053505"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/37094845708",
+        "worklogsTotal": 82,
+        "totalLoggedHours": 145.59
     },
     {
         "id": 224,
@@ -3856,7 +3985,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "PERSONHOOD",
         "jiraProjectName": "EBP-ENT 1406 Personhood360",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/40236405535"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/40236405535",
+        "worklogsTotal": 915,
+        "totalLoggedHours": 2631.4300000000003
     },
     {
         "id": 223,
@@ -3888,7 +4019,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "BAHAH",
         "jiraProjectName": "EBP-ENT 3029 BAHAH",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52900859766"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52900859766",
+        "worklogsTotal": 3526,
+        "totalLoggedHours": 7345.29
     },
     {
         "id": 215,
@@ -3913,7 +4046,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ES1CL",
         "jiraProjectName": "EBP-STAFF 1451 Coposit Staff Leasing",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39295749403"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39295749403",
+        "worklogsTotal": 226,
+        "totalLoggedHours": 1632.42
     },
     {
         "id": 211,
@@ -3945,7 +4080,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4REAA",
         "jiraProjectName": "EBP-ENT 471 - Real Estate App (APBR)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51663134035"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51663134035",
+        "worklogsTotal": 4766,
+        "totalLoggedHours": 9029.29
     },
     {
         "id": 210,
@@ -3970,7 +4107,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2PIWV",
         "jiraProjectName": "EBP-CMS 2675 Pro Invest Website v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51896378189"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51896378189",
+        "worklogsTotal": 202,
+        "totalLoggedHours": 356.27
     },
     {
         "id": 209,
@@ -3987,7 +4126,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "CREWS",
         "jiraProjectName": "EBP-ENT 1438 CREWS",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51831969058"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51831969058",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 200,
@@ -4012,7 +4153,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4BP",
         "jiraProjectName": "EBP-ENT 4001 Brigade (Prototype)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51458590075"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51458590075",
+        "worklogsTotal": 86,
+        "totalLoggedHours": 146.29
     },
     {
         "id": 199,
@@ -4037,7 +4180,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ES2R",
         "jiraProjectName": "EBP-SEO 2283 Rotech SEO",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51467406404"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51467406404",
+        "worklogsTotal": 41,
+        "totalLoggedHours": 57.5
     },
     {
         "id": 192,
@@ -4062,7 +4207,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "CR2CR",
         "jiraProjectName": "CMS-RFC 2735 ConveyOnline",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/50703860128"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/50703860128",
+        "worklogsTotal": 22,
+        "totalLoggedHours": 37.0
     },
     {
         "id": 191,
@@ -4087,7 +4234,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE2WBGR",
         "jiraProjectName": "EBP-ENT 2200 White Bow Gift Registry",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/50670554632"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/50670554632",
+        "worklogsTotal": 50,
+        "totalLoggedHours": 159.25
     },
     {
         "id": 189,
@@ -4104,7 +4253,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3QWMV",
         "jiraProjectName": "EBP-ENT 3695 Quantify Wellness MVP v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39409885975"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39409885975",
+        "worklogsTotal": 165,
+        "totalLoggedHours": 236.6
     },
     {
         "id": 182,
@@ -4129,7 +4280,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ER1MCAR",
         "jiraProjectName": "ENT-RFC 1939 MGI Code Audit Rework",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/49732250234"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/49732250234",
+        "worklogsTotal": 177,
+        "totalLoggedHours": 349.92
     },
     {
         "id": 181,
@@ -4154,7 +4307,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3SFCA",
         "jiraProjectName": "EBP-ENT 3961 SPS Facilities Code Audit",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/45545042214"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/45545042214",
+        "worklogsTotal": 65,
+        "totalLoggedHours": 196.01
     },
     {
         "id": 179,
@@ -4179,7 +4334,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "MONDIALE",
         "jiraProjectName": "EBP-CMS 272 Mondiale VGL",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/49709594764"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/49709594764",
+        "worklogsTotal": 15,
+        "totalLoggedHours": 26.75
     },
     {
         "id": 176,
@@ -4204,7 +4361,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE2GCA",
         "jiraProjectName": "EBP-ENT 2724 GapMash Code Audit",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/49766619176"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/49766619176",
+        "worklogsTotal": 1056,
+        "totalLoggedHours": 1732.8500000000001
     },
     {
         "id": 173,
@@ -4236,7 +4395,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4BCA",
         "jiraProjectName": "EBP-ENT 4020 Baztel Code Audit",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/48890409228"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/48890409228",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 170,
@@ -4268,74 +4429,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "CAROOWEB",
         "jiraProjectName": "EBP-ENT 3339 Caroo RFC57 (Webapp MVP)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/48791355825"
-    },
-    {
-        "id": 169,
-        "name": "Caroo Maintenace",
-        "isArchive": false,
-        "projecType": null,
-        "developmentStatus": "Active",
-        "status": "Final Budget Approval",
-        "planning": [
-            {
-                "id": 110,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "narendra@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/48791355825"
-    },
-    {
-        "id": 167,
-        "name": "CMS-RFC 3462 Friends United v2 (Theme Based) RFC2 v3",
-        "isArchive": false,
-        "projecType": null,
-        "developmentStatus": "Active",
-        "status": "Development",
-        "planning": [
-            {
-                "id": 9,
-                "status": "inactive",
-                "planningStatus": "InProgress",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": "EBP-CMS 2533 Friends United v2 (Theme Based)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/48426126463"
-    },
-    {
-        "id": 162,
-        "name": "CMS-RFC 3460 Wyer & Co RFC4",
-        "isArchive": false,
-        "projecType": null,
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "binisha@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/47665141910"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/48791355825",
+        "worklogsTotal": 1150,
+        "totalLoggedHours": 1996.17
     },
     {
         "id": 159,
@@ -4360,24 +4456,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ES1WL",
         "jiraProjectName": "EBP-STAFF 1452 WUNA - Staff Leasing",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/47639722811"
-    },
-    {
-        "id": 136,
-        "name": "CMS-RFC 3446 365mesh RFC4",
-        "isArchive": false,
-        "projecType": null,
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44890437271"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/47639722811",
+        "worklogsTotal": 197,
+        "totalLoggedHours": 878.75
     },
     {
         "id": 132,
@@ -4402,7 +4483,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3SW",
         "jiraProjectName": "EBP-ENT 3683 Stockman's Wallet",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/36533298600"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/36533298600",
+        "worklogsTotal": 599,
+        "totalLoggedHours": 982.18
     },
     {
         "id": 128,
@@ -4419,24 +4502,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3MCA",
         "jiraProjectName": "EBP-ENT 3582 Metahealth",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44134031715"
-    },
-    {
-        "id": 126,
-        "name": "CMS-RFC 3445 Quantify Wellness Landing Page RFC2",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "sabrina@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44149454241"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44134031715",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 125,
@@ -4453,7 +4521,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3MP",
         "jiraProjectName": "EBP-ENT 3491 MeetDelete Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44134026084"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44134026084",
+        "worklogsTotal": 67,
+        "totalLoggedHours": 85.08
     },
     {
         "id": 115,
@@ -4478,7 +4548,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3SSSS",
         "jiraProjectName": "EBP-ENT 3544 Stratus Smart Software Solutions",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44081071115"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44081071115",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 112,
@@ -4517,7 +4589,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3TTWV",
         "jiraProjectName": "EBP-ENT 3617 Top Teacher - Webapp v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44074158249"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44074158249",
+        "worklogsTotal": 3377,
+        "totalLoggedHours": 7433.57
     },
     {
         "id": 110,
@@ -4542,7 +4616,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3CSM",
         "jiraProjectName": "EBP-ENT 3468 Communication Spectrum MVP",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44018170376"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44018170376",
+        "worklogsTotal": 2325,
+        "totalLoggedHours": 3574.46
     },
     {
         "id": 102,
@@ -4567,7 +4643,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "SMAR",
         "jiraProjectName": "Smart Group",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44034428789"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44034428789",
+        "worklogsTotal": 407,
+        "totalLoggedHours": 2450.09
     },
     {
         "id": 92,
@@ -4592,7 +4670,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2MS",
         "jiraProjectName": "EBP-CMS 2636 Metalia Studios",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43898935198"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43898935198",
+        "worklogsTotal": 40,
+        "totalLoggedHours": 29.83
     },
     {
         "id": 91,
@@ -4617,7 +4697,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2QWLP",
         "jiraProjectName": "EBP-CMS 2639 Quantify Wellness Landing Page",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43899165816"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43899165816",
+        "worklogsTotal": 69,
+        "totalLoggedHours": 102.01
     },
     {
         "id": 90,
@@ -4642,7 +4724,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "BENDOOLEY2",
         "jiraProjectName": "EBP-CMS 2607 Bendooley Estate v4",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43898873948"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43898873948",
+        "worklogsTotal": 516,
+        "totalLoggedHours": 755.6
     },
     {
         "id": 85,
@@ -4667,7 +4751,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3WCA",
         "jiraProjectName": "EBP-ENT 3453 WUNA - Code Audit",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43899058294"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43899058294",
+        "worklogsTotal": 769,
+        "totalLoggedHours": 1889.9099999999999
     },
     {
         "id": 82,
@@ -4692,7 +4778,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2QCS",
         "jiraProjectName": "EBP-CMS 2634 Queensland Compassionate Services",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43898872605"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43898872605",
+        "worklogsTotal": 843,
+        "totalLoggedHours": 1176.83
     },
     {
         "id": 75,
@@ -4717,7 +4805,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ES1DSL",
         "jiraProjectName": "EBP-STAFF 1359 Doubleguard Staff Leasing",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43880096023"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43880096023",
+        "worklogsTotal": 5392,
+        "totalLoggedHours": 11638.04
     },
     {
         "id": 69,
@@ -4749,7 +4839,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ALLIED",
         "jiraProjectName": "EBP-ENT 3098 Allied Health Directory",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43820295557"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43820295557",
+        "worklogsTotal": 88,
+        "totalLoggedHours": 110.41000000000001
     },
     {
         "id": 58,
@@ -4774,39 +4866,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3VS",
         "jiraProjectName": "EBP-ENT 3281 VinoBid (Supabase)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43708890673"
-    },
-    {
-        "id": 57,
-        "name": "EBP-ENT 3500 Beauty Grail WebApp",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [
-            {
-                "id": 394,
-                "status": "active",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Review"
-            },
-            {
-                "id": 365,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "sabrina@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": "EBP-ENT 3500 Beauty Grail WebApp",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43708890461"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43708890673",
+        "worklogsTotal": 5441,
+        "totalLoggedHours": 8353.33
     },
     {
         "id": 51,
@@ -4831,41 +4893,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2SG",
         "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/36971552327"
-    },
-    {
-        "id": 46,
-        "name": "CMS-RFC 3439 Voiceless RFC10",
-        "isArchive": false,
-        "projecType": null,
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/42977803354"
-    },
-    {
-        "id": 30,
-        "name": "CMS-RFC 3427 EBP-CMS 2639 Quantify Wellness Landing Page RFC1",
-        "isArchive": false,
-        "projecType": null,
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "sabrina@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/41670701240"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/36971552327",
+        "worklogsTotal": 192,
+        "totalLoggedHours": 167.16
     },
     {
         "id": 25,
@@ -4882,58 +4912,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3PDGP",
         "jiraProjectName": "EBP-ENT 3656 Property Dollar Gamification Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/41529878143"
-    },
-    {
-        "id": 14,
-        "name": "EBP-ENT 3841 Coposit Penetration Testing Report",
-        "isArchive": false,
-        "projecType": null,
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [],
-        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/40546048515"
-    },
-    {
-        "id": 13,
-        "name": "CMS-RFC 3416 OutcomeX RFC24",
-        "isArchive": false,
-        "projecType": null,
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/40537781596"
-    },
-    {
-        "id": 12,
-        "name": "CMS-RFC 3415 Blue Spinach RFC25",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/40378873907"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/41529878143",
+        "worklogsTotal": 1,
+        "totalLoggedHours": 0.92
     },
     {
         "id": 11,
@@ -4950,7 +4931,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3NRP",
         "jiraProjectName": "EBP-ENT 3672 Nimbus Receipt Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/36133281448"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/36133281448",
+        "worklogsTotal": 48,
+        "totalLoggedHours": 50.91
     },
     {
         "id": 10,
@@ -4975,7 +4958,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3DACAV",
         "jiraProjectName": "EBP-ENT 3834 Dating App Code Audit v2 ( Meet Me UP)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51244768118"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51244768118",
+        "worklogsTotal": 104,
+        "totalLoggedHours": 327.83
     },
     {
         "id": 4,
@@ -4992,7 +4977,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3ARP",
         "jiraProjectName": "EBP-ENT 3825 Air Run Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39915661351"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39915661351",
+        "worklogsTotal": 75,
+        "totalLoggedHours": 97.74
     },
     {
         "id": 3,
@@ -5017,160 +5004,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3DP1",
         "jiraProjectName": "EBP-ENT 3827 DDEG Phase 1",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39883240050"
-    },
-    {
-        "id": 2,
-        "name": "ENT-RFC 1896 Copost Pen testing",
-        "isArchive": false,
-        "projecType": null,
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [],
-        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39791796552"
-    },
-    {
-        "id": 576,
-        "name": "CMS-RFC 3351 Massage Booker v2 RFC9",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Wireframe",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60877632279"
-    },
-    {
-        "id": 575,
-        "name": "CMS-RFC 3311 Massage Booker v2 RFC8",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60877632171"
-    },
-    {
-        "id": 574,
-        "name": "CMS-RFC 3288 Massage Booker v2 RFC6",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60873509962"
-    },
-    {
-        "id": 573,
-        "name": "EBP-ENT 3993 My Leather Doctor CI/CD Setup - OSCA",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [],
-        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60877633183"
-    },
-    {
-        "id": 572,
-        "name": "CMS-RFC 3272 Massage Booker v2 RFC5 v2",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Kick Off Workshop",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60873509423"
-    },
-    {
-        "id": 571,
-        "name": "CMS-RFC 3271 Massage Booker v2 RFC4 v2",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [],
-        "engineeringManagerEmail": null,
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60877632094"
-    },
-    {
-        "id": 570,
-        "name": "EBP-ENT 3285 Massage Booker v2 RFC3",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Kick Off Workshop",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60873505936"
-    },
-    {
-        "id": 569,
-        "name": "EBP-ENT 3251 Massage Booker v2 RFC1",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60873504842"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39883240050",
+        "worklogsTotal": 164,
+        "totalLoggedHours": 236.55
     },
     {
         "id": 568,
@@ -5195,7 +5031,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ER3BCARPI",
         "jiraProjectName": "EBP-RFC 3482 Baztel Code Audit RFC5 (Phase III)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60873506679"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60873506679",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 567,
@@ -5220,49 +5058,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "TES",
         "jiraProjectName": "EBplanner Test Project",
-        "hubSpotProjectLink": null
-    },
-    {
-        "id": 564,
-        "name": "EBP-ENT 4191 Minetek QA Software Project",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Wireframe",
-        "planning": [],
-        "engineeringManagerEmail": "karun@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "sabrina@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60259034439"
-    },
-    {
-        "id": 563,
-        "name": "WUNA - Maintenance Booking only",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": null,
-        "status": "initiating",
-        "planning": [
-            {
-                "id": 846,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": null,
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": null
+        "hubSpotProjectLink": null,
+        "worklogsTotal": 1,
+        "totalLoggedHours": 1.5
     },
     {
         "id": 561,
@@ -5287,32 +5085,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4SS",
         "jiraProjectName": "EBP-ENT 4125 Silent Sale",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60524853143"
-    },
-    {
-        "id": 560,
-        "name": "EBP-ENT 3098 Allied Health Directory (maintenance)",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": null,
-        "status": "initiating",
-        "planning": [
-            {
-                "id": 832,
-                "status": "active",
-                "planningStatus": "InProgress",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
-        "engineeringManagerEmail": "karun@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": null,
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": null
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60524853143",
+        "worklogsTotal": 5,
+        "totalLoggedHours": 6.5
     },
     {
         "id": 559,
@@ -5329,7 +5104,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2ECWRH",
         "jiraProjectName": "EBP-CMS 2687 Empax Centre Website Revamp (Headless)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60524920080"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60524920080",
+        "worklogsTotal": 1,
+        "totalLoggedHours": 1.5
     },
     {
         "id": 558,
@@ -5346,107 +5123,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EA1TCRT",
         "jiraProjectName": "EBP-AUDIT 1228 Tipflo Code Audit - Revised Terms",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60524935574"
-    },
-    {
-        "id": 555,
-        "name": "Gapmash Maintenance",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 814,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "nabin@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60424022678"
-    },
-    {
-        "id": 554,
-        "name": "MGI Maintenance",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 813,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "nabin@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60424084573"
-    },
-    {
-        "id": 553,
-        "name": "Freight Search Maintenance",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 812,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "nabin@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60423898435"
-    },
-    {
-        "id": 552,
-        "name": "Communication Spectrum Maintenance",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Final Budget Approval",
-        "planning": [
-            {
-                "id": 811,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "nabin@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60424020797"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60524935574",
+        "worklogsTotal": 2,
+        "totalLoggedHours": 1.5
     },
     {
         "id": 550,
@@ -5471,124 +5150,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "CV",
         "jiraProjectName": "Countdown V2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44018730059"
-    },
-    {
-        "id": 549,
-        "name": "EBP-RFC 3460 Coach Merv RFC1 SRS",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Design - Approved and SRS Initiated",
-        "planning": [],
-        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
-        "accountManager": "angharad@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60317520421"
-    },
-    {
-        "id": 547,
-        "name": "Personhood - Maintenance",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 801,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60267985726"
-    },
-    {
-        "id": 546,
-        "name": "Top Teacher - Webapp v2 - Maintenance",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 800,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60267744656"
-    },
-    {
-        "id": 544,
-        "name": "CT Freight - Client Portal (Webapp Only) - Maintenance",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 798,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
-        "accountManager": "gorakh@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60259037275"
-    },
-    {
-        "id": 543,
-        "name": "Howdy Maintenance",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 777,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "prashant@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
-        "accountManager": "angharad@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60177482059"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44018730059",
+        "worklogsTotal": 1807,
+        "totalLoggedHours": 2965.27
     },
     {
         "id": 541,
@@ -5613,7 +5177,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4JLRM",
         "jiraProjectName": "EBP-ENT 4211 Jon Lim Revised MVP",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60108291705"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60108291705",
+        "worklogsTotal": 25,
+        "totalLoggedHours": 37.17
     },
     {
         "id": 540,
@@ -5638,24 +5204,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4ZPISPL",
         "jiraProjectName": "EBP-ENT 4193 Zenu - Pro-invest Stays Pty Ltd",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60019895828"
-    },
-    {
-        "id": 539,
-        "name": "EBP-RFC 3458 To Be Me - RFC3 (Translation & Localisation)",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Wireframe",
-        "planning": [],
-        "engineeringManagerEmail": "karun@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "sabrina@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60081471580"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60019895828",
+        "worklogsTotal": 5,
+        "totalLoggedHours": 8.0
     },
     {
         "id": 536,
@@ -5680,7 +5231,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ER2TTR",
         "jiraProjectName": "ENT-RFC 2056 Top Teacher RFC12",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60019209280"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60019209280",
+        "worklogsTotal": 70,
+        "totalLoggedHours": 100.75
     },
     {
         "id": 535,
@@ -5705,7 +5258,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "BR",
         "jiraProjectName": "Bendooleyestate RFC3",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60019827379"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60019827379",
+        "worklogsTotal": 11,
+        "totalLoggedHours": 26.25
     },
     {
         "id": 534,
@@ -5730,7 +5285,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2S",
         "jiraProjectName": "EBP-CMS 2699 Salima",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59815024420"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59815024420",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 533,
@@ -5755,7 +5312,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4TS",
         "jiraProjectName": "EBP-ENT 4195 Tom Swan",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59369546091"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59369546091",
+        "worklogsTotal": 3,
+        "totalLoggedHours": 3
     },
     {
         "id": 532,
@@ -5780,7 +5339,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "MLDR4RESL",
         "jiraProjectName": "My Leather Doctor - RFC 4 (Resolving Email Storage Limitations)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59449508937"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59449508937",
+        "worklogsTotal": 3,
+        "totalLoggedHours": 3
     },
     {
         "id": 530,
@@ -5805,7 +5366,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4WCCM",
         "jiraProjectName": "EBP-ENT 4198 WedMuse(Vibe Coded + Custom Coded) MVP",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59503427340"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59503427340",
+        "worklogsTotal": 228,
+        "totalLoggedHours": 269.67
     },
     {
         "id": 528,
@@ -5830,7 +5393,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4B",
         "jiraProjectName": "EBP-ENT 4181 Bikemebro",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59275425680"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59275425680",
+        "worklogsTotal": 9,
+        "totalLoggedHours": 15.0
     },
     {
         "id": 527,
@@ -5862,7 +5427,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4N",
         "jiraProjectName": "EBP-ENT 4180 Nimbus Receipt MVP",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59275429508"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59275429508",
+        "worklogsTotal": 6,
+        "totalLoggedHours": 12.25
     },
     {
         "id": 526,
@@ -5887,7 +5454,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4S1HSL",
         "jiraProjectName": "EBP-ENT 4174 Strategy 1 HR Staff Leasing",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58630617613"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58630617613",
+        "worklogsTotal": 32,
+        "totalLoggedHours": 252
     },
     {
         "id": 525,
@@ -5912,7 +5481,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3AIWA",
         "jiraProjectName": "EBP-ENT 3793 A&S Australian Investment - Web App",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58332230489"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58332230489",
+        "worklogsTotal": 1,
+        "totalLoggedHours": 1.5
     },
     {
         "id": 521,
@@ -5937,7 +5508,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "AW",
         "jiraProjectName": "EBP - AI Workflow",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58798409133"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58798409133",
+        "worklogsTotal": 362,
+        "totalLoggedHours": 1147.75
     },
     {
         "id": 520,
@@ -5962,7 +5535,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EEHR",
         "jiraProjectName": "EBP-ENT Howdy RFC",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58006388804"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58006388804",
+        "worklogsTotal": 125,
+        "totalLoggedHours": 253.0
     },
     {
         "id": 516,
@@ -5987,7 +5562,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2MWR",
         "jiraProjectName": "EBP-CMS 2692 MyComms Website Refresh",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58197737387"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58197737387",
+        "worklogsTotal": 13,
+        "totalLoggedHours": 39.75
     },
     {
         "id": 514,
@@ -6012,7 +5589,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4MM",
         "jiraProjectName": "EBP-ENT 4150 Mate Money",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58134717831"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58134717831",
+        "worklogsTotal": 17,
+        "totalLoggedHours": 28.75
     },
     {
         "id": 513,
@@ -6037,7 +5616,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "IA",
         "jiraProjectName": "Inferent Analyst",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58025357203"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58025357203",
+        "worklogsTotal": 64,
+        "totalLoggedHours": 213.25
     },
     {
         "id": 501,
@@ -6062,7 +5643,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EP1AP",
         "jiraProjectName": "EBP-PROTO 1464 Ampd Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/57938951526"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/57938951526",
+        "worklogsTotal": 25,
+        "totalLoggedHours": 58.25
     },
     {
         "id": 488,
@@ -6087,7 +5670,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EWT",
         "jiraProjectName": "EB Workforce Tool",
-        "hubSpotProjectLink": null
+        "hubSpotProjectLink": null,
+        "worklogsTotal": 816,
+        "totalLoggedHours": 2422.47
     },
     {
         "id": 485,
@@ -6112,57 +5697,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ER1RR",
         "jiraProjectName": "ENT-RFC-1431-RelloPay RFC1",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/56537694639"
-    },
-    {
-        "id": 483,
-        "name": "Squad Lead Task",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": null,
-        "status": "initiating",
-        "planning": [
-            {
-                "id": 388,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": false,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "bikash@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": null,
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": null
-    },
-    {
-        "id": 482,
-        "name": "SEST",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 385,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": null,
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/56460943891"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/56537694639",
+        "worklogsTotal": 452,
+        "totalLoggedHours": 892.53
     },
     {
         "id": 481,
@@ -6187,7 +5724,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3SWV",
         "jiraProjectName": "EBP-ENT 3683 Stockman's Wallet - V2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/56611204611"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/56611204611",
+        "worklogsTotal": 19,
+        "totalLoggedHours": 28.66
     },
     {
         "id": 480,
@@ -6212,7 +5751,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "REG",
         "jiraProjectName": "REGAS",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/56484928645"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/56484928645",
+        "worklogsTotal": 71,
+        "totalLoggedHours": 134.0
     },
     {
         "id": 479,
@@ -6237,7 +5778,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ER2ISR",
         "jiraProjectName": "ENT-RFC 2055 Isaac Server Restructuring RFC",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/56481750282"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/56481750282",
+        "worklogsTotal": 58,
+        "totalLoggedHours": 126.92
     },
     {
         "id": 476,
@@ -6262,32 +5805,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3FV",
         "jiraProjectName": "EBP-ENT 3753 FlyBright v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/55583618906"
-    },
-    {
-        "id": 469,
-        "name": "Ebtheme",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 357,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "bikash@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/55881979797"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/55583618906",
+        "worklogsTotal": 62,
+        "totalLoggedHours": 77.00000000000001
     },
     {
         "id": 462,
@@ -6312,7 +5832,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ES1DEL",
         "jiraProjectName": "EBP-STAFF 1469 DDEG ERP Staff Leasing",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/55428967076"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/55428967076",
+        "worklogsTotal": 3895,
+        "totalLoggedHours": 6167.38
     },
     {
         "id": 461,
@@ -6337,7 +5859,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ITS",
         "jiraProjectName": "IT Board",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/55475355487"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/55475355487",
+        "worklogsTotal": 3048,
+        "totalLoggedHours": 3126.7999999999997
     },
     {
         "id": 459,
@@ -6362,7 +5886,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EPHW",
         "jiraProjectName": "EB Pearls - HubSpot website",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/55031431431"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/55031431431",
+        "worklogsTotal": 415,
+        "totalLoggedHours": 1264.07
     },
     {
         "id": 457,
@@ -6387,7 +5913,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3PV",
         "jiraProjectName": "EBP-ENT 3930 Peoples Voice",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/47112760382"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/47112760382",
+        "worklogsTotal": 11,
+        "totalLoggedHours": 14.28
     },
     {
         "id": 453,
@@ -6412,7 +5940,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ES1SANLP",
         "jiraProjectName": "EBP-STAFF 1471 Shedule AI (Nisha) - Staff Leasing Proposal",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53273424003"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53273424003",
+        "worklogsTotal": 992,
+        "totalLoggedHours": 2138.95
     },
     {
         "id": 364,
@@ -6437,7 +5967,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "POG2",
         "jiraProjectName": "People Ops Goal",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54835667234"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54835667234",
+        "worklogsTotal": 3430,
+        "totalLoggedHours": 5208.05
     },
     {
         "id": 303,
@@ -6462,7 +5994,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4AM",
         "jiraProjectName": "EBP-ENT 4078 AgentSwipe MVP",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54191125877"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54191125877",
+        "worklogsTotal": 195,
+        "totalLoggedHours": 331.03
     },
     {
         "id": 300,
@@ -6487,132 +6021,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4BFP",
         "jiraProjectName": "EBP-ENT 4063 Beare Flooring Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53946436734"
-    },
-    {
-        "id": 294,
-        "name": "Research and Learning New",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 143,
-                "status": "active",
-                "planningStatus": "Review",
-                "resourceApproved": false,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53451356752"
-    },
-    {
-        "id": 293,
-        "name": "QA OKR Goal Task",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 142,
-                "status": "active",
-                "planningStatus": "Review",
-                "resourceApproved": false,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53451295748"
-    },
-    {
-        "id": 274,
-        "name": "OKR Goal",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": null,
-        "status": "initiating",
-        "planning": [
-            {
-                "id": 384,
-                "status": "inactive",
-                "planningStatus": "Draft",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
-        "engineeringManagerEmail": null,
-        "seniorEngineeringManagerEmail": null,
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": null
-    },
-    {
-        "id": 270,
-        "name": "Senior QA Role",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 139,
-                "status": "active",
-                "planningStatus": "Review",
-                "resourceApproved": false,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53284602422"
-    },
-    {
-        "id": 269,
-        "name": "Lead and Support",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 134,
-                "status": "inactive",
-                "planningStatus": "Draft",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
-        "engineeringManagerEmail": "bikash@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "ebsaja2@gmail.com",
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53265151292"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53946436734",
+        "worklogsTotal": 9,
+        "totalLoggedHours": 12.42
     },
     {
         "id": 263,
@@ -6637,7 +6048,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4WAP",
         "jiraProjectName": "EBP-ENT 4051 Workmate App Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51926029699"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51926029699",
+        "worklogsTotal": 18,
+        "totalLoggedHours": 24.79
     },
     {
         "id": 262,
@@ -6662,7 +6075,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "STARTER",
         "jiraProjectName": "Current: STARTER",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52983575041"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52983575041",
+        "worklogsTotal": 117,
+        "totalLoggedHours": 256.5
     },
     {
         "id": 259,
@@ -6687,7 +6102,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3CP",
         "jiraProjectName": "EBP-ENT 3693 CBMFG Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44782693983"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44782693983",
+        "worklogsTotal": 100,
+        "totalLoggedHours": 230.4
     },
     {
         "id": 257,
@@ -6712,7 +6129,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2BCP",
         "jiraProjectName": "EBP-CMS 2403 Blkdot Client Portal",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52960020853"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52960020853",
+        "worklogsTotal": 548,
+        "totalLoggedHours": 858.99
     },
     {
         "id": 255,
@@ -6737,32 +6156,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "MH",
         "jiraProjectName": "Miscellaneous Hours",
-        "hubSpotProjectLink": null
-    },
-    {
-        "id": 253,
-        "name": "CMS Maintenance",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 114,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52556945181"
+        "hubSpotProjectLink": null,
+        "worklogsTotal": 101142,
+        "totalLoggedHours": 24858.67
     },
     {
         "id": 248,
@@ -6787,82 +6183,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "HONEYPOT",
         "jiraProjectName": "EBP-ENT 2583 Honeypot",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52900859943"
-    },
-    {
-        "id": 245,
-        "name": "CT Freight (QC App) maintenance",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Development",
-        "planning": [
-            {
-                "id": 111,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52901230868"
-    },
-    {
-        "id": 238,
-        "name": "Cordouan Health ( Maintenance )",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 102,
-                "status": "inactive",
-                "planningStatus": "Draft",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
-        "engineeringManagerEmail": null,
-        "seniorEngineeringManagerEmail": null,
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54476634373"
-    },
-    {
-        "id": 237,
-        "name": "All Pumps ( Maintenance)",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 101,
-                "status": "inactive",
-                "planningStatus": "Draft",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
-        "engineeringManagerEmail": null,
-        "seniorEngineeringManagerEmail": null,
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54420950960"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52900859943",
+        "worklogsTotal": 2,
+        "totalLoggedHours": 2
     },
     {
         "id": 234,
@@ -6887,7 +6210,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EP",
         "jiraProjectName": "EB Portals",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52091221174"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52091221174",
+        "worklogsTotal": 1117,
+        "totalLoggedHours": 2640.17
     },
     {
         "id": 232,
@@ -6912,32 +6237,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EBPLANNER",
         "jiraProjectName": "EB Planner - Internal project",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52077148280"
-    },
-    {
-        "id": 221,
-        "name": "One Wardrobe(Maintenance)",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Development",
-        "planning": [
-            {
-                "id": 824,
-                "status": "inactive",
-                "planningStatus": "InProgress",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
-        "engineeringManagerEmail": "ray@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "binisha@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52901230994"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52077148280",
+        "worklogsTotal": 4574,
+        "totalLoggedHours": 7945.43
     },
     {
         "id": 217,
@@ -6962,7 +6264,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3MRMV",
         "jiraProjectName": "EBP-ENT 3922 Mustr Racing MVP v3",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43465213555"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43465213555",
+        "worklogsTotal": 83,
+        "totalLoggedHours": 119.18
     },
     {
         "id": 216,
@@ -6987,7 +6291,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3SUMA",
         "jiraProjectName": "EBP-ENT 3785 Stay Upright Mobile App",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39214545297"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39214545297",
+        "worklogsTotal": 2648,
+        "totalLoggedHours": 4888.370000000001
     },
     {
         "id": 213,
@@ -7012,7 +6318,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4CMP",
         "jiraProjectName": "EBP-ENT 4025 Coach Merv Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51829979828"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51829979828",
+        "worklogsTotal": 39,
+        "totalLoggedHours": 51.08
     },
     {
         "id": 203,
@@ -7037,7 +6345,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "MYBOS",
         "jiraProjectName": "MyBOS",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51663133441"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51663133441",
+        "worklogsTotal": 3272,
+        "totalLoggedHours": 12013.88
     },
     {
         "id": 202,
@@ -7062,7 +6372,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4TMWT",
         "jiraProjectName": "EBP-ENT 4007 ToBeMe (Mobile and Webapp) - Tom",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51613184848"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51613184848",
+        "worklogsTotal": 535,
+        "totalLoggedHours": 861.84
     },
     {
         "id": 198,
@@ -7087,7 +6399,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "STRNTS",
         "jiraProjectName": "Estraints",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51151575397"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51151575397",
+        "worklogsTotal": 370,
+        "totalLoggedHours": 949.06
     },
     {
         "id": 193,
@@ -7112,7 +6426,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3GMS",
         "jiraProjectName": "EBP-ENT 3014 Glucose Management Software",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43880259334"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43880259334",
+        "worklogsTotal": 2255,
+        "totalLoggedHours": 3425.17
     },
     {
         "id": 185,
@@ -7137,7 +6453,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3TAV",
         "jiraProjectName": "EBP-ENT 3679 Telehealth App v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/38708296724"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/38708296724",
+        "worklogsTotal": 258,
+        "totalLoggedHours": 506.18
     },
     {
         "id": 180,
@@ -7162,7 +6480,9 @@
         "codaRetroDocId": "Ynvb-1K10g",
         "jiraProjectKey": "EE4ACAWFDV",
         "jiraProjectName": "EBP-ENT 4000 Australian Campdraft Association (Wordpress) Full Development v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/49723955007"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/49723955007",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 174,
@@ -7194,7 +6514,9 @@
         "codaRetroDocId": "26uiXanopW",
         "jiraProjectKey": "EE4PH",
         "jiraProjectName": "EBP-ENT 4012 Parent Hub",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/49320883468"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/49320883468",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 166,
@@ -7219,7 +6541,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4SV",
         "jiraProjectName": "EBP-ENT 4006 Syncra v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/48713649738"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/48713649738",
+        "worklogsTotal": 125,
+        "totalLoggedHours": 245.3
     },
     {
         "id": 160,
@@ -7244,7 +6568,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "WL3999",
         "jiraProjectName": "EBP-ENT 3999 EFS Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/47831611457"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/47831611457",
+        "worklogsTotal": 1,
+        "totalLoggedHours": 1.25
     },
     {
         "id": 157,
@@ -7269,7 +6595,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ES1EL",
         "jiraProjectName": "EBP-STAFF 1462 EFS Staff Leasing",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/47471847027"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/47471847027",
+        "worklogsTotal": 45,
+        "totalLoggedHours": 104.0
     },
     {
         "id": 153,
@@ -7294,7 +6622,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "STF",
         "jiraProjectName": "EBP-STAFF 1461 DDEG Staff Leasing",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/46740601963"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/46740601963",
+        "worklogsTotal": 913,
+        "totalLoggedHours": 2050.1800000000003
     },
     {
         "id": 148,
@@ -7319,7 +6649,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ER2MLDRBFC",
         "jiraProjectName": "ENT-RFC 2060 My Leather Doctor RFC3 (Bugs Fixing and Code Audit) v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53180979088"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53180979088",
+        "worklogsTotal": 81,
+        "totalLoggedHours": 312.24
     },
     {
         "id": 147,
@@ -7336,7 +6668,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC3EBA",
         "jiraProjectName": "EBP-CMS 3435  Ellar Boutique API",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/46110331828"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/46110331828",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 143,
@@ -7361,7 +6695,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "NB3963",
         "jiraProjectName": "EBP-ENT 3963 Associated Cleaning App",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/45765926437"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/45765926437",
+        "worklogsTotal": 902,
+        "totalLoggedHours": 1137.67
     },
     {
         "id": 141,
@@ -7386,7 +6722,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2WTB",
         "jiraProjectName": "EBP-CMS 2655 Wingspan - Theme Based",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/45777397931"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/45777397931",
+        "worklogsTotal": 13,
+        "totalLoggedHours": 19.75
     },
     {
         "id": 138,
@@ -7411,7 +6749,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3KT",
         "jiraProjectName": "EBP-ENT 3918 KKW Trucks",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/45344443463"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/45344443463",
+        "worklogsTotal": 80,
+        "totalLoggedHours": 166.13
     },
     {
         "id": 129,
@@ -7436,32 +6776,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3RP",
         "jiraProjectName": "EBP-ENT 3661 Reasy Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44451690800"
-    },
-    {
-        "id": 127,
-        "name": "EBP-ENT 2042 Australian Community Media v2 - Maintenance",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 79,
-                "status": "active",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60267790621"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44451690800",
+        "worklogsTotal": 64,
+        "totalLoggedHours": 117.84
     },
     {
         "id": 123,
@@ -7486,7 +6803,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "RELIABLE",
         "jiraProjectName": "EBP-CMS 2530 Reliable Driving School (Re-development) v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44193158510"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44193158510",
+        "worklogsTotal": 726,
+        "totalLoggedHours": 1241.63
     },
     {
         "id": 114,
@@ -7511,7 +6830,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ER1ANRCP30",
         "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44034434670"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44034434670",
+        "worklogsTotal": 317,
+        "totalLoggedHours": 626.16
     },
     {
         "id": 113,
@@ -7536,7 +6857,9 @@
         "codaRetroDocId": "MJrvE3Gd6m",
         "jiraProjectKey": "EE3CFCPWO",
         "jiraProjectName": "EBP-ENT 3401 CT Freight - Client Portal (Webapp Only)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44074158265"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44074158265",
+        "worklogsTotal": 609,
+        "totalLoggedHours": 1121.8200000000002
     },
     {
         "id": 108,
@@ -7561,7 +6884,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "POGO",
         "jiraProjectName": "EBP-STAFF 1353 Pogozo Staff Leasing v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44074215819"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44074215819",
+        "worklogsTotal": 18615,
+        "totalLoggedHours": 37872.03
     },
     {
         "id": 107,
@@ -7586,7 +6911,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3CV",
         "jiraProjectName": "EBP-ENT 3345 Countdown v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44018730059"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44018730059",
+        "worklogsTotal": 1744,
+        "totalLoggedHours": 2582.1600000000003
     },
     {
         "id": 105,
@@ -7611,7 +6938,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ES1RLA",
         "jiraProjectName": "EBP-STAFF 1431 Rello - Staff Leasing Agreement",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43948587178"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43948587178",
+        "worklogsTotal": 33,
+        "totalLoggedHours": 253
     },
     {
         "id": 103,
@@ -7636,7 +6965,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "TPV",
         "jiraProjectName": "Tills Payment v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44074152243"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44074152243",
+        "worklogsTotal": 8464,
+        "totalLoggedHours": 46957.72000000001
     },
     {
         "id": 101,
@@ -7661,7 +6992,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ES1SPGSLV",
         "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44018164780"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44018164780",
+        "worklogsTotal": 3146,
+        "totalLoggedHours": 9148.51
     },
     {
         "id": 98,
@@ -7686,7 +7019,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3HW",
         "jiraProjectName": "EBP-ENT 3573 Honeypot (Webapp)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44037921314"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44037921314",
+        "worklogsTotal": 34,
+        "totalLoggedHours": 97.59
     },
     {
         "id": 97,
@@ -7711,7 +7046,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3APPP",
         "jiraProjectName": "EBP-ENT 3625 Aesthetic Practitioner Platform Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44039198388"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44039198388",
+        "worklogsTotal": 32,
+        "totalLoggedHours": 20.17
     },
     {
         "id": 72,
@@ -7736,7 +7073,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3DAR",
         "jiraProjectName": "EBP-ENT 3358 Doubleguard App RFC1",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43877005386"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43877005386",
+        "worklogsTotal": 3986,
+        "totalLoggedHours": 8579.64
     },
     {
         "id": 68,
@@ -7761,7 +7100,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "PEAR2",
         "jiraProjectName": "EBP-ENT 3812 PEAR v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43820295062"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43820295062",
+        "worklogsTotal": 1842,
+        "totalLoggedHours": 3139.1099999999997
     },
     {
         "id": 60,
@@ -7786,7 +7127,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE2TTMWAV",
         "jiraProjectName": "EBP-ENT 2981 TalkNow Telehealth (Mobile + Web App) v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43739945827"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43739945827",
+        "worklogsTotal": 273,
+        "totalLoggedHours": 574.6899999999999
     },
     {
         "id": 59,
@@ -7811,7 +7154,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3BVS",
         "jiraProjectName": "EBP-ENT 3364 Borroway v3 (Supabase)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43739912545"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43739912545",
+        "worklogsTotal": 0,
+        "totalLoggedHours": 0
     },
     {
         "id": 55,
@@ -7836,7 +7181,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2RD",
         "jiraProjectName": "EBP-CMS 2659 Rogue Dahlia",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43597097759"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43597097759",
+        "worklogsTotal": 362,
+        "totalLoggedHours": 535.6700000000001
     },
     {
         "id": 52,
@@ -7861,7 +7208,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "ES1VLV",
         "jiraProjectName": "EBP-STAFF 1459 Vinobid Staff Lease v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43451514990"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43451514990",
+        "worklogsTotal": 621,
+        "totalLoggedHours": 1840.35
     },
     {
         "id": 49,
@@ -7886,7 +7235,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3H",
         "jiraProjectName": "EBP-ENT 3747 HAPPS",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/38678659632"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/38678659632",
+        "worklogsTotal": 3137,
+        "totalLoggedHours": 5193.72
     },
     {
         "id": 43,
@@ -7911,7 +7262,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3FAP",
         "jiraProjectName": "EBP-ENT 3867 Fashion AI Prototype",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/42940604782"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/42940604782",
+        "worklogsTotal": 6,
+        "totalLoggedHours": 2.33
     },
     {
         "id": 31,
@@ -7936,7 +7289,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EC2B",
         "jiraProjectName": "EBP-CMS 2592 BatesHolmes",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/41902808873"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/41902808873",
+        "worklogsTotal": 39,
+        "totalLoggedHours": 25.44
     },
     {
         "id": 26,
@@ -7968,7 +7323,9 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3CA",
         "jiraProjectName": "EBP-ENT 3837 Community Alert",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/41520525375"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/41520525375",
+        "worklogsTotal": 97,
+        "totalLoggedHours": 109.87
     },
     {
         "id": 6,
@@ -7993,6 +7350,8 @@
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3W",
         "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39987693885"
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39987693885",
+        "worklogsTotal": 998,
+        "totalLoggedHours": 1174.78
     }
 ]

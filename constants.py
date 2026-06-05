@@ -3,7 +3,7 @@
 API_URL = "https://ebplanner-api.ebpearls.com/api"
 
 # Replace with your actual token
-API_TOKEN = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImVtYWlsIjoiYmlrYXNoQGVicGVhcmxzLmNvbS5hdSIsInV1aWQiOiIyYWE1ZDg3OC0yNTY2LTQzZTgtYmRkZS03ZGU4NTQzYjQyNTIiLCJpYXQiOjE3Nzk4NTQ2NjAsImV4cCI6MTc3OTk0MTA2MH0.n30r0QjDYc5ynrm0JJg7pdA8da1yFQNVdUy9V1A6sCs"
+API_TOKEN = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImVtYWlsIjoiYmlrYXNoQGVicGVhcmxzLmNvbS5hdSIsInV1aWQiOiJmNDY2NGFmZC1kZmMyLTRmOWYtOGM3Ny1kNTQ3NWRmNzNlMDciLCJpYXQiOjE3ODA2MzQxNzUsImV4cCI6MTc4MDcyMDU3NX0.D_fNT1aZZ1lQXhzmvzvX8Nf8AlqNFqsGXY4HzUonqoQ"
 
 HEADERS = {
     "Content-Type": "application/json",

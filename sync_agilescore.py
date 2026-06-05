@@ -8,8 +8,8 @@ import constants
 # 1. Configuration
 URL = constants.API_URL
 FROM_DATE = "2021-01-01"
-INPUT_FILE = "sync_errors_filtered.json"       # Your input file containing the array of projects
-OUTPUT_FILE = "sync_results2.json"  # File where sync results will be saved
+INPUT_FILE = "sync_errors.json"       # Your input file containing the array of projects
+OUTPUT_FILE = "sync_results1.json"  # File where sync results will be saved
 
 HEADERS = {
     "Content-Type": "application/json",
@@ -50,8 +50,8 @@ def run_automation_workflow():
     print("🎯 Syncing all items...\n")
 
     for project in target_projects:
-        project_id = project["projectId"]
-        project_name = project["projectName"]
+        project_id = project["id"]
+        project_name = project["name"]
         
         print(f"--- Syncing: {project_name} (ID: {project_id}) ---")
         
@@ -79,9 +79,9 @@ def run_automation_workflow():
 
         # Construct log entry with just the sync result info
         log_entry = {
-            "projectId": project_id,
-            "projectName": project_name,
-            "projectStatus": project.get("projectStatus"),
+            "id": project_id,
+            "name": project_name,
+            "status": project.get("projectStatus"),
             "sync_message": sync_message,
             "timestamp": time.strftime("%Y-%m-%d %H:%M:%S")
         }

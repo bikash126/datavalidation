@@ -1,55 +1,5 @@
 [
     {
-        "id": 566,
-        "name": "Zenu - Website",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Done",
-        "planning": [
-            {
-                "id": 854,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/51896378189"
-    },
-    {
-        "id": 565,
-        "name": "Massage Booker - Maintenance Booking",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Completed",
-        "planning": [
-            {
-                "id": 852,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54338276388"
-    },
-    {
         "id": 531,
         "name": "CT Freight Webapp - eAdaptor Next",
         "isArchive": false,
@@ -100,74 +50,24 @@
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59545419906"
     },
     {
-        "id": 524,
-        "name": "ACM RFC - Braze Integration",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Final Budget Approval",
-        "planning": [
-            {
-                "id": 761,
-                "status": "active",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
-        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": "ARBSI",
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59081993770"
-    },
-    {
-        "id": 522,
-        "name": "EBP-ENT 4020 Baztel Code Audit (Phase 2)",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Development",
-        "planning": [
-            {
-                "id": 802,
-                "status": "active",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Review"
-            }
-        ],
-        "engineeringManagerEmail": "ray@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": "EE4BCA",
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58888843400"
-    },
-    {
         "id": 519,
         "name": "EBP-PROTO 1467 OptiCoach Prototype",
         "isArchive": false,
         "projecType": "REGULAR",
         "developmentStatus": "Active",
-        "status": "Done",
+        "status": "Kick Off Workshop",
         "planning": [
             {
                 "id": 818,
                 "status": "active",
-                "planningStatus": "InProgress",
+                "planningStatus": "Draft",
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
         ],
-        "engineeringManagerEmail": "prashant@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
-        "accountManager": "eoin@ebpearls.com.au",
+        "engineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": null,
         "codaDocId": null,
         "codaRetroDocId": null,
         "jiraProjectKey": "EP1OP",
@@ -181,15 +81,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Done",
-        "planning": [
-            {
-                "id": 850,
-                "status": "active",
-                "planningStatus": "InProgress",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
+        "planning": [],
         "engineeringManagerEmail": "prashant@ebpearls.com.au",
         "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
         "accountManager": "eoin@ebpearls.com.au",
@@ -209,7 +101,7 @@
         "planning": [
             {
                 "id": 819,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Draft",
                 "resourceApproved": false,
                 "requestReviewCategory": null
@@ -330,19 +222,19 @@
         "isArchive": false,
         "projecType": "REGULAR",
         "developmentStatus": "Active",
-        "status": "Done",
+        "status": "Wireframe",
         "planning": [
             {
                 "id": 820,
-                "status": "active",
-                "planningStatus": "InProgress",
+                "status": "inactive",
+                "planningStatus": "Draft",
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
         ],
         "engineeringManagerEmail": "karun@ebpearls.com.au",
         "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "eoin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
         "codaDocId": null,
         "codaRetroDocId": null,
         "jiraProjectKey": "EE3DTP",
@@ -1043,7 +935,7 @@
         "planning": [
             {
                 "id": 271,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Draft",
                 "resourceApproved": false,
                 "requestReviewCategory": null
@@ -3458,31 +3350,6 @@
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/54290692620"
     },
     {
-        "id": 290,
-        "name": "EBP-CMS 3484 Massage Booker",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Wireframe - Approved and Design Started",
-        "planning": [
-            {
-                "id": 836,
-                "status": "active",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Consider"
-            }
-        ],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": "EE3MBV",
-        "jiraProjectName": "EBP-ENT 3198 Massage Booker v2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53414830886"
-    },
-    {
         "id": 288,
         "name": "CMS-RFC 3384 EL Toro v2 RFC1",
         "isArchive": false,
@@ -3690,31 +3557,6 @@
         "jiraProjectKey": null,
         "jiraProjectName": "EBP-ENT 3396 YCP",
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52817174191"
-    },
-    {
-        "id": 242,
-        "name": "ENT-RFC 1804 Cordouan Health RFC2",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Development",
-        "planning": [
-            {
-                "id": 434,
-                "status": "active",
-                "planningStatus": "Approved",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "karun@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": "ER1CHR",
-        "jiraProjectName": "ENT-RFC 1804 Cordouan Health RFC2",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44037928016"
     },
     {
         "id": 241,
@@ -4633,6 +4475,13 @@
                 "planningStatus": "Approved",
                 "resourceApproved": false,
                 "requestReviewCategory": "Plan_Review"
+            },
+            {
+                "id": 700,
+                "status": "inactive",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
             }
         ],
         "engineeringManagerEmail": "sunil@ebpearls.com.au",
@@ -4782,7 +4631,7 @@
         "isArchive": false,
         "projecType": "REGULAR",
         "developmentStatus": "Active",
-        "status": "Done",
+        "status": "Live/30-day Support",
         "planning": [
             {
                 "id": 394,
@@ -4799,12 +4648,12 @@
                 "requestReviewCategory": "Resource_Booking_Only"
             }
         ],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "engineeringManagerEmail": "anima@ebpearls.com.au",
         "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
         "accountManager": "sabrina@ebpearls.com.au",
         "codaDocId": null,
         "codaRetroDocId": null,
-        "jiraProjectKey": null,
+        "jiraProjectKey": "BEAUTYG",
         "jiraProjectName": "EBP-ENT 3500 Beauty Grail WebApp",
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43708890461"
     },
@@ -4995,31 +4844,6 @@
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39915661351"
     },
     {
-        "id": 3,
-        "name": "EBP-ENT 3827 DDEG Phase 1",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Design - Approved and SRS Initiated",
-        "planning": [
-            {
-                "id": 837,
-                "status": "active",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "nabin@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
-        "accountManager": "sabrina@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": "EE3DP1",
-        "jiraProjectName": "EBP-ENT 3827 DDEG Phase 1",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39883240050"
-    },
-    {
         "id": 2,
         "name": "ENT-RFC 1896 Copost Pen testing",
         "isArchive": false,
@@ -5037,259 +4861,6 @@
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39791796552"
     },
     {
-        "id": 576,
-        "name": "CMS-RFC 3351 Massage Booker v2 RFC9",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Wireframe",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60877632279"
-    },
-    {
-        "id": 575,
-        "name": "CMS-RFC 3311 Massage Booker v2 RFC8",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60877632171"
-    },
-    {
-        "id": 574,
-        "name": "CMS-RFC 3288 Massage Booker v2 RFC6",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60873509962"
-    },
-    {
-        "id": 573,
-        "name": "EBP-ENT 3993 My Leather Doctor CI/CD Setup - OSCA",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [],
-        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60877633183"
-    },
-    {
-        "id": 572,
-        "name": "CMS-RFC 3272 Massage Booker v2 RFC5 v2",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Kick Off Workshop",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60873509423"
-    },
-    {
-        "id": 571,
-        "name": "CMS-RFC 3271 Massage Booker v2 RFC4 v2",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [],
-        "engineeringManagerEmail": null,
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60877632094"
-    },
-    {
-        "id": 570,
-        "name": "EBP-ENT 3285 Massage Booker v2 RFC3",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Kick Off Workshop",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60873505936"
-    },
-    {
-        "id": 569,
-        "name": "EBP-ENT 3251 Massage Booker v2 RFC1",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "nijen@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60873504842"
-    },
-    {
-        "id": 568,
-        "name": "EBP-ENT 4020 Baztel Code Audit - Phase 3",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Project approved",
-        "planning": [
-            {
-                "id": 871,
-                "status": "inactive",
-                "planningStatus": "Draft",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
-        "engineeringManagerEmail": "ray@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": "ER3BCARPI",
-        "jiraProjectName": "EBP-RFC 3482 Baztel Code Audit RFC5 (Phase III)",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60873506679"
-    },
-    {
-        "id": 567,
-        "name": "Eb Website",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": null,
-        "status": "initiating",
-        "planning": [
-            {
-                "id": 866,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": null,
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": "TES",
-        "jiraProjectName": "EBplanner Test Project",
-        "hubSpotProjectLink": null
-    },
-    {
-        "id": 564,
-        "name": "EBP-ENT 4191 Minetek QA Software Project",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Wireframe",
-        "planning": [],
-        "engineeringManagerEmail": "karun@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "sabrina@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60259034439"
-    },
-    {
-        "id": 563,
-        "name": "WUNA - Maintenance Booking only",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": null,
-        "status": "initiating",
-        "planning": [
-            {
-                "id": 846,
-                "status": "inactive",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": null,
-        "accountManager": null,
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": null,
-        "jiraProjectName": null,
-        "hubSpotProjectLink": null
-    },
-    {
-        "id": 561,
-        "name": "EBP-ENT 4125 Silent Sale",
-        "isArchive": false,
-        "projecType": "REGULAR",
-        "developmentStatus": "Active",
-        "status": "Wireframe",
-        "planning": [
-            {
-                "id": 844,
-                "status": "active",
-                "planningStatus": "InProgress",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
-        "engineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
-        "accountManager": "sabrina@ebpearls.com.au",
-        "codaDocId": null,
-        "codaRetroDocId": null,
-        "jiraProjectKey": "EE4SS",
-        "jiraProjectName": "EBP-ENT 4125 Silent Sale",
-        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60524853143"
-    },
-    {
         "id": 560,
         "name": "EBP-ENT 3098 Allied Health Directory (maintenance)",
         "isArchive": false,
@@ -5299,7 +4870,7 @@
         "planning": [
             {
                 "id": 832,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "InProgress",
                 "resourceApproved": false,
                 "requestReviewCategory": null
@@ -5322,13 +4893,13 @@
         "developmentStatus": "Active",
         "status": "Kick Off Workshop",
         "planning": [],
-        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "engineeringManagerEmail": "rupesh@ebpearls.com.au",
         "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
         "accountManager": "angharad@ebpearls.com.au",
         "codaDocId": null,
         "codaRetroDocId": null,
-        "jiraProjectKey": "EC2ECWRH",
-        "jiraProjectName": "EBP-CMS 2687 Empax Centre Website Revamp (Headless)",
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60524920080"
     },
     {
@@ -5344,9 +4915,26 @@
         "accountManager": "eoin@ebpearls.com.au",
         "codaDocId": null,
         "codaRetroDocId": null,
-        "jiraProjectKey": "EA1TCRT",
-        "jiraProjectName": "EBP-AUDIT 1228 Tipflo Code Audit - Revised Terms",
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60524935574"
+    },
+    {
+        "id": 557,
+        "name": "EBP-RFC 3455 Bendooleyestate RFC2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Kick Off Workshop",
+        "planning": [],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60424017734"
     },
     {
         "id": 555,
@@ -5479,7 +5067,7 @@
         "isArchive": false,
         "projecType": "REGULAR",
         "developmentStatus": "Active",
-        "status": "Design - Approved and SRS Initiated",
+        "status": "Project approved",
         "planning": [],
         "engineeringManagerEmail": "gorakh@ebpearls.com.au",
         "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
@@ -5601,9 +5189,9 @@
             {
                 "id": 775,
                 "status": "active",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
             }
         ],
         "engineeringManagerEmail": "gorakh@ebpearls.com.au",
@@ -5611,8 +5199,8 @@
         "accountManager": "nijen@ebpearls.com.au",
         "codaDocId": null,
         "codaRetroDocId": null,
-        "jiraProjectKey": "EE4JLRM",
-        "jiraProjectName": "EBP-ENT 4211 Jon Lim Revised MVP",
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/60108291705"
     },
     {
@@ -5625,7 +5213,7 @@
         "planning": [
             {
                 "id": 806,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -5739,15 +5327,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Wireframe",
-        "planning": [
-            {
-                "id": 851,
-                "status": "active",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
+        "planning": [],
         "engineeringManagerEmail": "sunil@ebpearls.com.au",
         "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
         "accountManager": "nijen@ebpearls.com.au",
@@ -5791,10 +5371,10 @@
         "status": "Wireframe",
         "planning": [
             {
-                "id": 863,
+                "id": 838,
                 "status": "active",
                 "planningStatus": "Approved",
-                "resourceApproved": false,
+                "resourceApproved": true,
                 "requestReviewCategory": "Plan_Review"
             }
         ],
@@ -5817,10 +5397,10 @@
         "planning": [
             {
                 "id": 823,
-                "status": "active",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
+                "status": "inactive",
+                "planningStatus": "Draft",
+                "resourceApproved": false,
+                "requestReviewCategory": null
             }
         ],
         "engineeringManagerEmail": "nabin@ebpearls.com.au",
@@ -5842,7 +5422,7 @@
         "planning": [
             {
                 "id": 751,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Draft",
                 "resourceApproved": false,
                 "requestReviewCategory": null
@@ -5874,7 +5454,7 @@
         "planning": [
             {
                 "id": 750,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -5899,7 +5479,7 @@
         "planning": [
             {
                 "id": 833,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Draft",
                 "resourceApproved": false,
                 "requestReviewCategory": null
@@ -5915,6 +5495,56 @@
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58332230489"
     },
     {
+        "id": 524,
+        "name": "ACM RFC - Braze Integration",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Final Budget Approval",
+        "planning": [
+            {
+                "id": 761,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": null
+            }
+        ],
+        "engineeringManagerEmail": "gorakh@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": "ARBSI",
+        "jiraProjectName": null,
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/59081993770"
+    },
+    {
+        "id": 522,
+        "name": "EBP-ENT 4020 Baztel Code Audit (Phase 2)",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 802,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Review"
+            }
+        ],
+        "engineeringManagerEmail": "ray@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": "EE4BCA",
+        "jiraProjectName": null,
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/58888843400"
+    },
+    {
         "id": 521,
         "name": "AI Workflow",
         "isArchive": false,
@@ -5924,7 +5554,7 @@
         "planning": [
             {
                 "id": 675,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -5974,7 +5604,7 @@
         "planning": [
             {
                 "id": 708,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -5999,14 +5629,14 @@
         "planning": [
             {
                 "id": 718,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
         ],
         "engineeringManagerEmail": "sweta@ebpearls.com.au",
-        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
         "accountManager": null,
         "codaDocId": null,
         "codaRetroDocId": null,
@@ -6024,7 +5654,7 @@
         "planning": [
             {
                 "id": 671,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -6043,16 +5673,16 @@
         "id": 501,
         "name": "EBP-PROTO 1464 Ampd Prototype",
         "isArchive": false,
-        "projecType": "PROTOTYPE",
+        "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Wireframe - Approved and Design Started",
         "planning": [
             {
                 "id": 687,
-                "status": "active",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
+                "status": "inactive",
+                "planningStatus": "InProgress",
+                "resourceApproved": false,
+                "requestReviewCategory": null
             }
         ],
         "engineeringManagerEmail": "nabin@ebpearls.com.au",
@@ -6126,7 +5756,7 @@
                 "id": 388,
                 "status": "inactive",
                 "planningStatus": "Review",
-                "resourceApproved": false,
+                "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
         ],
@@ -6174,7 +5804,7 @@
         "planning": [
             {
                 "id": 552,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -6185,8 +5815,8 @@
         "accountManager": "sabrina@ebpearls.com.au",
         "codaDocId": null,
         "codaRetroDocId": null,
-        "jiraProjectKey": "EE3SWV",
-        "jiraProjectName": "EBP-ENT 3683 Stockman's Wallet - V2",
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/56611204611"
     },
     {
@@ -6246,15 +5876,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Active",
         "status": "Design - Approved and SRS Initiated",
-        "planning": [
-            {
-                "id": 841,
-                "status": "active",
-                "planningStatus": "Review",
-                "resourceApproved": true,
-                "requestReviewCategory": "Resource_Booking_Only"
-            }
-        ],
+        "planning": [],
         "engineeringManagerEmail": "sunil@ebpearls.com.au",
         "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
         "accountManager": "eoin@ebpearls.com.au",
@@ -6299,7 +5921,7 @@
         "planning": [
             {
                 "id": 352,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -6371,15 +5993,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "On Client Hold",
         "status": "Wireframe",
-        "planning": [
-            {
-                "id": 840,
-                "status": "inactive",
-                "planningStatus": "Draft",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
+        "planning": [],
         "engineeringManagerEmail": "karun@ebpearls.com.au",
         "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
         "accountManager": "nijen@ebpearls.com.au",
@@ -6474,7 +6088,7 @@
         "planning": [
             {
                 "id": 320,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -6488,6 +6102,23 @@
         "jiraProjectKey": "EE4BFP",
         "jiraProjectName": "EBP-ENT 4063 Beare Flooring Prototype",
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53946436734"
+    },
+    {
+        "id": 295,
+        "name": "Research and Learning not needed",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Project approved",
+        "planning": [],
+        "engineeringManagerEmail": "yangjee@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "nikesh@ebpearls.com.au",
+        "accountManager": null,
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": null,
+        "jiraProjectName": null,
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53451356752"
     },
     {
         "id": 294,
@@ -6538,6 +6169,31 @@
         "jiraProjectKey": null,
         "jiraProjectName": null,
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53451295748"
+    },
+    {
+        "id": 290,
+        "name": "EBP-CMS 3484 Massage Booker",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Wireframe - Approved and Design Started",
+        "planning": [
+            {
+                "id": 836,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Plan_Consider"
+            }
+        ],
+        "engineeringManagerEmail": "sunil@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": "EE3MBV",
+        "jiraProjectName": "EBP-ENT 3198 Massage Booker v2",
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/53414830886"
     },
     {
         "id": 274,
@@ -6624,8 +6280,8 @@
         "planning": [
             {
                 "id": 324,
-                "status": "active",
-                "planningStatus": "InProgress",
+                "status": "inactive",
+                "planningStatus": "Draft",
                 "resourceApproved": false,
                 "requestReviewCategory": null
             }
@@ -6674,7 +6330,7 @@
         "planning": [
             {
                 "id": 122,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -6774,7 +6430,7 @@
         "planning": [
             {
                 "id": 112,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -6813,6 +6469,31 @@
         "jiraProjectKey": null,
         "jiraProjectName": null,
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/52901230868"
+    },
+    {
+        "id": 242,
+        "name": "ENT-RFC 1804 Cordouan Health RFC2",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Development",
+        "planning": [
+            {
+                "id": 434,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": true,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "engineeringManagerEmail": "karun@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "rabin@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": "ER1CHR",
+        "jiraProjectName": "ENT-RFC 1804 Cordouan Health RFC2",
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/44037928016"
     },
     {
         "id": 238,
@@ -6949,7 +6630,7 @@
         "planning": [
             {
                 "id": 348,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Draft",
                 "resourceApproved": false,
                 "requestReviewCategory": null
@@ -6973,11 +6654,11 @@
         "status": "Wireframe - Approved and Design Started",
         "planning": [
             {
-                "id": 857,
+                "id": 746,
                 "status": "active",
                 "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Consider"
+                "resourceApproved": true,
+                "requestReviewCategory": "Plan_Review"
             }
         ],
         "engineeringManagerEmail": "prasanna@ebpearls.com.au",
@@ -6999,7 +6680,7 @@
         "planning": [
             {
                 "id": 120,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -7007,7 +6688,7 @@
         ],
         "engineeringManagerEmail": "gorakh@ebpearls.com.au",
         "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
-        "accountManager": "angharad@ebpearls.com.au",
+        "accountManager": "nijen@ebpearls.com.au",
         "codaDocId": null,
         "codaRetroDocId": null,
         "jiraProjectKey": "EE4CMP",
@@ -7024,7 +6705,7 @@
         "planning": [
             {
                 "id": 58,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -7048,9 +6729,9 @@
         "status": "Budget Approval and Project Plan",
         "planning": [
             {
-                "id": 864,
-                "status": "active",
-                "planningStatus": "Approved",
+                "id": 781,
+                "status": "inactive",
+                "planningStatus": "Consider",
                 "resourceApproved": true,
                 "requestReviewCategory": "Plan_Consider"
             }
@@ -7124,9 +6805,9 @@
         "planning": [
             {
                 "id": 17,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
-                "resourceApproved": true,
+                "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
         ],
@@ -7148,7 +6829,7 @@
         "status": "Done",
         "planning": [
             {
-                "id": 862,
+                "id": 748,
                 "status": "active",
                 "planningStatus": "Approved",
                 "resourceApproved": false,
@@ -7160,7 +6841,7 @@
         "accountManager": "eoin@ebpearls.com.au",
         "codaDocId": "hcCZ1wQccU",
         "codaRetroDocId": "Ynvb-1K10g",
-        "jiraProjectKey": "EE4ACAWFDV",
+        "jiraProjectKey": null,
         "jiraProjectName": "EBP-ENT 4000 Australian Campdraft Association (Wordpress) Full Development v2",
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/49723955007"
     },
@@ -7173,25 +6854,25 @@
         "status": "Budget Approval and Project Plan",
         "planning": [
             {
-                "id": 856,
-                "status": "active",
-                "planningStatus": "Approved",
-                "resourceApproved": false,
-                "requestReviewCategory": "Plan_Review"
-            },
-            {
                 "id": 322,
                 "status": "inactive",
                 "planningStatus": "InProgress",
                 "resourceApproved": false,
                 "requestReviewCategory": null
+            },
+            {
+                "id": 60,
+                "status": "active",
+                "planningStatus": "Review",
+                "resourceApproved": true,
+                "requestReviewCategory": "Plan_Review"
             }
         ],
         "engineeringManagerEmail": "prashant@ebpearls.com.au",
         "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
         "accountManager": "binisha@ebpearls.com.au",
         "codaDocId": "c5InzA2NQj",
-        "codaRetroDocId": "26uiXanopW",
+        "codaRetroDocId": null,
         "jiraProjectKey": "EE4PH",
         "jiraProjectName": "EBP-ENT 4012 Parent Hub",
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/49320883468"
@@ -7206,7 +6887,7 @@
         "planning": [
             {
                 "id": 65,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -7225,13 +6906,13 @@
         "id": 160,
         "name": "EBP-ENT 3999 EFS Prototype",
         "isArchive": false,
-        "projecType": "PROTOTYPE",
+        "projecType": "REGULAR",
         "developmentStatus": "On Client Hold",
         "status": "Wireframe",
         "planning": [
             {
                 "id": 103,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -7256,7 +6937,7 @@
         "planning": [
             {
                 "id": 570,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": false,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -7280,9 +6961,9 @@
         "status": "Development",
         "planning": [
             {
-                "id": 848,
-                "status": "active",
-                "planningStatus": "Approved",
+                "id": 415,
+                "status": "inactive",
+                "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
@@ -7373,7 +7054,7 @@
         "planning": [
             {
                 "id": 310,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -7398,7 +7079,7 @@
         "planning": [
             {
                 "id": 330,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -7423,7 +7104,7 @@
         "planning": [
             {
                 "id": 305,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Draft",
                 "resourceApproved": false,
                 "requestReviewCategory": null
@@ -7448,7 +7129,7 @@
         "planning": [
             {
                 "id": 79,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -7547,9 +7228,9 @@
         "status": "Development",
         "planning": [
             {
-                "id": 849,
-                "status": "active",
-                "planningStatus": "Approved",
+                "id": 405,
+                "status": "inactive",
+                "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
@@ -7598,7 +7279,7 @@
         "planning": [
             {
                 "id": 66,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -7629,7 +7310,7 @@
                 "requestReviewCategory": "Resource_Booking_Only"
             }
         ],
-        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "engineeringManagerEmail": "narendra@ebpearls.com.au",
         "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
         "accountManager": "nijen@ebpearls.com.au",
         "codaDocId": "",
@@ -7648,7 +7329,7 @@
         "planning": [
             {
                 "id": 402,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
@@ -7695,15 +7376,7 @@
         "projecType": "REGULAR",
         "developmentStatus": "Terminated",
         "status": "Wireframe",
-        "planning": [
-            {
-                "id": 839,
-                "status": "active",
-                "planningStatus": "Draft",
-                "resourceApproved": false,
-                "requestReviewCategory": null
-            }
-        ],
+        "planning": [],
         "engineeringManagerEmail": "prashant@ebpearls.com.au",
         "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
         "accountManager": "binisha@ebpearls.com.au",
@@ -7798,7 +7471,7 @@
         "planning": [
             {
                 "id": 217,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Draft",
                 "resourceApproved": false,
                 "requestReviewCategory": null
@@ -7809,7 +7482,7 @@
         "accountManager": "nijen@ebpearls.com.au",
         "codaDocId": null,
         "codaRetroDocId": null,
-        "jiraProjectKey": "EE3BVS",
+        "jiraProjectKey": null,
         "jiraProjectName": "EBP-ENT 3364 Borroway v3 (Supabase)",
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/43739912545"
     },
@@ -7848,13 +7521,13 @@
         "planning": [
             {
                 "id": 341,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Review",
                 "resourceApproved": true,
                 "requestReviewCategory": "Resource_Booking_Only"
             }
         ],
-        "engineeringManagerEmail": "prasanna@ebpearls.com.au",
+        "engineeringManagerEmail": "rajeshneupane@ebpearls.com.au",
         "seniorEngineeringManagerEmail": "rupesh@ebpearls.com.au",
         "accountManager": "prasanna@ebpearls.com.au",
         "codaDocId": null,
@@ -7873,7 +7546,7 @@
         "planning": [
             {
                 "id": 31,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "InProgress",
                 "resourceApproved": false,
                 "requestReviewCategory": null
@@ -7898,7 +7571,7 @@
         "planning": [
             {
                 "id": 133,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "Draft",
                 "resourceApproved": false,
                 "requestReviewCategory": null
@@ -7948,7 +7621,7 @@
         "planning": [
             {
                 "id": 147,
-                "status": "active",
+                "status": "inactive",
                 "planningStatus": "InProgress",
                 "resourceApproved": false,
                 "requestReviewCategory": null
@@ -7994,5 +7667,30 @@
         "jiraProjectKey": "EE3W",
         "jiraProjectName": null,
         "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39987693885"
+    },
+    {
+        "id": 3,
+        "name": "EBP-ENT 3827 DDEG Phase 1",
+        "isArchive": false,
+        "projecType": "REGULAR",
+        "developmentStatus": "Active",
+        "status": "Design - Approved and SRS Initiated",
+        "planning": [
+            {
+                "id": 837,
+                "status": "active",
+                "planningStatus": "Approved",
+                "resourceApproved": false,
+                "requestReviewCategory": "Resource_Booking_Only"
+            }
+        ],
+        "engineeringManagerEmail": "nabin@ebpearls.com.au",
+        "seniorEngineeringManagerEmail": "narendra@ebpearls.com.au",
+        "accountManager": "sabrina@ebpearls.com.au",
+        "codaDocId": null,
+        "codaRetroDocId": null,
+        "jiraProjectKey": "EE3DP1",
+        "jiraProjectName": "EBP-ENT 3827 DDEG Phase 1",
+        "hubSpotProjectLink": "https://app.hubspot.com/contacts/1867782/record/0-3/39883240050"
     }
 ]

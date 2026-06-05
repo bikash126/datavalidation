@@ -93,7 +93,7 @@ def fetch_project_worklogs(project_id):
     return {"total": 0, "totalLoggedHours": 0}
 
 def main():
-    with open('combined_projects.json', 'r') as f:
+    with open('combined_projects1_withJira.json', 'r') as f:
         projects = json.load(f)
     updated_projects = []
     for project in projects:

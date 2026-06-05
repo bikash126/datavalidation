@@ -8,7 +8,7 @@ import constants
 # 1. Configuration
 URL = constants.API_URL
 FROM_DATE = "2021-01-01"
-INPUT_FILE = "projects_with_zero_hours.json"       # Your input file containing the array of projects
+INPUT_FILE = "combined_projects_with_worklogs.json"       # Your input file containing the array of projects
 OUTPUT_FILE = "sync_results.json"  # File where sync results will be saved
 
 HEADERS = {
